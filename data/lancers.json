@@ -1165,14 +1165,14 @@
      "name": null,
      "rarity": null,
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S5__C025_CS2927.png",
-     "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C025/CS2927.glb"
+     "model": null
     },
     {
      "code": "CS2923",
      "name": null,
      "rarity": null,
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S5__C025_CS2923.png",
-     "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C025/CS2923.glb"
+     "model": null
     }
    ]
   },
