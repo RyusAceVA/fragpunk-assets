@@ -1816,12 +1816,6 @@
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin__W001_WS3066.png"
     },
     {
-     "code": "WS3067",
-     "name": null,
-     "rarity": null,
-     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S2__W001_WS3067.png"
-    },
-    {
      "code": "WS3072",
      "name": null,
      "rarity": null,
@@ -2283,6 +2277,12 @@
      "name": null,
      "rarity": null,
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S4__W002_WS4999.png"
+    },
+    {
+     "code": "WS3067",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S2__W001_WS3067.png"
     }
    ]
   },
