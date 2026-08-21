@@ -11675,5 +11675,107 @@
    "id": "ZhuBoMiao",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard01__Card_ZhuBoMiao.png"
   }
+ ],
+ "ranks": [
+  {
+   "id": "Rank_Classic_1",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank_Classic_1.png"
+  },
+  {
+   "id": "Rank_Classic_2",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank_Classic_2.png"
+  },
+  {
+   "id": "Rank_Classic_3",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank_Classic_3.png"
+  },
+  {
+   "id": "Rank_Classic_4",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank_Classic_4.png"
+  },
+  {
+   "id": "Rank_Head_6",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank_Head_6.png"
+  },
+  {
+   "id": "Rank_Head_7",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank_Head_7.png"
+  },
+  {
+   "id": "Rank0",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank0.png"
+  },
+  {
+   "id": "Rank00",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank00.png"
+  },
+  {
+   "id": "Rank01",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank01.png"
+  },
+  {
+   "id": "Rank1",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank1.png"
+  },
+  {
+   "id": "Rank02",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank02.png"
+  },
+  {
+   "id": "Rank2",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank2.png"
+  },
+  {
+   "id": "Rank03",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank03.png"
+  },
+  {
+   "id": "Rank3",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank3.png"
+  },
+  {
+   "id": "Rank04",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank04.png"
+  },
+  {
+   "id": "Rank4",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank4.png"
+  },
+  {
+   "id": "Rank06",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank06.png"
+  },
+  {
+   "id": "Rank6",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank6.png"
+  },
+  {
+   "id": "Rank07",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank07.png"
+  },
+  {
+   "id": "Rank7",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank7.png"
+  },
+  {
+   "id": "Rank08",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank08.png"
+  },
+  {
+   "id": "Rank8",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank8.png"
+  },
+  {
+   "id": "Rank09",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank09.png"
+  },
+  {
+   "id": "Rank9",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__Rank9.png"
+  },
+  {
+   "id": "RankRec",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/ranks/Icon_Rank__RankRec.png"
+  }
  ]
 }

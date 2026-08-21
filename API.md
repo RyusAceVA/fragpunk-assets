@@ -65,13 +65,17 @@ Notes :
   "armwear":  [ { "id": "C008_SS011", "icon": "https://...png" } ],
   "stickers": [ { "id": "ST386A", "icon": "https://...png" } ],
   "avatars":  [ { "id": "C001_01", "icon": "https://...png" } ],
-  "banners":  [ { "id": "ACTIVITY01", "icon": "https://...png" } ]
+  "banners":  [ { "id": "ACTIVITY01", "icon": "https://...png" } ],
+  "ranks":    [ { "id": "Rank03", "icon": "https://...png" } ]
 }
 ```
 
 - Skin d'arme `WS0000` = skin par défaut de l'arme.
+- Rangs : `Rank00`–`Rank09` = badges de tiers grand format (00 = non classé),
+  `Rank0`–`Rank9` = petits formats, + variantes `Rank_Classic_*`/`Rank_Head_*`.
 - Volumes : 43 armes / 713 skins, 337 charms, 731 stickers, 261 avatars,
-  244 bannières, 96 headwear, 102 armwear, 21 lancers / ~305 skins.
+  244 bannières, 96 headwear, 102 armwear, ~25 badges de rang,
+  21 lancers / ~305 skins.
 
 ### Modèles 3D (.glb)
 
