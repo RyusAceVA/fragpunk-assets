@@ -301,6 +301,12 @@
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S3__W011_WS3079.png"
     },
     {
+     "code": "WS3080",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S6__W011_WS3080.png"
+    },
+    {
      "code": "WS3083",
      "name": null,
      "rarity": null,
@@ -1165,6 +1171,12 @@
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S5__W004_WS2102.png"
     },
     {
+     "code": "WS2103",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S6__W004_WS2103.png"
+    },
+    {
      "code": "WS3004",
      "name": null,
      "rarity": null,
@@ -1217,6 +1229,12 @@
      "name": null,
      "rarity": null,
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S2__W004_WS3982.png"
+    },
+    {
+     "code": "WS3983",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S6__W004_WS3983.png"
     },
     {
      "code": "WS3991",
@@ -1392,6 +1410,12 @@
      "name": null,
      "rarity": null,
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S4__W016_WS3075.png"
+    },
+    {
+     "code": "WS3080",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S6__W016_WS3080.png"
     },
     {
      "code": "WS3083",
@@ -2147,6 +2171,12 @@
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S5__W002_WS2102.png"
     },
     {
+     "code": "WS2103",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S6__W002_WS2103.png"
+    },
+    {
      "code": "WS3001",
      "name": null,
      "rarity": null,
@@ -2573,6 +2603,12 @@
      "name": null,
      "rarity": null,
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S2__W008_WS3078.png"
+    },
+    {
+     "code": "WS3080",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S6__W008_WS3080.png"
     },
     {
      "code": "WS3083",
@@ -3006,6 +3042,12 @@
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S4__W005_WS3072.png"
     },
     {
+     "code": "WS3080",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S6__W005_WS3080.png"
+    },
+    {
      "code": "WS3083",
      "name": null,
      "rarity": null,
@@ -3016,6 +3058,12 @@
      "name": null,
      "rarity": null,
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S4__W005_WS3089.png"
+    },
+    {
+     "code": "WS3135",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S6__W005_WS3135.png"
     },
     {
      "code": "WS3957",
@@ -4008,6 +4056,12 @@
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S3__W012_WS2086.png"
     },
     {
+     "code": "WS2101",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S6__W012_WS2101.png"
+    },
+    {
      "code": "WS3001",
      "name": null,
      "rarity": null,
@@ -4314,6 +4368,18 @@
      "name": null,
      "rarity": null,
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin__MW003_WS3067.png"
+    },
+    {
+     "code": "WS3080",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S6__MW003_WS3080.png"
+    },
+    {
+     "code": "WS3135",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/skins_icon/Icon_WeaponSkin_S6__MW003_WS3135.png"
     },
     {
      "code": "WS3979",
@@ -5018,6 +5084,10 @@
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc__GZ128.png"
   },
   {
+   "id": "GZ129",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ129-WS3983.png"
+  },
+  {
    "id": "GZ130",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S4__GZ130_WS3116WS3072.png"
   },
@@ -5040,6 +5110,10 @@
   {
    "id": "GZ135",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S2__GZ135_WS3982.png"
+  },
+  {
+   "id": "GZ136",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ136_WS3080.png"
   },
   {
    "id": "GZ138",
@@ -5778,6 +5852,10 @@
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S4__GZ341.png"
   },
   {
+   "id": "GZ342",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ342.png"
+  },
+  {
    "id": "GZ343",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S4__GZ343.png"
   },
@@ -5928,6 +6006,78 @@
   {
    "id": "GZ386",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S5__GZ386.png"
+  },
+  {
+   "id": "GZ387",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ387.png"
+  },
+  {
+   "id": "GZ388",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ388.png"
+  },
+  {
+   "id": "GZ389",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ389.png"
+  },
+  {
+   "id": "GZ390",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ390.png"
+  },
+  {
+   "id": "GZ391",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ391.png"
+  },
+  {
+   "id": "GZ392",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ392.png"
+  },
+  {
+   "id": "GZ393",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ393.png"
+  },
+  {
+   "id": "GZ394",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ394.png"
+  },
+  {
+   "id": "GZ395",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ395.png"
+  },
+  {
+   "id": "GZ396",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ396.png"
+  },
+  {
+   "id": "GZ397",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ397.png"
+  },
+  {
+   "id": "GZ398",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ398.png"
+  },
+  {
+   "id": "GZ399",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ399.png"
+  },
+  {
+   "id": "GZ400",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ400.png"
+  },
+  {
+   "id": "GZ401",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ401.png"
+  },
+  {
+   "id": "GZ402",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ402.png"
+  },
+  {
+   "id": "GZ403",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ403.png"
+  },
+  {
+   "id": "GZ404",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/charms/Icon_WeaponAcc_S6__GZ404.png"
   }
  ],
  "headwear": [
@@ -9650,6 +9800,230 @@
   {
    "id": "ST706",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S5__ST706.png"
+  },
+  {
+   "id": "ST707_WS3080",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST707_WS3080.png"
+  },
+  {
+   "id": "ST708_A",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST708_A.png"
+  },
+  {
+   "id": "ST708_B",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST708_B.png"
+  },
+  {
+   "id": "ST708_C",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST708_C.png"
+  },
+  {
+   "id": "ST708_D",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST708_D.png"
+  },
+  {
+   "id": "ST709_A",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST709_A.png"
+  },
+  {
+   "id": "ST709_B",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST709_B.png"
+  },
+  {
+   "id": "ST709_C",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST709_C.png"
+  },
+  {
+   "id": "ST709_D",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST709_D.png"
+  },
+  {
+   "id": "ST710_A",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST710_A.png"
+  },
+  {
+   "id": "ST710_B",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST710_B.png"
+  },
+  {
+   "id": "ST710_C",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST710_C.png"
+  },
+  {
+   "id": "ST711_A",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST711_A.png"
+  },
+  {
+   "id": "ST711_B",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST711_B.png"
+  },
+  {
+   "id": "ST711_C",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST711_C.png"
+  },
+  {
+   "id": "ST712_A",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST712_A.png"
+  },
+  {
+   "id": "ST712_B",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST712_B.png"
+  },
+  {
+   "id": "ST712_C",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST712_C.png"
+  },
+  {
+   "id": "ST713_A",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST713_A.png"
+  },
+  {
+   "id": "ST713_B",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST713_B.png"
+  },
+  {
+   "id": "ST713_C",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST713_C.png"
+  },
+  {
+   "id": "ST714_A",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST714_A.png"
+  },
+  {
+   "id": "ST714_B",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST714_B.png"
+  },
+  {
+   "id": "ST714_C",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST714_C.png"
+  },
+  {
+   "id": "ST715_A",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST715_A.png"
+  },
+  {
+   "id": "ST715_B",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST715_B.png"
+  },
+  {
+   "id": "ST715_C",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST715_C.png"
+  },
+  {
+   "id": "ST716",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST716.png"
+  },
+  {
+   "id": "ST717",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST717.png"
+  },
+  {
+   "id": "ST718",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST718.png"
+  },
+  {
+   "id": "ST719",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST719.png"
+  },
+  {
+   "id": "ST720",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST720.png"
+  },
+  {
+   "id": "ST721",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST721.png"
+  },
+  {
+   "id": "ST722",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST722.png"
+  },
+  {
+   "id": "ST723",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST723.png"
+  },
+  {
+   "id": "ST724",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST724.png"
+  },
+  {
+   "id": "ST725",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST725.png"
+  },
+  {
+   "id": "ST726",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST726.png"
+  },
+  {
+   "id": "ST727",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST727.png"
+  },
+  {
+   "id": "ST728",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST728.png"
+  },
+  {
+   "id": "ST729",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST729.png"
+  },
+  {
+   "id": "ST730",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST730.png"
+  },
+  {
+   "id": "ST731",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST731.png"
+  },
+  {
+   "id": "ST732",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST732.png"
+  },
+  {
+   "id": "ST733",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST733.png"
+  },
+  {
+   "id": "ST734_C",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST734_C.png"
+  },
+  {
+   "id": "ST735_C",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST735_C.png"
+  },
+  {
+   "id": "ST736",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST736.png"
+  },
+  {
+   "id": "ST737",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST737.png"
+  },
+  {
+   "id": "ST738",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST738.png"
+  },
+  {
+   "id": "ST739",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST739.png"
+  },
+  {
+   "id": "ST740",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST740.png"
+  },
+  {
+   "id": "ST741",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST741.png"
+  },
+  {
+   "id": "ST742",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST742.png"
+  },
+  {
+   "id": "ST743",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST743.png"
+  },
+  {
+   "id": "ST744",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/weapons/stickers/Icon_Weapon_Sticker_S6__ST744.png"
   }
  ],
  "avatars": [
@@ -10030,6 +10404,18 @@
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S3__CubeCard_CS3015.png"
   },
   {
+   "id": "CubeCard_CS3906",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_CS3906.png"
+  },
+  {
+   "id": "CubeCard_CS3907",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_CS3907.png"
+  },
+  {
+   "id": "CubeCard_CS3909",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_CS3909.png"
+  },
+  {
    "id": "CubeCard_CS3913",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S5__CubeCard_CS3913.png"
   },
@@ -10252,6 +10638,38 @@
   {
    "id": "CubeCard_RankS4_08",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S4__CubeCard_RankS4_08.png"
+  },
+  {
+   "id": "CubeCard_RankS6_01",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_RankS6_01.png"
+  },
+  {
+   "id": "CubeCard_RankS6_02",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_RankS6_02.png"
+  },
+  {
+   "id": "CubeCard_RankS6_03",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_RankS6_03.png"
+  },
+  {
+   "id": "CubeCard_RankS6_04",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_RankS6_04.png"
+  },
+  {
+   "id": "CubeCard_RankS6_05",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_RankS6_05.png"
+  },
+  {
+   "id": "CubeCard_RankS6_06",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_RankS6_06.png"
+  },
+  {
+   "id": "CubeCard_RankS6_07",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_RankS6_07.png"
+  },
+  {
+   "id": "CubeCard_RankS6_08",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_RankS6_08.png"
   },
   {
    "id": "CubeCard_S1Rank_01",
@@ -10602,16 +11020,36 @@
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S4__CubeCard_Yingxiao_9.png"
   },
   {
+   "id": "CubeCard_Yingxiao_9",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_Yingxiao_9.png"
+  },
+  {
    "id": "CubeCard_Yingxiao_10",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S4__CubeCard_Yingxiao_10.png"
+  },
+  {
+   "id": "CubeCard_Yingxiao_10",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_Yingxiao_10.png"
   },
   {
    "id": "CubeCard_Yingxiao_11",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S4__CubeCard_Yingxiao_11.png"
   },
   {
+   "id": "CubeCard_Yingxiao_11",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_Yingxiao_11.png"
+  },
+  {
    "id": "CubeCard_Yingxiao_12",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S4__CubeCard_Yingxiao_12.png"
+  },
+  {
+   "id": "CubeCard_Yingxiao_12",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_Yingxiao_12.png"
+  },
+  {
+   "id": "CubeCard_Yingxiao_13",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__CubeCard_Yingxiao_13.png"
   },
   {
    "id": "CubeCard_Yingxiao01",
@@ -11048,6 +11486,18 @@
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S3__Card_CS3015.png"
   },
   {
+   "id": "CS3906",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_CS3906.png"
+  },
+  {
+   "id": "CS3907",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_CS3907.png"
+  },
+  {
+   "id": "CS3909",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_CS3909.png"
+  },
+  {
    "id": "CS3913",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S5__Card_CS3913.png"
   },
@@ -11334,6 +11784,38 @@
   {
    "id": "RankS5_08",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S5__Card_RankS5_08.png"
+  },
+  {
+   "id": "RankS6_01",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_RankS6_01.png"
+  },
+  {
+   "id": "RankS6_02",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_RankS6_02.png"
+  },
+  {
+   "id": "RankS6_03",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_RankS6_03.png"
+  },
+  {
+   "id": "RankS6_04",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_RankS6_04.png"
+  },
+  {
+   "id": "RankS6_05",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_RankS6_05.png"
+  },
+  {
+   "id": "RankS6_06",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_RankS6_06.png"
+  },
+  {
+   "id": "RankS6_07",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_RankS6_07.png"
+  },
+  {
+   "id": "RankS6_08",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_RankS6_08.png"
   },
   {
    "id": "S1Rank_01",
@@ -11652,16 +12134,36 @@
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S4__Card_Yingxiao_9.png"
   },
   {
+   "id": "Yingxiao_9",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_Yingxiao_9.png"
+  },
+  {
    "id": "Yingxiao_10",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S4__Card_Yingxiao_10.png"
+  },
+  {
+   "id": "Yingxiao_10",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_Yingxiao_10.png"
   },
   {
    "id": "Yingxiao_11",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S4__Card_Yingxiao_11.png"
   },
   {
+   "id": "Yingxiao_11",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_Yingxiao_11.png"
+  },
+  {
    "id": "Yingxiao_12",
    "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S4__Card_Yingxiao_12.png"
+  },
+  {
+   "id": "Yingxiao_12",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_Yingxiao_12.png"
+  },
+  {
+   "id": "Yingxiao_13",
+   "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/cosmetics/avatar_cards/Icon_AvaterCard_S6__Card_Yingxiao_13.png"
   },
   {
    "id": "Yingxiao01",
