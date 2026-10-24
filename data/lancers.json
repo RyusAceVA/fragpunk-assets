@@ -3,7 +3,7 @@
   {
    "code": "C001",
    "name": "Broker",
-   "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208001010_CS4997.png",
+   "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208001010.png",
    "skins": [
     {
      "code": "CS2931",
@@ -141,6 +141,12 @@
    ]
   },
   {
+   "code": "C002",
+   "name": null,
+   "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208002010.png",
+   "skins": []
+  },
+  {
    "code": "C004",
    "name": "Nitro",
    "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208004010.png",
@@ -257,6 +263,13 @@
    "name": "Hollowpoint",
    "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208008010.png",
    "skins": [
+    {
+     "code": "CS2919",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S6__C008_CS2919.png",
+     "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C008/CS2919.glb"
+    },
     {
      "code": "CS2936",
      "name": null,
@@ -857,7 +870,7 @@
   {
    "code": "C014",
    "name": "Serket",
-   "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208014010_CS4010.png",
+   "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208014010.png",
    "skins": [
     {
      "code": "CS3907",
@@ -1111,6 +1124,13 @@
    "name": "Wildstyle",
    "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208016010.png",
    "skins": [
+    {
+     "code": "CS2922",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S6__C016_CS2922.png",
+     "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C016/CS2922.glb"
+    },
     {
      "code": "CS1913",
      "name": null,
@@ -1413,6 +1433,13 @@
      "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C021/CS2926.glb"
     },
     {
+     "code": "CS3954",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S6__C021_CS3954_1.png",
+     "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C021/CS3954.glb"
+    },
+    {
      "code": "CS3002",
      "name": null,
      "rarity": null,
@@ -1525,6 +1552,13 @@
    "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208024010.png",
    "skins": [
     {
+     "code": "CS2922",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S6__C024_CS2922.png",
+     "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C024/CS2922.glb"
+    },
+    {
      "code": "CS3952",
      "name": null,
      "rarity": null,
@@ -1635,6 +1669,13 @@
      "rarity": null,
      "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S6__C025_CS2924.png",
      "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C025/CS2924.glb"
+    },
+    {
+     "code": "CS2922",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S6__C025_CS2922.png",
+     "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C025/CS2922.glb"
     },
     {
      "code": "Base",
@@ -1889,6 +1930,13 @@
    "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208031010.png",
    "skins": [
     {
+     "code": "CS3908",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S6__C031_CS3908_1.png",
+     "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C031/CS3908.glb"
+    },
+    {
      "code": "CS2926",
      "name": null,
      "rarity": null,
@@ -2015,6 +2063,13 @@
    "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208038010_1.png",
    "skins": [
     {
+     "code": "CS2922",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S6__C038_CS2922.png",
+     "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C038/CS2922.glb"
+    },
+    {
      "code": "CS2935",
      "name": null,
      "rarity": null,
@@ -2112,6 +2167,13 @@
    "name": "Hurricane",
    "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208050010.png",
    "skins": [
+    {
+     "code": "CS2920",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S6__C050_CS2920.png",
+     "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C050/CS2920.glb"
+    },
     {
      "code": "CS3906",
      "name": null,
@@ -2231,6 +2293,13 @@
    "name": "Sonar",
    "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208052010.png",
    "skins": [
+    {
+     "code": "CS2922",
+     "name": null,
+     "rarity": null,
+     "icon": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/skins_icon/Icon_Lancers_Roleskin_S6__C052_CS2922.png",
+     "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C052/CS2922.glb"
+    },
     {
      "code": "CS2931",
      "name": null,
