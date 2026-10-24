@@ -1,0 +1,786 @@
+[
+ {
+  "en": "2-Piece: Increases your Elemental Reaction damage by 30% and Omni Lifesteal by 4%.",
+  "fr": "Ensemble de 2 pièces : les Dégâts de vos réactions élémentaires augmentent de 30 % et votre vampirisme omnipotent augmente de 4 %."
+ },
+ {
+  "en": "2-Piece: Increases your Elemental Reaction damage by 30%.",
+  "fr": "Ensemble de 2 pièces : Les Dégâts de vos réactions élémentaires augmentent de 30 %."
+ },
+ {
+  "en": "2-Piece: Increases your Elemental Stacking Rate by 30%.",
+  "fr": "2 pièces : Votre efficacité d'accumulation élémentaire augmente de 30 %."
+ },
+ {
+  "en": "2-Piece: Increases your Magazine Capacity by 30%; for 4 s after reloading, increases your Fire damage by 12%.",
+  "fr": "Ensemble de 2 : Votre capacité de Balle augmente de 30 % ; pendant 4 s après avoir fini de Recharger, vos DÉGÂTS DE FEU augmentent de 12 %."
+ },
+ {
+  "en": "2-Piece: Increases your Acid damage by 8%; each time an enemy gains an Acid stack, increases your Acid damage by an additional 2% for 6 s. Stacks up to 5 times.",
+  "fr": "Ensemble de 2 : Vos dégâts de corrosion augmentent de 8% ; pour chaque cumul de corrosion sur l'ennemi, ils augmentent de 2% supplémentaires, jusqu'à 5 cumuls, pendant 6 secondes."
+ },
+ {
+  "en": "2-Piece: Increases your Defense by 15%.",
+  "fr": "Ensemble de 2 pièces : votre Défense augmente de 15 % supplémentaires."
+ },
+ {
+  "en": "2-Piece: Increases your Elemental Stacking Rate by 30%; each time you hit a Frozen enemy, increases your Ice Power by 5 for 4 s. Stacks up to 10 times.",
+  "fr": "2 pièces : L'efficacité de superposition élémentaire augmente de 30 % ; chaque fois que vous touchez un ennemi gelé, votre puissance de gel augmente de 5 points, cumulable jusqu'à 10 fois, pendant 4 secondes."
+ },
+ {
+  "en": "2-Piece: All Element Resistance +12",
+  "fr": "Ensemble de 2 pièces : Toutes les résistances élémentaires +12"
+ },
+ {
+  "en": "2-Piece: All Element Resistance +6, Health Regen +2",
+  "fr": "2 pièces : Résistance à tous les éléments +6, Récupération de PV +2"
+ },
+ {
+  "en": "2-Piece: Ice Power +18, Ice Penetration +12",
+  "fr": "Ensemble de 2 : Puissance de gel +18, Pénétration de glace +12"
+ },
+ {
+  "en": "2-Piece: Ice Power +12, Max Health +72",
+  "fr": "Ensemble de 2 : Buff dégâts de la tour de glace +12, PV max +72"
+ },
+ {
+  "en": "2-Piece: Ice Power +8",
+  "fr": "Ensemble de 2 : Puissance de gel +8"
+ },
+ {
+  "en": "2-Piece: When you hit a Frozen enemy, gain 16 Ice Penetration for 6 s.",
+  "fr": "Ensemble de 2 pièces : Lorsque vous touchez un ennemi gelé, votre pénétration de froid augmente de 16 points pendant 6 secondes."
+ },
+ {
+  "en": "2-Piece: Increases your Weakpoint Damage by 12%",
+  "fr": "Ensemble de 2 pièces : DGT (Pt. faible) +12 %"
+ },
+ {
+  "en": "2-Piece: Skill Haste +15%",
+  "fr": "2 pièces : Accélération de Compétence +15"
+ },
+ {
+  "en": "2-Piece: Armor Penetration +12, Armor Penetration % +20%",
+  "fr": "Ensemble de 2 : Pénétration d'armure +12, Pénétration d'armure en pourcentage +20%"
+ },
+ {
+  "en": "2-Piece: While an enemy is within 8 m of you, increases your Fire damage by 12%.",
+  "fr": "Ensemble de 2 pièces : Lorsque les ennemis se trouvent dans un rayon de 8 mètres, vos DÉGÂTS DE FEU augmentent de 12 %."
+ },
+ {
+  "en": "2-Piece: While an enemy is within 8 m of you, increases your Melee damage by 12%.",
+  "fr": "Ensemble de 2 pièces : Lorsque les ennemis se trouvent à moins de 8 mètres de vous, vos Dégâts de mêlée augmentent de 12 %."
+ },
+ {
+  "en": "2-Piece: Crit Chance +8%",
+  "fr": "2 pièces : TAUX CRITIQUE +8%"
+ },
+ {
+  "en": "2-Piece: Max Health +60",
+  "fr": "Set de 2 : PV max +60"
+ },
+ {
+  "en": "2-Piece: Max Health +60",
+  "fr": "2 pièces : PV max +60"
+ },
+ {
+  "en": "2-Piece: For every 10 Electric Power you have, increases your Damage over Time by 5%.",
+  "fr": "Ensemble de 2 pièces : Pour chaque tranche de 10 points de Puissance électrique, vos Dégâts sur la durée augmentent de 5%."
+ },
+ {
+  "en": "2-Piece: Every 200 Max Health grants 1 Explosion Penetration.",
+  "fr": "Ensemble de 2 : Pour chaque tranche de 200 PV max, la Pénétration d'explosion augmente de 1."
+ },
+ {
+  "en": "2-Piece: Each time you hit a weakpoint, increases your Ranged Power by 12 for 3 s. Stacks up to 3 times.",
+  "fr": "Ensemble de 2 pièces : chaque fois que vous touchez un point faible, votre puissance à distance augmente de 12 points, cumulable jusqu'à 3 fois, pendant 3 secondes."
+ },
+ {
+  "en": "2-Piece: On dealing Melee damage, increases your Crit Chance by 2% for 4 s. Stacks up to 15 times.",
+  "fr": "2 pièces : Chaque fois que vous infligez des dégâts de mêlée, votre TAUX CRITIQUE augmente de 2 %, cumulable jusqu'à 15 fois pendant 4 secondes."
+ },
+ {
+  "en": "2-Piece: Healing Power +12, Skill Haste +8%",
+  "fr": "2 pièces : Puissance de guérison+12, Accélération de compétence+8%"
+ },
+ {
+  "en": "2-Piece: Healing Power +8",
+  "fr": "2 pièces : Puissance de Guérison+8"
+ },
+ {
+  "en": "2-Piece: Fire Power +18, Elemental Stacking Rate +20%",
+  "fr": "Ensemble de 2 pièces : Buff dégâts de la tour de flammes +18, Efficacité de cumul élémentaire +20 %"
+ },
+ {
+  "en": "2-Piece: Fire Power +18, Fire Penetration % +15%",
+  "fr": "2 pièces : Buff dégâts de la tour de flammes +18, Pénétration de feu +15 %"
+ },
+ {
+  "en": "2-Piece: Fire Power +12, Max Health +72",
+  "fr": "Set de 2 : Puissance de feu +12, PV max +72"
+ },
+ {
+  "en": "2-Piece: Fire Power +8",
+  "fr": "Ensemble de 2 pièces : Puissance de feu+8"
+ },
+ {
+  "en": "2-Piece: Explosion Power +12, Max Health +72",
+  "fr": "2 pièces : Puissance d'explosion +12, PV max +72"
+ },
+ {
+  "en": "2-Piece: Explosion Power +18, Fire/Ice/Electric/Acid Explosion reaction damage +30%",
+  "fr": "2 pièces : Puissance d'explosion +18, les dégâts de réaction Explosion de feu/gel/élec/acide augmentent de 30 %"
+ },
+ {
+  "en": "2-Piece: Explosion Power +8",
+  "fr": "Ensemble de 2 pièces : Intensité d'explosion +8"
+ },
+ {
+  "en": "2-Piece: When an explosion attack hits, increases your Explosion Penetration by 5 for 5 s. Stacks up to 6 times.",
+  "fr": "Ensemble de 2 pièces : Lorsque les attaques explosives touchent, votre Pénétration d'explosion augmente de 5 points, cumulable jusqu'à 6 fois, pendant 5 secondes."
+ },
+ {
+  "en": "2-Piece: While your Health is below 40%, you gain 25 Defense and 18 All Element Resistance.",
+  "fr": "Set de 2 pièces : Lorsque les PV sont inférieurs à 40 %, vous obtenez 25 points de Défense et 18 points de résistance à tous les éléments."
+ },
+ {
+  "en": "2-Piece: Health Regen +2",
+  "fr": "Ensemble de 2 : Récupération de PV +2"
+ },
+ {
+  "en": "2-Piece: Health Regen +3",
+  "fr": "Ensemble de 2 pièces : Soins reçus +3"
+ },
+ {
+  "en": "2-Piece: When Electric damage critically hits, increases your Elemental Stacking Rate by 45% and Electric Power by 30 for 3 s.",
+  "fr": "2 pièces : Lorsque les Dégâts électriques déclenchent un Tir à la tête, votre efficacité de cumul élémentaire augmente de 45 % et votre Puissance électrique augmente de 30 points pendant 3 secondes."
+ },
+ {
+  "en": "2-Piece: Electric Power +18, Elemental Stacking Rate +20%",
+  "fr": "Set de 2 pièces : Spécialisation artilleur +18, Efficacité de cumul élémentaire +20 %"
+ },
+ {
+  "en": "2-Piece: Electric Power +12, Electric Penetration +8",
+  "fr": "Set de 2 : Spécialisation artilleur +12, Pénétration électrique +8"
+ },
+ {
+  "en": "2-Piece: Electric Power +8",
+  "fr": "Ensemble de 2 : Puissance électrique+8"
+ },
+ {
+  "en": "2-Piece: Electric Power +8, Defense +8",
+  "fr": "Ensemble de 2 : Puissance électrique+8, Défense+8"
+ },
+ {
+  "en": "2-Piece: Acid Power +18, Damage over Time +30%",
+  "fr": "2 pièces : Buff dégâts de la tour de corrosion +18, Dégâts sur la durée +30 %"
+ },
+ {
+  "en": "2-Piece: Acid Power +12, Skill Haste +8%",
+  "fr": "Ensemble de 2 pièces : Puissance de corrosion+12, Accélération de Compétence+8%"
+ },
+ {
+  "en": "2-Piece: Acid Power +8",
+  "fr": "Ensemble de 2 pièces : Puissance de corrosion +8"
+ },
+ {
+  "en": "2-Piece: Radiation Power +12, Health Regen +2",
+  "fr": "Ensemble de 2 pièces : Intensité de radiation +12, Récupération de PV +2"
+ },
+ {
+  "en": "2-Piece: Radiation Power +18, Defense +10",
+  "fr": "Ensemble de 2 pièces : Intensité de radiation +18, Défense +10"
+ },
+ {
+  "en": "2-Piece: Melee Power +18, Armor Penetration % +15%",
+  "fr": "Ensemble de 2 : Puissance de mêlée +18, Pénétration d'armure +15%"
+ },
+ {
+  "en": "2-Piece: Melee Power +12, Armor Penetration % +10%",
+  "fr": "Set de 2 pièces : Puissance de mêlée +12, Pénétration d'armure +10%"
+ },
+ {
+  "en": "2-Piece: Melee Power +12, Movement Speed +15",
+  "fr": "Ensemble de 2 : Puissance de mêlée +12, Vitesse de déplacement +15 points"
+ },
+ {
+  "en": "2-Piece: Melee Power +12, Defense +8",
+  "fr": "Ensemble de 2 : Puissance de mêlée +12, Défense +8"
+ },
+ {
+  "en": "2-Piece: Melee Power +8",
+  "fr": "Ensemble de 2 : Puissance de mêlée+8"
+ },
+ {
+  "en": "2-Piece: Melee Power +8, Movement Speed +15",
+  "fr": "2 pièces : Puissance de mêlée +8, Vitesse de déplacement +15 points"
+ },
+ {
+  "en": "2-Piece: Ranged Power +18, Armor Penetration % +15%",
+  "fr": "Ensemble de 2 pièces : Puissance à distance +18, Pénétration d'armure +15%"
+ },
+ {
+  "en": "2-Piece: Ranged Power +18, Armor Penetration +12",
+  "fr": "Ensemble de 2 : Force à distance +18, Pénétration d'armure +12"
+ },
+ {
+  "en": "2-Piece: Ranged Power +12, All Element Resistance +6",
+  "fr": "2 pièces : Puissance à distance +12, Toutes les résistances +6"
+ },
+ {
+  "en": "2-Piece: Ranged Power +12, Armor Penetration % +10%",
+  "fr": "Ensemble de 2 : Puissance à distance +12, Pénétration d'armure +10 %"
+ },
+ {
+  "en": "2-Piece: Ranged Power +12, Crit Chance +8%",
+  "fr": "2 pièces : Puissance à distance +12, TAUX CRITIQUE +8 %"
+ },
+ {
+  "en": "2-Piece: Ranged Power +12, Movement Speed +15",
+  "fr": "Ensemble de 2 : Puissance à distance +12, Vitesse de déplacement +15 points"
+ },
+ {
+  "en": "2-Piece: On dealing Fire damage, increases your Elemental Stacking Rate by 30% for 5 s.",
+  "fr": "Ensemble de 2 pièces : Lorsque vous infligez des dégâts de feu, l'efficacité de vos cumuls élémentaires augmente de 30 % pendant 5 secondes."
+ },
+ {
+  "en": "2-Piece: Defense +6",
+  "fr": "2 pièces : Défense +6"
+ },
+ {
+  "en": "2-Piece: Defense +8",
+  "fr": "Ensemble de 2 : Défense +8"
+ },
+ {
+  "en": "2-Piece: When a non-elemental attack critically hits an enemy, applies Bleed to them.",
+  "fr": "Ensemble de 2 pièces : lorsqu'une attaque non élémentaire inflige un Tir à la tête à un ennemi, lui applique un effet de saignement."
+ },
+ {
+  "en": "4-Piece: Increases your Elemental Stacking Rate by 30%.",
+  "fr": "4 pièces : Votre efficacité d'accumulation élémentaire augmente de 30 %."
+ },
+ {
+  "en": "4-Piece: Increases your Weakpoint Damage by 20%; hitting an enemy weakpoint reduces their Movement Speed by 40% for 2 s.",
+  "fr": "4 pièces : Vos DGT (Pt. faible) augmentent de 20 % ; lorsque vous touchez le point faible d'un ennemi, la vitesse de déplacement de la cible est réduite de 40 % pendant 2 secondes."
+ },
+ {
+  "en": "4-Piece: Increases your Damage over Time by 80%; each time a Bleed stack is added, has a 20% chance to detonate immediately, dealing 50% of the remaining Bleed damage.",
+  "fr": "Ensemble de 4 pièces : Vos Dégâts sur la durée augmentent de 80 % ; chaque fois qu'un ennemi cumule une couche de saignement, il y a 20 % de chances de déclencher immédiatement une explosion, liquidant 50 % des Dégâts sur la durée de saignement restants."
+ },
+ {
+  "en": "4-Piece: Reduces your Weapon Perfection cost by 30%.",
+  "fr": "Ensemble de 4 : La consommation de PRÉFECTION de votre arme est réduite de 30 %."
+ },
+ {
+  "en": "4-Piece: Increases your Electric chain range by 3 m; each time an Electric chain completes, increases your Electric Power by 8 for 5 s. Stacks up to 8 times.",
+  "fr": "Ensemble de 4 pièces : la portée de vos rebonds électriques augmente de 3 mètres ; chaque fois qu'un rebond électrique est effectué, votre spécialisation artilleur augmente de 8 points, cumulable jusqu'à 8 fois, pendant 5 secondes."
+ },
+ {
+  "en": "4-Piece: Increases your Defense by 12 and Max Health by 80.",
+  "fr": "4 pièces : Votre Défense augmente de 12 points et vos PV max. augmentent de 80 points."
+ },
+ {
+  "en": "4-Piece: Increases your Defense by 16 and Max Health by 120.",
+  "fr": "Ensemble de 4 pièces : votre Défense augmente de 16 points et vos PV max augmentent de 120 points."
+ },
+ {
+  "en": "4-Piece: When you cause an explosion, enemies hit take 18% increased damage for 5 s.",
+  "fr": "Ensemble de 4 pièces : lorsque vous provoquez une explosion, les ennemis touchés deviennent vulnérables et les Dégâts subis augmentent de 18 % pendant 5 secondes."
+ },
+ {
+  "en": "4-Piece: Increases all your Damage over Time by 50%.",
+  "fr": "Ensemble de 4 pièces : tous les dégâts sur la durée que vous infligez augmentent de 50 %."
+ },
+ {
+  "en": "4-Piece: When you cause Imbalance, increases your Melee damage by 30% for 4 s.",
+  "fr": "4 pièces : lorsque vous déséquilibrez un ennemi, vos Dégâts de mêlée augmentent de 30 % pendant 4 secondes."
+ },
+ {
+  "en": "4-Piece: After reducing or blocking damage, increases your All Element Resistance by 12 and Health Regen by 4 for 6 s.",
+  "fr": "Ensemble de 4 pièces : après une Réduction des dégâts ou un blocage réussi, vous obtenez pendant 6 secondes une augmentation de 12 points de toutes les résistances élémentaires et une augmentation de 4 points de la récupération de PV."
+ },
+ {
+  "en": "4-Piece: After killing an enemy, increases your Melee Power by 12 for 8 s. Stacks up to 3 times.",
+  "fr": "Ensemble de 4 pièces : après avoir tué un ennemi, votre puissance de mêlée augmente de 12 points, cumulable jusqu'à 3 fois, pendant 8 secondes."
+ },
+ {
+  "en": "4-Piece: When you kill an enemy, increases each of your Elemental Power by 20 for 8 s; for every 5 Elemental Power you have, increases your Elemental Reaction damage by 1%.",
+  "fr": "Ensemble de 4 pièces : Lorsque vous tuez un ennemi, toutes vos intensités élémentaires augmentent de 20 points pendant 8 secondes ; pour chaque tranche de 5 points d'intensité élémentaire, vos Dégâts de réaction élémentaire augmentent de 1 %."
+ },
+ {
+  "en": "4-Piece: Within 5 s after taking damage, your next Melee attack deals an extra instance of Electric damage.",
+  "fr": "4 pièces : Après avoir été attaqué, votre prochaine attaque de mêlée infligera des dégâts de foudre supplémentaires pendant 5 s."
+ },
+ {
+  "en": "4-Piece: After a Perfect Block, increases your Melee Power by 30 for 4 s.",
+  "fr": "4 pièces : Après un blocage parfait réussi, votre intensité de mêlée augmente de 30 points pendant 4 secondes."
+ },
+ {
+  "en": "4-Piece: After a Perfect Block, restores 8% of your Max Health.",
+  "fr": "Ensemble de 4 pièces : Après un blocage parfait réussi, restaure 8 % des PV max."
+ },
+ {
+  "en": "4-Piece: When you deal Fire damage to an enemy suffering from a Damage-over-Time effect, trigger a 6 m Fire explosion and apply 2 stacks of Fire Damage over Time to nearby enemies. (Cooldown: 5 s)",
+  "fr": "Ensemble de 4 pièces : lorsque vous infligez des dégâts de feu à un ennemi subissant des Dégâts sur la durée, provoque une explosion de feu d'un rayon de 6 mètres et applique 2 charges de Dégâts sur la durée de feu aux ennemis proches. (Temps de recharge : 5 secondes)"
+ },
+ {
+  "en": "4-Piece: While your Crit Chance is above 60%, gain an additional 30 Melee Power",
+  "fr": "4 pièces : Lorsque le taux de Tir à la tête est supérieur à 60 %, vous obtenez 30 points de puissance de mêlée supplémentaires."
+ },
+ {
+  "en": "4-Piece: On Shatter, deals an extra instance of Ice damage and increases the Vulnerable damage bonus on the enemy by 100%.",
+  "fr": "4 pièces : Briser le gel inflige des dégâts de froid supplémentaires et augmente l'effet de Vulnérabilité subi par la cible de 100 %."
+ },
+ {
+  "en": "4-Piece: After reloading, increases your Fire damage by 12% and Damage over Time by 30% for 5 s.",
+  "fr": "Ensemble de 4 pièces : Une fois le Recharger terminé, vos DÉGÂTS DE FEU augmentent de 12 % et vos Dégâts sur la durée augmentent de 30 % pendant 5 secondes."
+ },
+ {
+  "en": "4-Piece: After dealing Ice damage, increases your Ice Power by 12 for 6 s.",
+  "fr": "4 pièces : après avoir infligé des Dégâts de glace, votre Puissance de gel augmente de 12 points pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: After dealing Fire damage, increases your Fire Power by 12 for 6 s.",
+  "fr": "4 pièces : Après avoir infligé des DÉGÂTS DE FEU, votre Buff dégâts de la tour de flammes augmente de 12 points pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: After dealing Explosion damage, increases your Explosion Power by 12 for 6 s.",
+  "fr": "4 pièces : Après avoir infligé des DÉGÂTS EXPLOSIFS, votre intensité d'explosion augmente de 12 points pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: After dealing Electric damage, increases your Electric Power by 12 for 6 s.",
+  "fr": "Ensemble de 4 pièces : Après avoir infligé des dégâts électriques, votre spécialisation artilleur augmente de 12 points pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: After dealing Acid damage, increases your Acid Power by 12 for 6 s.",
+  "fr": "4 pièces : Après avoir infligé des Dégâts de corrosion, votre Puissance de corrosion augmente de 12 points pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: When applying an Acid effect, has a 33% chance to apply 1 extra stack of Acid.",
+  "fr": "Ensemble de 4 pièces : lors de l'application d'un effet de corrosion, il y a 33 % de chances d'ajouter 1 couche de corrosion supplémentaire."
+ },
+ {
+  "en": "4-Piece: For every 3 stacks of Acid, triggers an Acid burst within a 5 m radius, dealing area Acid damage.",
+  "fr": "Ensemble de 4 pièces : tous les 3 cumuls d'Acide, déclenche une explosion acide dans un rayon de 5 m, infligeant des Dégâts d'acide de zone."
+ },
+ {
+  "en": "4-Piece: For every 10% Health lost, increases your Melee Power by 4 and Defense by 3. Stacks up to 10 times.",
+  "fr": "Ensemble de 4 pièces : pour chaque tranche de 10 % de PV perdus, votre Puissance de mêlée augmente de 4 points et votre Défense augmente de 3 points, cumulable jusqu'à 10 fois."
+ },
+ {
+  "en": "4-Piece: For every 100 Health lost, increases your Ice Lifesteal by 0.5% and Ice Power by 5. Stacks up to 10 times.",
+  "fr": "Ensemble de 4 pièces : Pour chaque tranche de 100 PV perdus, votre vampirisme de gel augmente de 0,5 % et votre puissance de gel augmente de 5 points, cumulable jusqu'à 10 fois."
+ },
+ {
+  "en": "4-Piece: Each time a Charge Transfer occurs, increases your Charge Damage Bonus by 10% for 6 s. Stacks up to 3 times",
+  "fr": "Ensemble de 4 pièces : chaque fois qu'un transfert de charge se produit, le bonus de Dégâts Chargé augmente de 10 %, cumulable jusqu'à 3 fois, pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: Each time you hit a weakpoint, reduces your Reload Time by 20% and Weapon Perfection cost by 20% for 3 s.",
+  "fr": "4 pièces : chaque fois que vous touchez un point faible, votre temps de Recharger est réduit de 20 % et la consommation de PRÉFECTION est réduite de 20 % pendant 3 secondes."
+ },
+ {
+  "en": "4-Piece: Each time you hit an enemy, increases your Ranged Power by 2 for 8 s. Stacks up to 12 times",
+  "fr": "Ensemble de 4 pièces : Chaque coup porté à un ennemi augmente la puissance à distance de 2, cumulable jusqu'à 12 fois, pendant 8 secondes."
+ },
+ {
+  "en": "4-Piece: Each time you apply Damage over Time, increases your Electric Power by 12 and Crit Chance by 4% for 4 s. Stacks up to 6 times.",
+  "fr": "Ensemble de 4 pièces : Chaque fois que vous infligez des Dégâts sur la durée, votre Puissance électrique augmente de 12 points et votre TAUX CRITIQUE augmente de 4 %, cumulable jusqu'à 6 fois pendant 4 secondes."
+ },
+ {
+  "en": "4-Piece: After triggering an Elemental Reaction, deals an extra instance of Radiation burst damage.",
+  "fr": "Ensemble de 4 pièces : après chaque déclenchement d'une réaction élémentaire, inflige une explosion d'aura polluante supplémentaire en tant que Dégâts."
+ },
+ {
+  "en": "4-Piece: On a Critical Hit, increases your Crit Damage by 6% for 5 s. Stacks up to 5 times.",
+  "fr": "Ensemble de 4 pièces : Chaque fois que vous infligez un Tir à la tête, vos Dégâts de Tir à la tête augmentent de 6 %, cumulable jusqu'à 5 fois, pendant 5 secondes."
+ },
+ {
+  "en": "4-Piece: On a Critical Hit, increases your Crit Damage by 8% and Weakpoint Damage by 5% for 8 s. Stacks up to 6 times.",
+  "fr": "4 pièces : Chaque fois que vous infligez un Tir à la tête, vos Dégâts de Tir à la tête augmentent de 8% et vos DGT (Pt. faible) augmentent de 5%, cumulable jusqu'à 6 fois, pendant 8 secondes."
+ },
+ {
+  "en": "4-Piece: Each time you deal Melee damage, gain 3 Melee Power, stacking up to 12 times. At max stacks, also gain 8% Omni Lifesteal and 15 Defense.",
+  "fr": "Ensemble de 4 pièces : chaque fois que vous infligez des Dégâts de mêlée, augmente la puissance de mêlée de 3 points, cumulable jusqu'à 12 fois ; au maximum de cumuls, vous obtenez 8 % de vol de vie omnipotent et 15 points de Défense supplémentaires."
+ },
+ {
+  "en": "4-Piece: Each time you deal Explosion damage, increases your Defense by 15 for 8 s. Stacks up to 2 times.",
+  "fr": "Ensemble de 4 pièces : chaque fois que vous infligez des Dégâts d'explosion, votre Défense augmente de 15 points, cumulable jusqu'à 2 fois, pendant 8 secondes."
+ },
+ {
+  "en": "4-Piece: When healing an ally, restores 3% of your Max Health. (Cooldown: 1 s)",
+  "fr": "Ensemble de 4 : Lorsque vous guérissez un coéquipier, vous récupérez 3% de vos PV max. (Temps de recharge : 1 s)"
+ },
+ {
+  "en": "4-Piece: Each time Fire Damage over Time gains a stack, has a 15% chance to splash 1 stack to enemies within 6 m.",
+  "fr": "Ensemble de 4 pièces : chaque fois qu'une couche de Dégâts sur la durée de feu est cumulée, il y a 15 % de chances d'en propager 1 couche aux ennemis dans un rayon de 6 mètres."
+ },
+ {
+  "en": "4-Piece: After a Fire attack hits, increases the Fire damage you deal to the enemy by 0.4% for 5 s. Stacks up to 50 times.",
+  "fr": "Ensemble de 4 pièces : après un HIT d'attaque de CHAMP DE GUÉRISON, les Dégâts de CHAMP DE GUÉRISON que vous infligez aux ennemis augmentent de 0,4 %, jusqu'à 50 couches, pendant 5 secondes."
+ },
+ {
+  "en": "4-Piece: After an explosion attack hits, increases your Elemental damage dealt by 15% for 5 s.",
+  "fr": "4 pièces : après un HIT d'attaque explosive, les Dégâts élémentaires que vous infligez aux ennemis augmentent de 15 % pendant 5 secondes."
+ },
+ {
+  "en": "4-Piece: While your Health is below 40%, you gain 8% Radiation Lifesteal.",
+  "fr": "Ensemble de 4 : lorsque les PV sont inférieurs à 40 %, vous obtenez 8 % de vampirisme de radiation."
+ },
+ {
+  "en": "4-Piece: While your Health is below 50%, increases your Omni Lifesteal by 3%.",
+  "fr": "Ensemble de 4 pièces : lorsque les PV sont inférieurs à 50 %, votre vampirisme global augmente de 3 %."
+ },
+ {
+  "en": "4-Piece: While your Health is below 50%, increases your Radiation Power by 30 and Radiation Lifesteal by 2%.",
+  "fr": "Ensemble de 4 pièces : lorsque les PV sont inférieurs à 50 %, votre intensité de radiation augmente de 30 points et votre vampirisme de radiation augmente de 2 %."
+ },
+ {
+  "en": "4-Piece: On Shatter, you gain 20% Skill Haste and 36 Ice Power.",
+  "fr": "Ensemble de 4 pièces : Lorsque vous brisez la glace, vous obtenez 20 % d'accélération de Compétence et 36 points de Puissance de gel."
+ },
+ {
+  "en": "4-Piece: On Shatter, deals an extra instance of Ice damage and increases the Vulnerable damage bonus on the enemy by 50%.",
+  "fr": "4 pièces : lors d'un Brise-glace, inflige des Dégâts de froid supplémentaires et augmente l'effet de Vulnérabilité subi par la cible de 50 %."
+ },
+ {
+  "en": "4-Piece: After triggering an Elemental Reaction, your next attack deals an extra 50 Acid damage. (Cooldown: 1 s)",
+  "fr": "Ensemble de 4 pièces : après avoir déclenché une réaction élémentaire, votre prochaine attaque inflige des Dégâts de corrosion supplémentaires (50 points). (Temps de recharge : 1 s)"
+ },
+ {
+  "en": "4-Piece: When triggering an Elemental Reaction, creates a Fire explosion within 6 m and increases the Fire damage the enemy takes by 25% for 6 s.",
+  "fr": "Ensemble de 4 pièces : lors du déclenchement d'une réaction élémentaire, provoque une explosion de feu dans un rayon de 6 mètres et augmente les Dégâts de feu subis par la cible de 25 % pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: For 3 s after triggering Charge Transfer, increases your Electric Power by 20.",
+  "fr": "Ensemble de 4 pièces : Après avoir déclenché Transfert de charge, votre Spécialisation artilleur augmente de 20 points pendant 3 secondes."
+ },
+ {
+  "en": "4-Piece: When a Melee attack hits an enemy, reduces their Defense by 8% for 4 s. Stacks up to 4 times.",
+  "fr": "Ensemble de 4 pièces : Lorsque les attaques de mêlée touchent un ennemi, sa défense diminue de 8 %. Cet effet peut se cumuler jusqu'à 4 fois et dure 4 secondes."
+ },
+ {
+  "en": "4-Piece: After a ranged attack hits an enemy weakpoint, increases your Ranged Power by 20 for 6 s.",
+  "fr": "Ensemble de 4 : après avoir touché le point faible d'un ennemi avec une attaque à distance, votre puissance à distance augmente de 20 points pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: After moving continuously for 2 s, your next Melee attack deals 20% more damage within 5 s.",
+  "fr": "4 pièces : Après avoir bougé continuellement pendant 2 s, les Dégâts de votre prochaine attaque de mêlée sont augmentés de 20 % pendant 5 s."
+ },
+ {
+  "en": "4-Piece: After dealing damage, increases your Armor Penetration by 4 for 6 s. Stacks up to 3 times.",
+  "fr": "4 pièces : Après avoir frappé l'ennemi, votre pénétration d'armure augmente de 4 points, cumulable jusqu'à 3 fois, pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: On a Critical Hit, increases your Crit Damage by 20% for 6 s.",
+  "fr": "4 pièces : Lorsque vous effectuez un Tir à la tête, vos Dégâts de Tir à la tête augmentent de 20 % pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: On a Critical Hit, increases your Ranged Power by 12 for 6 s.",
+  "fr": "4 pièces : En cas de Tir à la tête, votre Puissance à distance augmente de 12 points pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: After you deal Explosion damage, your Reload Time is reduced by 25%.",
+  "fr": "4 pièces : après avoir infligé des dégâts d'explosion, le temps de recharge est réduit de 25 %."
+ },
+ {
+  "en": "4-Piece: On dealing Melee damage, increases your Melee Power by 5 for 6 s. Stacks up to 3 times.",
+  "fr": "4 pièces : Lorsque vous infligez des Dégâts de mêlée, votre puissance de mêlée augmente de 5 points, cumulable jusqu'à 3 fois, pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: After casting a skill, increases your Healing Power by 20 for 6 s.",
+  "fr": "4 pièces : Après avoir utilisé la compétence, votre intensité de guérison augmente de 20 points pendant 6 secondes."
+ },
+ {
+  "en": "4-Piece: After casting a skill, increases your Melee Power and Ranged Power by 8 for 8 s. Stacks up to 3 times.",
+  "fr": "Set de 4 : Après avoir utilisé la compétence, votre puissance de mêlée et votre puissance à distance augmentent chacune de 8 points, cumulable jusqu'à 3 fois, pendant 8 secondes."
+ },
+ {
+  "en": "4-Piece: After dodging, your next attack within 5 s gains 15% Crit Chance and 20% Crit Damage. (Cooldown: 3 s)",
+  "fr": "4 pièces : Après avoir esquivé, les chances de Tir à la tête de votre prochaine attaque augmentent de 15 % et les Dégâts de Tir à la tête augmentent de 20 % pendant 5 s. (Temps de recharge : 3 s)"
+ },
+ {
+  "en": "Eastvale Combat Set",
+  "fr": "Tenue de combat de la Vallée de l'Est"
+ },
+ {
+  "en": "Medium Aesir Set",
+  "fr": "Ensemble moyen Ases"
+ },
+ {
+  "en": "Aesir Draugr Set",
+  "fr": "Ensemble de l'Esprit de glace d'Ases"
+ },
+ {
+  "en": "Aesir Arcane Set",
+  "fr": "Ensemble d'arcanes Ases"
+ },
+ {
+  "en": "Light Aesir Set",
+  "fr": "Ensemble léger Ases"
+ },
+ {
+  "en": "Aesir Heavy Set",
+  "fr": "Ensemble lourd Ases"
+ },
+ {
+  "en": "Casual Set",
+  "fr": "Ensemble décontracté"
+ },
+ {
+  "en": "Bodybuilding Set",
+  "fr": "Ensemble de champion de bodybuilding"
+ },
+ {
+  "en": "Modified Modular Set",
+  "fr": "Kit de modification de composants"
+ },
+ {
+  "en": "Orcish Plunder Set",
+  "fr": "Ensemble de maraudeur orc"
+ },
+ {
+  "en": "Fur Set",
+  "fr": "Ensemble en poils d'animaux"
+ },
+ {
+  "en": "Icefield Einherjar Set",
+  "fr": "Ensemble d'Esprit Héroïque de la Toundra"
+ },
+ {
+  "en": "Icy Remains Set",
+  "fr": "Ensemble de squelette de glace"
+ },
+ {
+  "en": "Purifying Set",
+  "fr": "Ensemble d'éclat purificateur"
+ },
+ {
+  "en": "Hazard Set",
+  "fr": "Ensemble d'explorateur dangereux"
+ },
+ {
+  "en": "Primitive Set",
+  "fr": "Ensemble d'origine"
+ },
+ {
+  "en": "Garden Mech Set",
+  "fr": "Ensemble de méca-jardinier"
+ },
+ {
+  "en": "Basic Set",
+  "fr": "Ensemble de base"
+ },
+ {
+  "en": "Field Agent Set",
+  "fr": "Ensemble d'acier léger de terrain"
+ },
+ {
+  "en": "Tinker's Set",
+  "fr": "Ensemble d'apprenti artisan"
+ },
+ {
+  "en": "Balamtok Warrior Set",
+  "fr": "Ensemble de guerrier Balamtok"
+ },
+ {
+  "en": "Balamtok Shaman Set",
+  "fr": "Ensemble de prêtre de Balamtok"
+ },
+ {
+  "en": "Wasteland Rampage Set",
+  "fr": "Ensemble Terre en friche galopante"
+ },
+ {
+  "en": "Medium Kepler Set",
+  "fr": "Ensemble moyen Kepler"
+ },
+ {
+  "en": "Kepler Security Set",
+  "fr": "Ensemble de sécurité léger de Kepler"
+ },
+ {
+  "en": "Kepler Researcher Set",
+  "fr": "Ensemble de Chercheur Kepler"
+ },
+ {
+  "en": "Light Kepler Set",
+  "fr": "Ensemble léger de Kepler"
+ },
+ {
+  "en": "Kepler Blizzard Set",
+  "fr": "Ensemble de protection contre le froid de Kepler"
+ },
+ {
+  "en": "Chelae Invader Set",
+  "fr": "Ensemble de paria extraterrestre"
+ },
+ {
+  "en": "Chelae Samurai Set",
+  "fr": "Ensemble de vagabond paria"
+ },
+ {
+  "en": "Mad Dragon Assassin Set",
+  "fr": "Ensemble d'assassin du dragon furieux"
+ },
+ {
+  "en": "Mad Dragon Martial Set",
+  "fr": "Ensemble de Guerrier Dragon Furieux"
+ },
+ {
+  "en": "Scavenger's Medium Set",
+  "fr": "Ensemble moyen de Charognards"
+ },
+ {
+  "en": "Scavenger's Light Set",
+  "fr": "Ensemble léger de Charognards"
+ },
+ {
+  "en": "Scavenger's Heavy Set",
+  "fr": "Ensemble lourd de Charognards"
+ },
+ {
+  "en": "Scavenger King's Set",
+  "fr": "Ensemble du roi des récupérateurs"
+ },
+ {
+  "en": "Traveler's Set",
+  "fr": "Tenue de voyage"
+ },
+ {
+  "en": "Stylish Set",
+  "fr": "Ensemble de mode"
+ },
+ {
+  "en": "Crystal-Core Set",
+  "fr": "Ensemble d'énergie cristalline"
+ },
+ {
+  "en": "Shadow Priest Set",
+  "fr": "Ensemble de prêtre de l'ombre"
+ },
+ {
+  "en": "Beach Set",
+  "fr": "Tenue de plage"
+ },
+ {
+  "en": "Wanderer's Set",
+  "fr": "Ensemble de vagabond"
+ },
+ {
+  "en": "Luminous Scaled Set",
+  "fr": "Ensemble Écailles de lumière des abysses"
+ },
+ {
+  "en": "Ranger Set",
+  "fr": "Ensemble de Ranger"
+ },
+ {
+  "en": "Fire Salamander Set",
+  "fr": "Ensemble de salamandre"
+ },
+ {
+  "en": "Fire Salamander Scout Set",
+  "fr": "Ensemble d'éclaireur salamandre"
+ },
+ {
+  "en": "Serpent Envoy Set",
+  "fr": "Ensemble d'émissaire du serpent divin"
+ },
+ {
+  "en": "Blazing Set",
+  "fr": "Ensemble de roche ardente"
+ },
+ {
+  "en": "Boiler Gang Medium Set",
+  "fr": "Ensemble moyen du Gang du Fourneau"
+ },
+ {
+  "en": "Boiler Gang Light Set",
+  "fr": "Ensemble léger du Gang du Fourneau"
+ },
+ {
+  "en": "Boiler Core Set",
+  "fr": "Ensemble de Noyau de fourneau"
+ },
+ {
+  "en": "Wild Rush Set",
+  "fr": "Ensemble de Galop sauvage"
+ },
+ {
+  "en": "Hunter's Set",
+  "fr": "Ensemble de chasseur"
+ },
+ {
+  "en": "Crimson Demon Set",
+  "fr": "Ensemble Ombre écarlate"
+ },
+ {
+  "en": "Prisoner Set",
+  "fr": "Ensemble de prisonnier"
+ },
+ {
+  "en": "Thief's Set",
+  "fr": "Ensemble de voleur"
+ },
+ {
+  "en": "Damaged Beach Set",
+  "fr": "Ensemble de plage endommagé"
+ },
+ {
+  "en": "Damaged Delivery Set",
+  "fr": "Ensemble de motard endommagé"
+ },
+ {
+  "en": "Purple Lightning Set",
+  "fr": "Ensemble Éclair Violet"
+ },
+ {
+  "en": "Cursed Set",
+  "fr": "Ensemble de péché"
+ },
+ {
+  "en": "Thorny Nurse Set",
+  "fr": "Ensemble d'infirmière épineuse"
+ },
+ {
+  "en": "Suited Scoundrel Set",
+  "fr": "Ensemble de brute en costume"
+ },
+ {
+  "en": "Cowboy Set",
+  "fr": "Panoplie de Cowboy western"
+ },
+ {
+  "en": "Apprentice Set",
+  "fr": "Ensemble de stagiaire"
+ },
+ {
+  "en": "Riot Set",
+  "fr": "Ensemble anti-émeute standard"
+ },
+ {
+  "en": "Meteor-Horn Set",
+  "fr": "Ensemble de cuirasse de météorite"
+ },
+ {
+  "en": "Elegant Set",
+  "fr": "Ensemble Élégance Noble"
+ },
+ {
+  "en": "Whispering Winds Set",
+  "fr": "Ensemble Murmure du vent"
+ },
+ {
+  "en": "Rider Set",
+  "fr": "Ensemble de motard"
+ },
+ {
+  "en": "Skeletal Set",
+  "fr": "Ensemble de crâne"
+ },
+ {
+  "en": "Fierce-Maned Set",
+  "fr": "Ensemble Crinière de grue et Ombre ardente"
+ }
+]

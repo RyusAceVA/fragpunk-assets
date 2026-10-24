@@ -1,0 +1,253 @@
+{
+ "patch": "2026-10-22",
+ "season": "Saison 6 chapitre 2 « Wasteland Rhapsody »",
+ "compared_with": "dump du 2026-08-27",
+ "official_notes": "https://www.fragpunk.com/news/update/20261013/40588_1316523.html",
+ "legend": {
+  "status": "released = sorti le 22/10 ; upcoming = dans les fichiers mais annoncé « coming soon » ou non sorti ; unknown = statut non vérifié",
+  "name_source": "texts = trouvé dans les fichiers de traduction du jeu ; official = page officielle ; null = nom non identifié"
+ },
+ "lancers": [
+  {
+   "code": "C002",
+   "name": null,
+   "note": "Portrait + artwork seulement. Correspond au coursier jaune, personnage joueur de FarLands (corps de base HC002).",
+   "status": "upcoming",
+   "portrait": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/portraits/Icon_Lancers_Head01__H_208002010.png"
+  }
+ ],
+ "lancer_skins": [
+  {
+   "lancer": "C021",
+   "lancer_name": "Zephyr",
+   "skin": "CS3954",
+   "name_en": "Incomplete Shadow",
+   "name_fr": "Ombre inachevée",
+   "rarity": "Superb",
+   "variants": 5,
+   "status": "upcoming",
+   "name_source": [
+    "official",
+    "texts"
+   ],
+   "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C021/CS3954.glb"
+  },
+  {
+   "lancer": "C031",
+   "lancer_name": "Axon",
+   "skin": "CS3908",
+   "name_en": "Wasteland Rhapsody",
+   "name_fr": "Marche des Terres Désolées",
+   "rarity": "Superb",
+   "variants": 6,
+   "status": "upcoming",
+   "name_source": [
+    "official",
+    "texts"
+   ],
+   "description_en": "To Axon, the end of the world is merely the carnival stage he has always dreamed of.",
+   "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C031/CS3908.glb"
+  },
+  {
+   "lancer": "C016",
+   "lancer_name": "Wildstyle",
+   "skin": "CS2922",
+   "name_en": null,
+   "name_fr": null,
+   "rarity": null,
+   "status": "unknown",
+   "name_source": null,
+   "note": "Même ligne de skins sur 5 Lancers ; probablement les skins Rare « Graffiti Mischief » du passe de combat (non confirmé par les textes).",
+   "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C016/CS2922.glb"
+  },
+  {
+   "lancer": "C024",
+   "lancer_name": "Spider",
+   "skin": "CS2922",
+   "name_en": null,
+   "name_fr": null,
+   "rarity": null,
+   "status": "unknown",
+   "name_source": null,
+   "note": "Même ligne de skins sur 5 Lancers ; probablement les skins Rare « Graffiti Mischief » du passe de combat (non confirmé par les textes).",
+   "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C024/CS2922.glb"
+  },
+  {
+   "lancer": "C025",
+   "lancer_name": "Calamity",
+   "skin": "CS2922",
+   "name_en": null,
+   "name_fr": null,
+   "rarity": null,
+   "status": "unknown",
+   "name_source": null,
+   "note": "Même ligne de skins sur 5 Lancers ; probablement les skins Rare « Graffiti Mischief » du passe de combat (non confirmé par les textes).",
+   "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C025/CS2922.glb"
+  },
+  {
+   "lancer": "C038",
+   "lancer_name": "Counterfeit",
+   "skin": "CS2922",
+   "name_en": null,
+   "name_fr": null,
+   "rarity": null,
+   "status": "unknown",
+   "name_source": null,
+   "note": "Même ligne de skins sur 5 Lancers ; probablement les skins Rare « Graffiti Mischief » du passe de combat (non confirmé par les textes).",
+   "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C038/CS2922.glb"
+  },
+  {
+   "lancer": "C052",
+   "lancer_name": "Sonar",
+   "skin": "CS2922",
+   "name_en": null,
+   "name_fr": null,
+   "rarity": null,
+   "status": "unknown",
+   "name_source": null,
+   "note": "Même ligne de skins sur 5 Lancers ; probablement les skins Rare « Graffiti Mischief » du passe de combat (non confirmé par les textes).",
+   "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C052/CS2922.glb"
+  },
+  {
+   "lancer": "C008",
+   "lancer_name": "Hollowpoint",
+   "skin": "CS2919",
+   "name_en": null,
+   "name_fr": null,
+   "rarity": null,
+   "status": "unknown",
+   "name_source": null,
+   "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C008/CS2919.glb"
+  },
+  {
+   "lancer": "C050",
+   "lancer_name": "Hurricane",
+   "skin": "CS2920",
+   "name_en": null,
+   "name_fr": null,
+   "rarity": null,
+   "status": "unknown",
+   "name_source": null,
+   "model": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/lancers/models/C050/CS2920.glb"
+  }
+ ],
+ "weapon_skins": [
+  {
+   "weapon": "MW002",
+   "weapon_name": "Couteau",
+   "skin": "WS3106",
+   "name_en": "Crimson Strike",
+   "rarity": "Superb",
+   "status": "released",
+   "name_source": [
+    "official",
+    "texts"
+   ]
+  },
+  {
+   "weapon": "W001",
+   "weapon_name": "Discipline",
+   "skin": "WS3106",
+   "name_en": "Crimson Strike",
+   "rarity": "Superb",
+   "status": "released",
+   "name_source": [
+    "official",
+    "texts"
+   ]
+  },
+  {
+   "weapon": "W005",
+   "weapon_name": "Mad Dog-S",
+   "skin": "WS3106",
+   "name_en": "Crimson Strike",
+   "rarity": "Superb",
+   "status": "released",
+   "name_source": [
+    "official",
+    "texts"
+   ]
+  },
+  {
+   "weapon": "W013",
+   "weapon_name": "Highlife",
+   "skin": "WS3106",
+   "name_en": "Crimson Strike",
+   "rarity": "Superb",
+   "status": "released",
+   "name_source": [
+    "official",
+    "texts"
+   ]
+  },
+  {
+   "weapon": "W015",
+   "weapon_name": "Vicious",
+   "skin": "WS3106",
+   "name_en": "Crimson Strike",
+   "rarity": "Superb",
+   "status": "released",
+   "name_source": [
+    "official",
+    "texts"
+   ]
+  },
+  {
+   "weapon": "MW002",
+   "weapon_name": "Couteau",
+   "skin": "WS3136",
+   "name_en": null,
+   "status": "unknown",
+   "name_source": null
+  },
+  {
+   "weapon": "W001",
+   "weapon_name": "Discipline",
+   "skin": "WS3136",
+   "name_en": null,
+   "status": "unknown",
+   "name_source": null
+  },
+  {
+   "weapon": "W004",
+   "weapon_name": "Clampdown",
+   "skin": "WS2104",
+   "name_en": null,
+   "status": "unknown",
+   "name_source": null
+  },
+  {
+   "weapon": "W007",
+   "weapon_name": "Boom Broom",
+   "skin": "WS2104",
+   "name_en": null,
+   "status": "unknown",
+   "name_source": null
+  },
+  {
+   "weapon": "W006",
+   "weapon_name": "Meat Marker",
+   "skin": "WS2101",
+   "name_en": null,
+   "status": "unknown",
+   "name_source": null
+  }
+ ],
+ "charms": [
+  "GZ407",
+  "GZ408",
+  "GZ409",
+  "GZ410",
+  "GZ411",
+  "GZ412"
+ ],
+ "modes": [
+  {
+   "name": "FarLands",
+   "status": "upcoming",
+   "early_access": "2026-11-05",
+   "details": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/FARLANDS.md",
+   "data": "https://raw.githubusercontent.com/RyusAceVA/fragpunk-assets/main/farlands/data/farlands.json"
+  }
+ ]
+}

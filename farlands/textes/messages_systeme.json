@@ -1,0 +1,774 @@
+[
+ {
+  "en": "NPC is in combat. Please try again later.",
+  "fr": "Le PNJ est en combat, veuillez patienter."
+ },
+ {
+  "en": "Prompt when the master-side player object does not exist.",
+  "fr": "Message d'erreur lorsque l'objet joueur du côté master n'existe pas"
+ },
+ {
+  "en": "Timeout prompt during master verification RPC",
+  "fr": "Message d'erreur lors de l'expiration du délai RPC de vérification du master"
+ },
+ {
+  "en": "Prompt when master validation fails (no specific reason)",
+  "fr": "Message d'erreur lorsque la vérification du master échoue (sans raison spécifique)"
+ },
+ {
+  "en": "xxxx",
+  "fr": "Veuillez fournir le texte source « xxxx » pour que je puisse effectuer la traduction en français conformément à vos instructions."
+ },
+ {
+  "en": "{1}",
+  "fr": "{1}"
+ },
+ {
+  "en": "{1}Faction{2}LV.{3}",
+  "fr": "{1} Force {2} NIV.{3}"
+ },
+ {
+  "en": "{1} extraction point is open.",
+  "fr": "{1}Le point d'évacuation est ouvert"
+ },
+ {
+  "en": "{1} extraction point closes in {2} seconds.",
+  "fr": "Le point d'extraction sera {1}FERMÉ dans {2}s"
+ },
+ {
+  "en": "{1}: No items available for merging.",
+  "fr": "Aucun objet fabricable pour le moment."
+ },
+ {
+  "en": "{1} Level Up to {2}",
+  "fr": "{1} LEVEL + {2}"
+ },
+ {
+  "en": "No items to submit.",
+  "fr": "Liste remise vide."
+ },
+ {
+  "en": "Show a tip when the submitted LIST is empty.",
+  "fr": "CONSEILS lorsque la LISTE soumise est vide"
+ },
+ {
+  "en": "Submission count exceeds the mission requirement.",
+  "fr": "La quantité soumise dépasse l'EXIGENCE de la Mission."
+ },
+ {
+  "en": "Prompt when the submitted quantity exceeds the Challenge requirement.",
+  "fr": "Notification lorsque la quantité soumise dépasse l'EXIGENCE de la Mission."
+ },
+ {
+  "en": "Listing Limit Reached",
+  "fr": "Le nombre d'articles mis en vente a atteint la limite supérieure."
+ },
+ {
+  "en": "Not a delivery box, cannot be listed.",
+  "fr": "Ce n'est pas une boîte de livraison, impossible à mettre en vente."
+ },
+ {
+  "en": "You cannot list your own items.",
+  "fr": "Vous ne pouvez pas mettre vos propres articles en vente."
+ },
+ {
+  "en": "You cannot purchase your own items.",
+  "fr": "Vous ne pouvez pas acheter vos propres articles."
+ },
+ {
+  "en": "The Warehouse is full. Please Organize it before claiming the upgrade rewards.",
+  "fr": "L'Entrepôt est plein, veuillez le trier avant de récupérer la récompense de mise à niveau."
+ },
+ {
+  "en": "Not Enough Warehouse Space",
+  "fr": "PAS ASSEZ D'ESPACE DANS L'ENTREPÔT"
+ },
+ {
+  "en": "Prompt when the delivery box quantity in the proxy payment order Challenge is invalid.",
+  "fr": "Nombre de boîtes de livraison non valide pour les Missions de paiement de commande."
+ },
+ {
+  "en": "Invalid express box count for the commission order.",
+  "fr": "Nombre de cartons de commande payée pour autrui invalide"
+ },
+ {
+  "en": "Mission submission event is not configured.",
+  "fr": "L'événement de remise de Mission n'est pas configuré."
+ },
+ {
+  "en": "Mission does not exist or has been completed.",
+  "fr": "La Mission n'existe pas ou est déjà terminée."
+ },
+ {
+  "en": "Prompt when the Challenge does not exist or has been completed",
+  "fr": "Message d'erreur lorsque la Mission n'existe pas ou est déjà terminée."
+ },
+ {
+  "en": "Prompt shown only when the Challenge accepts delivery boxes only.",
+  "fr": "Message d'avertissement lorsque la Mission n'accepte que les boîtes de livraison"
+ },
+ {
+  "en": "Challenge Completed",
+  "fr": "Mission accomplie"
+ },
+ {
+  "en": "Mission data error.",
+  "fr": "Anomalies de DONNÉES de Mission"
+ },
+ {
+  "en": "Prompt when a Challenge lacks the corresponding submission event configuration.",
+  "fr": "Message d'avertissement lorsque la Mission manque de configuration d'événement de soumission correspondante"
+ },
+ {
+  "en": "Prompt when Challenge design table data does not exist",
+  "fr": "Message d'erreur lorsque les données de la table de conception des Missions n'existent pas."
+ },
+ {
+  "en": "Quest item missing; pick up or reclaim.",
+  "fr": "L'objet de Mission est manquant, veuillez le ramasser ou le récupérer à nouveau."
+ },
+ {
+  "en": "Sprint",
+  "fr": "Sprint"
+ },
+ {
+  "en": "Sprint allows you to quickly transfer your position, but it consumes stamina and has a significant impact.",
+  "fr": "Sprint permet une téléportation rapide, mais consomme de l'endurance et produit un impact important."
+ },
+ {
+  "en": "Bid too low",
+  "fr": "Offre trop basse"
+ },
+ {
+  "en": "Switch Magnetic Pull Mode",
+  "fr": "PASSER AU MODE D'ATTRACTION MAGNÉTIQUE"
+ },
+ {
+  "en": "Switch to Magnetic Propulsion Mode",
+  "fr": "PASSER À LA PROPULSION MAGNÉTIQUE"
+ },
+ {
+  "en": "Insufficient Armament Vouchers. Unable to equip.",
+  "fr": "PAS ASSEZ de Ticket pour usage d'armes, impossible d'Équiper"
+ },
+ {
+  "en": "The Armament Voucher has been consumed. Please re-equip it or remove it.",
+  "fr": "Les tickets de dotation ont été épuisés, veuillez rééquiper ou supprimer."
+ },
+ {
+  "en": "This slot is unavailable when equipping a standard set.",
+  "fr": "Cet emplacement n'est pas disponible dans l'équipement de Vêtements de ville."
+ },
+ {
+  "en": "Manufacturing {1} requires {2} to reach Lv. {3}.",
+  "fr": "La fabrication de {1} nécessite que {2} atteigne le niveau {3}"
+ },
+ {
+  "en": "Merge successful",
+  "fr": "FABRIQUÉ AVEC SUCCÈS"
+ },
+ {
+  "en": "Prerequisite clues not unlocked.",
+  "fr": "Les indices pré-requis ne sont pas déverrouillés."
+ },
+ {
+  "en": "Instance: {1}",
+  "fr": "Donjon : {1}"
+ },
+ {
+  "en": "Join the party",
+  "fr": "Rejoindre le groupe"
+ },
+ {
+  "en": "Upgrade prerequisites not met.",
+  "fr": "Les conditions préalables à l'amélioration ne sont pas remplies."
+ },
+ {
+  "en": "Placeholder text, mainly used to provide a detailed description of how long until the combat server shuts down.",
+  "fr": "Texte de remplacement, principalement utilisé pour décrire en détail le temps restant avant la fermeture de la tenue de combat."
+ },
+ {
+  "en": "Placeholder text, mainly used to provide a detailed description of the Extraction Point location and related information.",
+  "fr": "Texte de remplacement, principalement utilisé pour décrire en détail l'emplacement du point d'évacuation et ses informations, etc."
+ },
+ {
+  "en": "Parameter error",
+  "fr": "ERREUR de paramètre"
+ },
+ {
+  "en": "You cannot go it alone in Shardverse! Open the MENU now and head to the \"FRIENDS\" screen to add friends!",
+  "fr": "Impossible de se battre seul dans l'éclatsverse ! Ouvrez le MENU maintenant et allez dans l'interface « Amis » pour AJOUTER des amis !"
+ },
+ {
+  "en": "The Map is home to diverse ethnic groups, each with its own sphere of influence.",
+  "fr": "Différents groupes sont répartis sur la Carte, et chaque groupe possède sa propre sphère d'influence."
+ },
+ {
+  "en": "Insufficient Infrastructure Level",
+  "fr": "Niveau d'infrastructure insuffisant"
+ },
+ {
+  "en": "Reputation Upgrade",
+  "fr": "Réputation +"
+ },
+ {
+  "en": "Reputation decreased.",
+  "fr": "La réputation diminue"
+ },
+ {
+  "en": "Cannot be used in the lobby.",
+  "fr": "Indisponible dans le hall"
+ },
+ {
+  "en": "Reward claimed successfully",
+  "fr": "Récompense réclamée avec succès"
+ },
+ {
+  "en": "Complete Challenges to unlock more brand-new gameplay and earn generous rewards. The Surprise is not to be missed, Boss!",
+  "fr": "Complétez des défis pour débloquer de nouveaux modes de jeu et obtenir de généreuses récompenses. Ne manquez pas ces Sorbets d'Été, Chef de station !"
+ },
+ {
+  "en": "Prompt when there are insufficient props in the container",
+  "fr": "Notification lorsque les articles dans le conteneur sont insuffisants"
+ },
+ {
+  "en": "Upgrade {1} Reputation to Friendly",
+  "fr": "Réputation auprès de {1} augmentée à Amical"
+ },
+ {
+  "en": "Reputation with {1} decreased to Hostile.",
+  "fr": "La réputation envers {1} a baissé jusqu'à Hostile"
+ },
+ {
+  "en": "The challenge will start in {1} seconds.",
+  "fr": "Le défi commencera dans {1} secondes."
+ },
+ {
+  "en": "Attributes are full. Cannot use.",
+  "fr": "Attributs au maximum, impossible à utiliser."
+ },
+ {
+  "en": "(长按)冲刺",
+  "fr": "MAJ gauche"
+ },
+ {
+  "en": "An Armament Voucher has been used. Unable to change equipment.",
+  "fr": "Ticket pour usage d'armes utilisé, impossible de changer d'équipement"
+ },
+ {
+  "en": "Preparation status has been canceled.",
+  "fr": "L'état Prêt a été annulé"
+ },
+ {
+  "en": "This order has been abandoned.",
+  "fr": "Commande abandonnée"
+ },
+ {
+  "en": "Unsold",
+  "fr": "Invendu"
+ },
+ {
+  "en": "The challenge has started.",
+  "fr": "Le défi a commencé"
+ },
+ {
+  "en": "Has been defeated.",
+  "fr": "A/M"
+ },
+ {
+  "en": "Currently at {1}'s Hub",
+  "fr": "Station de transfert actuelle à {1}"
+ },
+ {
+  "en": "Prompt when the current server level is below the Challenge requirement.",
+  "fr": "Notification lorsque le niveau actuel du serveur est inférieur au niveau requis pour la Mission."
+ },
+ {
+  "en": "The current equipment has no Item Attributes and cannot be cleared.",
+  "fr": "L'équipement actuel n'a pas d'attributs, impossible de RÉINITIALISER."
+ },
+ {
+  "en": "No affixes available on this gear to recast.",
+  "fr": "L'équipement actuel n'a pas d'affixe, impossible de procéder au Coup puissant."
+ },
+ {
+  "en": "Not enough Coins. Unable to complete packing.",
+  "fr": "Pièces insuffisantes pour payer le coût de réparation"
+ },
+ {
+  "en": "Quick action failed. Please check if there is available capacity.",
+  "fr": "L'opération MESSAGE a échoué. Veuillez vérifier s'il y a de la capacité disponible."
+ },
+ {
+  "en": "This express box is not yours and cannot be submitted.",
+  "fr": "Ce colis ne vous appartient pas et ne peut pas être remis."
+ },
+ {
+  "en": "The delivery box can only be placed in the backpack section of Standard Sets.",
+  "fr": "La boîte de livraison ne peut être placée que dans la zone du sac à dos des Vêtements de ville."
+ },
+ {
+  "en": "Prompt when delivery box ownership verification fails",
+  "fr": "CONSEILS en cas d'échec de la vérification de l'appartenance du colis express"
+ },
+ {
+  "en": "Failed to Regain items in the delivery box.",
+  "fr": "Échec du Regain des objets dans le colis de livraison"
+ },
+ {
+  "en": "Failed to Regain item information.",
+  "fr": "Échec du Regain des informations de l'objet."
+ },
+ {
+  "en": "Congratulations on completing the Challenge! Now open the Challenge panel to claim your rewards!",
+  "fr": "Félicitations, vous avez terminé le Chargement… ! Ouvrez maintenant le panneau des Mission(s) pour récupérer vos récompenses !"
+ },
+ {
+  "en": "The value of items in your inventory does not meet the entry requirements. You cannot enter!",
+  "fr": "La valeur des objets que vous transportez ne répond pas aux conditions d'accès. Entrée impossible !"
+ },
+ {
+  "en": "The rarity of the equipment you are carrying and your backpack does not meet the entry requirements. You cannot enter!",
+  "fr": "La RARETÉ de votre équipement et de votre sac à dos ne répond pas aux conditions d'accès. Impossible d'entrer !"
+ },
+ {
+  "en": "The amount of equipment you are carrying does not meet the entry requirements. You cannot enter!",
+  "fr": "Le nombre d'équipements que vous portez ne répond pas aux restrictions d'accès. Entrée impossible !"
+ },
+ {
+  "en": "Your level does not not meet the entry requirements. You cannot enter!",
+  "fr": "Votre niveau ne répond pas aux conditions d'accès. Impossible d'entrer !"
+ },
+ {
+  "en": "Your teammate does not meet the shard's entry requirements and cannot enter!",
+  "fr": "Votre coéquipier ne répond pas aux restrictions d'accès du fragment actuel. Impossible d'entrer !"
+ },
+ {
+  "en": "Stop listening to music during the fight.",
+  "fr": "Arrête d'écouter de la musique pendant le combat !"
+ },
+ {
+  "en": "Packaging information is abnormal. Please RETRY later.",
+  "fr": "Anomalies d'informations de paquet, veuillez RÉESSAYER plus tard."
+ },
+ {
+  "en": "The packaged data has expired. Please re-enter.",
+  "fr": "Les données du package ont expiré. Veuillez rentrer à nouveau."
+ },
+ {
+  "en": "Failed to deduct item(s).",
+  "fr": "Échec de la déduction de l'objet"
+ },
+ {
+  "en": "Prompt when the player's master cannot be found.",
+  "fr": "Impossible de trouver le serveur maître où se trouve le joueur."
+ },
+ {
+  "en": "The auction no longer exists.",
+  "fr": "La vente aux enchères n'existe pas."
+ },
+ {
+  "en": "The auction has ended.",
+  "fr": "Enchère terminée"
+ },
+ {
+  "en": "The challenge will end in {1} seconds.",
+  "fr": "Le défi prendra fin dans {1} secondes."
+ },
+ {
+  "en": "Accept Challenge",
+  "fr": "Accepter la Mission"
+ },
+ {
+  "en": "Submitted items do not match the order requirements.",
+  "fr": "Les objets soumis ne correspondent pas aux exigences de la commande."
+ },
+ {
+  "en": "View after level up",
+  "fr": "À consulter après le passage au LEVEL +"
+ },
+ {
+  "en": "Another player is interacting with this item.",
+  "fr": "L'opération a échoué car un autre joueur est en train de manipuler cet objet."
+ },
+ {
+  "en": "The operation failed. Please try again.",
+  "fr": "L'opération a échoué, veuillez RÉESSAYER"
+ },
+ {
+  "en": "Favorites Limit Reached",
+  "fr": "Le nombre de collections a atteint la limite supérieure."
+ },
+ {
+  "en": "Failed to abandon order",
+  "fr": "Échec de l'abandon de la commande"
+ },
+ {
+  "en": "Cannot equip duplicate Shard Cards",
+  "fr": "Impossible d'équiper une Carte d'Éclat dupliquée."
+ },
+ {
+  "en": "Unlimited.",
+  "fr": "Illimité"
+ },
+ {
+  "en": "Show Faction Territories",
+  "fr": "Afficher la zone d'influence"
+ },
+ {
+  "en": "Cannot submit normal items and express boxes together.",
+  "fr": "Les objets ORDINAIRES et les boîtes de livraison ne peuvent pas être soumis ensemble."
+ },
+ {
+  "en": "Prompt when submitting Common items together with the delivery box in a mixed hand-in.",
+  "fr": "Notification lors de la remise de Commun objets et de boîtes de livraison mélangés"
+ },
+ {
+  "en": "Server verification timed out, please try again later.",
+  "fr": "Le délai de vérification du serveur a expiré, veuillez réessayer plus tard."
+ },
+ {
+  "en": "Server level is too low to complete this mission.",
+  "fr": "Niveau de serveur insuffisant, impossible de terminer cette Mission."
+ },
+ {
+  "en": "Server is busy, please try again later.",
+  "fr": "Le serveur est occupé. Veuillez réessayer plus tard."
+ },
+ {
+  "en": "Unclaimed won items have reached the limit.",
+  "fr": "Limite d'objets remportés non récupérés atteinte"
+ },
+ {
+  "en": "Insufficient materials",
+  "fr": "Matériaux insuffisants"
+ },
+ {
+  "en": "Not enough materials",
+  "fr": "Matériaux insuffisants"
+ },
+ {
+  "en": "Materials locked. Infrastructure level does not meet the requirement.",
+  "fr": "Matériau BLOQUÉ, Niv. d'infrastructure insuffisant"
+ },
+ {
+  "en": "Verification failed, please try again later.",
+  "fr": "Échec de la vérification. Veuillez réessayer plus tard."
+ },
+ {
+  "en": "Refueling vehicle...",
+  "fr": "Ravitaillement du véhicule en CARBURANT en cours"
+ },
+ {
+  "en": "Entering the Black Market. Please do not attack others.",
+  "fr": "Entrée dans le Marché noir, ne pas attaquer les autres."
+ },
+ {
+  "en": "This Map's trackable Challenges have reached the cap.",
+  "fr": "Le nombre maximum de défis pouvant être suivis sur cette Carte a été atteint."
+ },
+ {
+  "en": "This item cannot be broken down.",
+  "fr": "Impossible de décomposer cet objet"
+ },
+ {
+  "en": "No vehicle found.",
+  "fr": "Aucun véhicule trouvé"
+ },
+ {
+  "en": "No items available to submit.",
+  "fr": "AUCUN OBJET À REMETTRE"
+ },
+ {
+  "en": "Prompt displayed when there are no items to submit.",
+  "fr": "Message d'alerte lorsqu'il n'y a aucun objet à remettre"
+ },
+ {
+  "en": "No packing crates available.",
+  "fr": "Aucune caisse d'emballage disponible"
+ },
+ {
+  "en": "No backpack available. Please obtain an empty backpack before entering packing.",
+  "fr": "Aucun SAC disponible, veuillez d'abord obtenir un SAC vide avant de commencer l'emballage."
+ },
+ {
+  "en": "Not enough refinement materials",
+  "fr": "Quantité de matériel de raffinage insuffisante"
+ },
+ {
+  "en": "ADD AS FRIEND",
+  "fr": "AJOUTER"
+ },
+ {
+  "en": "Failed to add item.",
+  "fr": "L'ajout d'objet a échoué"
+ },
+ {
+  "en": "Click {1} to open the Challenges panel.",
+  "fr": "Cliquez sur {1} pour ouvrir le panneau des Missions"
+ },
+ {
+  "en": "Click {1} to open the Challenges panel and claim rewards.",
+  "fr": "Cliquez sur {1} pour ouvrir le panneau des Missions et récupérer les récompenses"
+ },
+ {
+  "en": "Click {1} to open the MENU.",
+  "fr": "Cliquez sur {1} pour ouvrir le MENU"
+ },
+ {
+  "en": "Click {1} to Show Faction Territories",
+  "fr": "Cliquez sur {1}Afficher la zone d'influence"
+ },
+ {
+  "en": "Fuel is full.",
+  "fr": "PLEIN DE CARBURANT"
+ },
+ {
+  "en": "The item does not exist.",
+  "fr": "L'objet n'existe pas."
+ },
+ {
+  "en": "Item submission successful",
+  "fr": "Soumission de l'article réussie"
+ },
+ {
+  "en": "Player data is loading, please try again later.",
+  "fr": "Chargement des données du joueur, veuillez réessayer plus tard."
+ },
+ {
+  "en": "HP is full.",
+  "fr": "La santé est pleine"
+ },
+ {
+  "en": "Cross-Shard passage closes in {1} minute(s). Please extract immediately.",
+  "fr": "Le passage de fragments expirera dans {1} minutes, veuillez évacuer à temps."
+ },
+ {
+  "en": "Cross-Shard passage closes in {1}. Please extract immediately.",
+  "fr": "Le passage de fragments expirera dans {1}, veuillez évacuer immédiatement."
+ },
+ {
+  "en": "Insufficient Magnetism",
+  "fr": "La force magnétique n'est PAS ASSEZ."
+ },
+ {
+  "en": "Insufficient magnetism, unable to Sprint.",
+  "fr": "Magnétisme insuffisant, impossible de faire un Sprint."
+ },
+ {
+  "en": "Insufficient magnetism, unable to block.",
+  "fr": "Magnétisme insuffisant, impossible de bloquer."
+ },
+ {
+  "en": "Insufficient magnetism, unable to roll.",
+  "fr": "Magnétisme insuffisant, impossible de rouler."
+ },
+ {
+  "en": "Insufficient magnetism, exiting climb.",
+  "fr": "Magnétisme PAS ASSEZ, QUITTER Grimper !"
+ },
+ {
+  "en": "Prosperity Increase",
+  "fr": "Augmentation de la prospérité"
+ },
+ {
+  "en": "Clue Unlocked",
+  "fr": "Indice DÉBLOQUÉ"
+ },
+ {
+  "en": "Backpacks cannot be placed into standard set.",
+  "fr": "Impossible de placer des ensembles réglementaires dans le sac à dos."
+ },
+ {
+  "en": "Items in backpack, Sale Failed",
+  "fr": "Il y a des objets dans le SAC, échec de la vente."
+ },
+ {
+  "en": "Not enough space in backpack",
+  "fr": "ESPACE D'INVENTAIRE INSUFFISANT"
+ },
+ {
+  "en": "Getting Unstuck, {1} seconds remaining.",
+  "fr": "Dégagement en cours, il reste {1} secondes."
+ },
+ {
+  "en": "Order mission requires exactly one express box.",
+  "fr": "Vous ne devez et ne pouvez soumettre qu'un seul carton d'expédition pour la Mission de commande."
+ },
+ {
+  "en": "Prompt when the number of delivery boxes in an (Order) Challenge is invalid (must be exactly one).",
+  "fr": "Message d'erreur lorsque le nombre de cartons de livraison pour la Mission de commande est invalide (un seul est requis et autorisé)"
+ },
+ {
+  "en": "Prompt when the Order Quest item does not match the requirements",
+  "fr": "Notification lorsque les objets de la Mission de commande ne correspondent pas aux exigences"
+ },
+ {
+  "en": "Insufficient items required for the order.",
+  "fr": "Articles insuffisants pour la commande"
+ },
+ {
+  "en": "The items required for the order have not been fully placed yet.",
+  "fr": "Les objets requis pour la commande ne sont pas encore tous réunis."
+ },
+ {
+  "en": "The comment does not exist.",
+  "fr": "Le commentaire n'existe pas."
+ },
+ {
+  "en": "The comment feature is CLOSED",
+  "fr": "La fonction de commentaire est désactivée"
+ },
+ {
+  "en": "Comment Limit Reached",
+  "fr": "Limite de commentaires atteinte"
+ },
+ {
+  "en": "Comment is too long",
+  "fr": "Le commentaire est trop long."
+ },
+ {
+  "en": "Modifier slots are full.",
+  "fr": "Emplacements d'attributs complets"
+ },
+ {
+  "en": "Affix slots are full. Cannot add more affixes.",
+  "fr": "Emplacements d'attributs complets. Impossible d'ajouter l'attribut."
+ },
+ {
+  "en": "This mission can only be submitted on the client.",
+  "fr": "Cette Mission ne peut être soumise que via le client."
+ },
+ {
+  "en": "This Challenge only shows a prompt when submitting on the client.",
+  "fr": "Cette Mission ne peut être soumise que via le client."
+ },
+ {
+  "en": "This mission only accepts express boxes.",
+  "fr": "Cette Mission n'accepte que les boîtes de livraison."
+ },
+ {
+  "en": "This auction does not support Buy It Now.",
+  "fr": "Cette enchère ne prend pas en charge l'achat immédiat."
+ },
+ {
+  "en": "This item is not required by the mission.",
+  "fr": "Cet article n'est pas requis pour les Mission(s)."
+ },
+ {
+  "en": "Please put it in the backpack first.",
+  "fr": "Veuillez d'abord le placer dans votre inventaire."
+ },
+ {
+  "en": "Click or drag to select items to sell",
+  "fr": "Veuillez cliquer ou faire glisser pour sélectionner l'article."
+ },
+ {
+  "en": "Please add at least one packaged target item.",
+  "fr": "Veuillez ajouter au moins un objet cible à emballer."
+ },
+ {
+  "en": "Please add at least one item.",
+  "fr": "Veuillez placer au moins un objet"
+ },
+ {
+  "en": "Load is too high to Sprint.",
+  "fr": "Charge trop élevée, impossible de faire un Sprint"
+ },
+ {
+  "en": "Insufficient currency.",
+  "fr": "Les pièces ne suffisent pas."
+ },
+ {
+  "en": "Cargo transport START",
+  "fr": "Le transport de marchandises va COMMENCER"
+ },
+ {
+  "en": "Purchasing {1} requires {2} to reach Lv. {3}.",
+  "fr": "L'achat de {1} nécessite que le niveau {2} atteigne le niveau {3}"
+ },
+ {
+  "en": "Too far away.",
+  "fr": "La distance est trop grande"
+ },
+ {
+  "en": "Too far away. Please move closer to interact.",
+  "fr": "La distance est trop grande, veuillez vous rapprocher pour interagir."
+ },
+ {
+  "en": "Immune to fall damage and stagger within the springboard area, briefly persisting after jumping.",
+  "fr": "Immunité aux dégâts de chute et au déséquilibre dans la zone du tremplin, avec un bref prolongement après la propulsion."
+ },
+ {
+  "en": "Transfer successful",
+  "fr": "Téléportation réussie"
+ },
+ {
+  "en": "The vehicle has been submerged.",
+  "fr": "Véhicule submergé"
+ },
+ {
+  "en": "Vehicle not stopped.",
+  "fr": "Le véhicule n'est pas STATIQUE"
+ },
+ {
+  "en": "Vehicle fuel has been depleted.",
+  "fr": "LE CARBURANT DU VÉHICULE EST ÉPUISÉ"
+ },
+ {
+  "en": "Failed to add vehicle fuel.",
+  "fr": "Échec de l'ajout de CARBURANT au véhicule"
+ },
+ {
+  "en": "Vehicle fuel added successfully.",
+  "fr": "Ajout de CARBURANT du véhicule réussi"
+ },
+ {
+  "en": "Vehicle durability restoration failed.",
+  "fr": "Échec du Regain de durabilité du véhicule"
+ },
+ {
+  "en": "Restored vehicle durability.",
+  "fr": "Durabilité du véhicule restaurée avec succès"
+ },
+ {
+  "en": "Tips when the item is not required for the Challenge.",
+  "fr": "CONSEILS lorsque l'objet n'est pas requis pour les Mission(s)"
+ },
+ {
+  "en": "Not enough items.",
+  "fr": "Articles insuffisants"
+ },
+ {
+  "en": "Orders in Transit has reached the maximum limit and cannot be accepted.",
+  "fr": "Limite de commandes en cours de livraison atteinte, impossible d'accepter."
+ },
+ {
+  "en": "Not enough Coins.",
+  "fr": "Les pièces ne suffisent pas."
+ },
+ {
+  "en": "Not enough Coins. Unable to start packing.",
+  "fr": "Les pièces ne suffisent pas pour commencer l'emballage."
+ },
+ {
+  "en": "{1} must reach Lv. {2}",
+  "fr": "Nécessite que {1} atteigne le niveau {2}"
+ },
+ {
+  "en": "Move closer. Too far away.",
+  "fr": "Approchez-vous, c'est trop loin."
+ },
+ {
+  "en": "Claim Challenge Rewards",
+  "fr": "RÉCOMPENSE DE MISSION"
+ },
+ {
+  "en": "Boss {1) appears!",
+  "fr": "BOSS {1} est apparu"
+ },
+ {
+  "en": "Boss {1} is defeated!",
+  "fr": "BOSS {1} a été A/M"
+ }
+]

@@ -1,0 +1,1654 @@
+[
+ {
+  "en": "Eastvale Standard Armguard",
+  "fr": "Brassards standards d'Eastvale"
+ },
+ {
+  "en": "East Valley Standard Equipment - Head",
+  "fr": "Équipement standard d'Eastvale - TÊTE"
+ },
+ {
+  "en": "East Valley Standard Equipment - Gloves",
+  "fr": "Équipement standard d'Eastvale - Gants"
+ },
+ {
+  "en": "East Valley Standard-Issue Equipment - Cuirass",
+  "fr": "Équipement standard d'Eastvale - Plastron"
+ },
+ {
+  "en": "East Valley Standard Issue Equipment - Pants",
+  "fr": "Équipement standard d'Eastvale - Pantalon"
+ },
+ {
+  "en": "Donggu Armament Equipment - Shoes",
+  "fr": "Équipement standard d'Eastvale - Chaussures"
+ },
+ {
+  "en": "Medium Refrigerated Crate",
+  "fr": "Glacière moyenne"
+ },
+ {
+  "en": "Medium Medkit",
+  "fr": "Pack de soins moyen"
+ },
+ {
+  "en": "Medium Card Slot",
+  "fr": "Emplacement de carte moyen"
+ },
+ {
+  "en": "Medium Shipping Box",
+  "fr": "Caisse de livraison moyenne"
+ },
+ {
+  "en": "Medium Incubator",
+  "fr": "Incubateur à température constante de taille moyenne"
+ },
+ {
+  "en": "Medium Crate",
+  "fr": "Caisse moyenne"
+ },
+ {
+  "en": "Medium Weapon Chest",
+  "fr": "Caisse d'armes moyenne"
+ },
+ {
+  "en": "Medium Gas Canister",
+  "fr": "Réservoir de gaz moyen"
+ },
+ {
+  "en": "Medium Consumables Pack",
+  "fr": "Pack de consommables moyen"
+ },
+ {
+  "en": "Medium Biohazardous Materials Box",
+  "fr": "Caisse de produits bio-dangereux moyenne"
+ },
+ {
+  "en": "Medium Eco Sphere",
+  "fr": "Écosphère moyenne"
+ },
+ {
+  "en": "Medium Gift Box",
+  "fr": "Coffret cadeau moyen"
+ },
+ {
+  "en": "Medium Precision Shockproof Case",
+  "fr": "Caisse anti-choc de précision moyenne"
+ },
+ {
+  "en": "Medium Material Box",
+  "fr": "Caisse de matériel moyenne"
+ },
+ {
+  "en": "Medium Woven Bag",
+  "fr": "Sac tissé de taille moyenne"
+ },
+ {
+  "en": "Medium Equipment Crate",
+  "fr": "Coffre d'équipement moyen"
+ },
+ {
+  "en": "Medium Radiation Protection Box",
+  "fr": "Caisse de protection contre les radiations de taille moyenne"
+ },
+ {
+  "en": "Medium Metal Box",
+  "fr": "Caisse métallique moyenne"
+ },
+ {
+  "en": "Medium Steel Drum",
+  "fr": "Baril en acier moyen"
+ },
+ {
+  "en": "Medium Moisture-Proof and Water-Proof Box",
+  "fr": "Caisse moyenne résistante à l'humidité et à l'Eau"
+ },
+ {
+  "en": "Medium Fireproof and Flame-Retardant Box",
+  "fr": "Boîte ignifuge de taille moyenne"
+ },
+ {
+  "en": "Medium Explosion-Proof Box",
+  "fr": "Caisse antidéflagrante moyenne"
+ },
+ {
+  "en": "Medium Food Pack",
+  "fr": "Pack de nourriture moyen"
+ },
+ {
+  "en": "Aesir Standard Issue (Quality 1) - Head",
+  "fr": "Standard des Ases (Rareté 1) - Tête"
+ },
+ {
+  "en": "Aesir Standard Issue (Quality 1) - Gloves",
+  "fr": "Gants standards des Ases (Rareté 1)"
+ },
+ {
+  "en": "Aesir Standard Issue (Quality 1) - Cuirass",
+  "fr": "Plastron standard des Ases (Rareté 1)"
+ },
+ {
+  "en": "Aesir Standard Issue (Quality 1) - Pants",
+  "fr": "Standard des Ases (Rareté 1) - Pantalon"
+ },
+ {
+  "en": "Aesir Standard (Quality 1) - Shoes",
+  "fr": "Standard des Ases (Rareté 1) - Chaussures"
+ },
+ {
+  "en": "Aesir Standard Issue (Rarity 2) - Head",
+  "fr": "Standard des Ases (Rareté 2) - Tête"
+ },
+ {
+  "en": "Aesir Standard Issue (Rarity 2) - Gloves",
+  "fr": "Gants standard des Ases (Rareté 2)"
+ },
+ {
+  "en": "Aesir Standard Issue (Rarity 2) - Cuirass",
+  "fr": "Plastron des Ases (Rareté 2)"
+ },
+ {
+  "en": "Aesir Standard Issue (Rarity 2) - Pants",
+  "fr": "Standard des Ases (Rareté 2) - Pantalon"
+ },
+ {
+  "en": "Aesir Standard Issue (Rarity 2) - Shoes",
+  "fr": "Standard des Ases (Rareté 2) - Chaussures"
+ },
+ {
+  "en": "Aesir Sarcophagus of the Aesir People",
+  "fr": "Sarcophage des Ases"
+ },
+ {
+  "en": "Full Plate Armor",
+  "fr": "Armure de plaques complète"
+ },
+ {
+  "en": "Orc Fitness Champion - Head",
+  "fr": "Champion de fitness orc - Tête"
+ },
+ {
+  "en": "Orc Fitness Champion - Gloves",
+  "fr": "Champion de fitness orc - Gants"
+ },
+ {
+  "en": "Orc Fitness Champion - Breastplate",
+  "fr": "Champion de fitness orc - Plastron"
+ },
+ {
+  "en": "Orc Fitness Champion - Pants",
+  "fr": "Champion de fitness orc - Pantalon"
+ },
+ {
+  "en": "Orcs Fitness Champion - Shoes",
+  "fr": "Champion de fitness orc - Chaussures"
+ },
+ {
+  "en": "Orcs Standard Issue (Quality 1) - Head",
+  "fr": "Standard orc (Qualité 1) - Tête"
+ },
+ {
+  "en": "Orc Standard Issue (Quality 1) - Gloves",
+  "fr": "Gantelets de dotation orc (Qualité 1)"
+ },
+ {
+  "en": "Orc Standard (Quality 1) - Breastplate",
+  "fr": "Plastron standard orc (Qualité {1})"
+ },
+ {
+  "en": "Orc Standard Issue (Quality 1) - Pants",
+  "fr": "Pantalon standard orc (Qualité 1)"
+ },
+ {
+  "en": "Orc Standard Issue (Quality 1) - Shoes",
+  "fr": "Standard orc (Qualité {1}) - Chaussures"
+ },
+ {
+  "en": "Orc Standard Issue (Quality 2) - Head",
+  "fr": "Standard orc (Rareté 2) - Tête"
+ },
+ {
+  "en": "Orc Standard Issue (Quality 2) - Gloves",
+  "fr": "Gants standards d'orc (Rareté 2)"
+ },
+ {
+  "en": "Orc Standard Issue (Quality 2) - Breastplate",
+  "fr": "Plastron standard orc (Rareté 2)"
+ },
+ {
+  "en": "Orc Standard Issue (Quality 2) - Pants",
+  "fr": "Pantalon standard orc (Rareté 2)"
+ },
+ {
+  "en": "Orc Standard Issue (Quality 2) - Shoes",
+  "fr": "Équipement standard orc (Rareté 2) - Chaussures"
+ },
+ {
+  "en": "Orc Marauder - Head",
+  "fr": "Pilleur orc - Tête"
+ },
+ {
+  "en": "Orc Marauder - Breastplate",
+  "fr": "Cuirasse de pillard orc"
+ },
+ {
+  "en": "Orc Raiders - Pants",
+  "fr": "Pantalon de pillard orc"
+ },
+ {
+  "en": "Orc Marauder - Shoes",
+  "fr": "Bottes de maraudeur orc"
+ },
+ {
+  "en": "Fur Gloves - Gloves",
+  "fr": "Gants en fourrure - Gants"
+ },
+ {
+  "en": "Beast Bone Mask - Head",
+  "fr": "Masque en os d'animal - Tête"
+ },
+ {
+  "en": "Ice Skull - Head",
+  "fr": "Tête de crâne de glace"
+ },
+ {
+  "en": "Ice Skull - Gloves",
+  "fr": "Gants de Crâne de Glace"
+ },
+ {
+  "en": "Ice Skull - Cuirass",
+  "fr": "Cuirasse de Crâne de Glace"
+ },
+ {
+  "en": "Ice Skull - Pants",
+  "fr": "Pantalon de Crâne de Glace"
+ },
+ {
+  "en": "Ice Skull - Shoes",
+  "fr": "Chaussures de Crâne de Glace"
+ },
+ {
+  "en": "Purification Cultist - HEAD",
+  "fr": "CULTISTE DE LA PURIFICATION - TÊTE"
+ },
+ {
+  "en": "Purification Cultist - Gloves",
+  "fr": "Gants de purificateur"
+ },
+ {
+  "en": "Purification Cultist - Breastplate",
+  "fr": "Cuirasse de dévot purificateur"
+ },
+ {
+  "en": "Purification Cultist - Pants",
+  "fr": "Pantalon de purificateur"
+ },
+ {
+  "en": "Purification Cultist - Shoes",
+  "fr": "Chaussures de purificateur"
+ },
+ {
+  "en": "Nordic Einherjar - HEAD",
+  "fr": "Esprit nordique - TÊTE"
+ },
+ {
+  "en": "Nordic Einherjar - Gloves",
+  "fr": "Gantelets de l'Einhärjar nordique"
+ },
+ {
+  "en": "Nordic Einherjar - Cuirass",
+  "fr": "Cuirasse de l'Einhärjar nordique"
+ },
+ {
+  "en": "Nordic Einherjar - Pants",
+  "fr": "Pantalon de l'Einhärjar nordique"
+ },
+ {
+  "en": "Nordic Einherjar - Shoes",
+  "fr": "Esprit héroïque nordique - Chaussures"
+ },
+ {
+  "en": "Danger Explorer - Head",
+  "fr": "Explorateur de danger - Tête"
+ },
+ {
+  "en": "Danger Explorer - Gloves",
+  "fr": "Explorateur de danger - Gants"
+ },
+ {
+  "en": "Danger Explorer - Cuirass",
+  "fr": "Explorateur de danger - Plastron"
+ },
+ {
+  "en": "Danger Explorer - Pants",
+  "fr": "Explorateur de danger - Pantalon"
+ },
+ {
+  "en": "Danger Explorer - Shoes",
+  "fr": "Explorateur de danger - Chaussures"
+ },
+ {
+  "en": "Prototype Body - HEAD",
+  "fr": "Prototype-TÊTE"
+ },
+ {
+  "en": "Prototype - Gloves",
+  "fr": "Prototype - Gants"
+ },
+ {
+  "en": "Prototype - Breastplate",
+  "fr": "Prototype - Plastron"
+ },
+ {
+  "en": "Prototype Body - Pants",
+  "fr": "Prototype - Pantalon"
+ },
+ {
+  "en": "Prototype - Shoes",
+  "fr": "Prototype - Chaussures"
+ },
+ {
+  "en": "Prison Uniform - Chest Armor",
+  "fr": "Uniforme de prisonnier - Plastron"
+ },
+ {
+  "en": "Prison Uniform - Pants",
+  "fr": "Pantalon de prisonnier"
+ },
+ {
+  "en": "Prison Uniform - Shoes",
+  "fr": "Uniforme de prisonnier - Chaussures"
+ },
+ {
+  "en": "Gardener Mech Trooper - HEAD",
+  "fr": "Robot jardinier - TÊTE"
+ },
+ {
+  "en": "Gardener Mech Trooper - Gloves",
+  "fr": "Robot jardinier - Gants"
+ },
+ {
+  "en": "Gardener Mech Trooper - Cuirass",
+  "fr": "Plastron de Jardinier automate"
+ },
+ {
+  "en": "Gardener Mech Soldier - Pants",
+  "fr": "Pantalon de jardinier méca"
+ },
+ {
+  "en": "Gardener Mech Soldier - Shoes",
+  "fr": "Robot jardinier - Chaussures"
+ },
+ {
+  "en": "Basic Outfit (Style 1) - Chest Armor",
+  "fr": "Vêtements de base (Style 1) - Plastron"
+ },
+ {
+  "en": "Basic Outfit (Style 1) - Pants",
+  "fr": "Vêtements de base (Style 1) - Pantalon"
+ },
+ {
+  "en": "Basic Apparel (Style 2) - Breastplate",
+  "fr": "Vêtements de base (Style 2) - Plastron"
+ },
+ {
+  "en": "Basic Clothing (Style 2) - Pants",
+  "fr": "Vêtements de base (Style 2) - Pantalon"
+ },
+ {
+  "en": "Basic Apparel (Style 3) - Breastplate",
+  "fr": "Vêtements de base (Style 3) - Plastron"
+ },
+ {
+  "en": "Basic Clothing (Style 3) - Pants",
+  "fr": "Vêtements de base (Style 3) - Pantalon"
+ },
+ {
+  "en": "Plastic Barrel",
+  "fr": "Seau en Plastique"
+ },
+ {
+  "en": "Field Agent Armor - Head",
+  "fr": "Armure de tête légère en acier de terrain"
+ },
+ {
+  "en": "Field Agent Armor - Gloves",
+  "fr": "Gants d'armure légère de terrain"
+ },
+ {
+  "en": "Field Agent Armor - Chestplate",
+  "fr": "Plastron d'armure légère en acier de terrain"
+ },
+ {
+  "en": "Field Agent Armor - Pants",
+  "fr": "Pantalon d'armure légère de terrain"
+ },
+ {
+  "en": "Field Agent Armor - Shoes",
+  "fr": "Chaussures d'armure légère en acier de terrain"
+ },
+ {
+  "en": "Large Refrigerated Container",
+  "fr": "Grande glacière"
+ },
+ {
+  "en": "Large Medical Kit",
+  "fr": "Grand kit médical"
+ },
+ {
+  "en": "Large Card Slot",
+  "fr": "EMPLACEMENT DE GRANDE CARTE"
+ },
+ {
+  "en": "Large Backpack",
+  "fr": "Grande caisse express"
+ },
+ {
+  "en": "Large Incubator",
+  "fr": "Grande incubatrice à température constante"
+ },
+ {
+  "en": "Large Crate",
+  "fr": "Grande caisse en bois"
+ },
+ {
+  "en": "Large Weapon Chest",
+  "fr": "Grand coffre d'armes"
+ },
+ {
+  "en": "Large Gas Tank",
+  "fr": "Grand réservoir de gaz"
+ },
+ {
+  "en": "Large Consumables Pack",
+  "fr": "Grand pack de consommables"
+ },
+ {
+  "en": "Large Biohazardous Materials Box",
+  "fr": "Grande caisse de produits bio-dangereux"
+ },
+ {
+  "en": "Large Ecological Sphere",
+  "fr": "Grande éco-sphère"
+ },
+ {
+  "en": "Large Gift Box",
+  "fr": "Grand coffret cadeau"
+ },
+ {
+  "en": "Large Precision Shockproof Case",
+  "fr": "Grande caisse anti-vibration de précision"
+ },
+ {
+  "en": "Large Precision Shockproof Case",
+  "fr": "Grande caisse anti-choc de précision"
+ },
+ {
+  "en": "Large Material Box",
+  "fr": "Grande caisse de matériaux"
+ },
+ {
+  "en": "Large Woven Bag",
+  "fr": "Grand sac tissé"
+ },
+ {
+  "en": "Large Equipment Box",
+  "fr": "Grande caisse d'équipement"
+ },
+ {
+  "en": "Large Radiation Shielding Box",
+  "fr": "Grande caisse de protection contre les radiations"
+ },
+ {
+  "en": "Large Metal Box",
+  "fr": "Grande caisse en Or"
+ },
+ {
+  "en": "Large Moisture-Proof and Waterproof Box",
+  "fr": "Grande caisse étanche à l'humidité et à l'Eau"
+ },
+ {
+  "en": "Large Fireproof Flame-Retardant Box",
+  "fr": "Coffre ignifuge et résistant au feu"
+ },
+ {
+  "en": "Large Explosion-Proof Box",
+  "fr": "Grande caisse antidéflagrante"
+ },
+ {
+  "en": "Large Food Pack",
+  "fr": "Pack de nourriture de grande taille"
+ },
+ {
+  "en": "Large High-Pressure Barrel",
+  "fr": "Grand baril à haute pression"
+ },
+ {
+  "en": "Small Refrigerated Box",
+  "fr": "Petite glacière"
+ },
+ {
+  "en": "Small Medical Backpack",
+  "fr": "Petit SAC médical"
+ },
+ {
+  "en": "Small Card Slot",
+  "fr": "Emplacement de petite carte"
+ },
+ {
+  "en": "Small Shipping Box",
+  "fr": "Petit coffre de livraison"
+ },
+ {
+  "en": "Small Incubator",
+  "fr": "Petit incubateur isotherme"
+ },
+ {
+  "en": "Small Slatted Crate",
+  "fr": "Petite caisse"
+ },
+ {
+  "en": "Small Weapon Chest",
+  "fr": "Petite caisse d'armes"
+ },
+ {
+  "en": "Small Gas Canister",
+  "fr": "Petite bouteille de gaz"
+ },
+ {
+  "en": "Small Consumables Pack",
+  "fr": "Petit pack de consommables"
+ },
+ {
+  "en": "Small Biohazardous Materials Box",
+  "fr": "Petite caisse de produits bio-dangereux"
+ },
+ {
+  "en": "Small Ecological Orb",
+  "fr": "Petite orbe écologique"
+ },
+ {
+  "en": "Small Gift Box",
+  "fr": "Petit coffret cadeau"
+ },
+ {
+  "en": "Small Precision Shockproof Case",
+  "fr": "Petite caisse anti-choc de précision"
+ },
+ {
+  "en": "Small Material Box",
+  "fr": "Petite caisse de matériel"
+ },
+ {
+  "en": "Small Woven Bag",
+  "fr": "Petit sac tissé"
+ },
+ {
+  "en": "Small Equipment Box",
+  "fr": "Petit coffre d'équipement"
+ },
+ {
+  "en": "Small Radiation Shielding Box",
+  "fr": "Petite caisse de protection contre les radiations"
+ },
+ {
+  "en": "Small Metal Box",
+  "fr": "Petite caisse en métal"
+ },
+ {
+  "en": "Small Moisture-Proof and Waterproof Box",
+  "fr": "Petite caisse résistante à l'humidité et à l'Eau"
+ },
+ {
+  "en": "Small Fireproof and Flame-Retardant Box",
+  "fr": "Petit coffre ignifuge et résistant au feu"
+ },
+ {
+  "en": "Small Explosion-Proof Box",
+  "fr": "Petite caisse antidéflagrante"
+ },
+ {
+  "en": "Small Food Pack",
+  "fr": "Petit pack de nourriture"
+ },
+ {
+  "en": "ToolCabinet",
+  "fr": "Armoire à outils"
+ },
+ {
+  "en": "Artisan Apprentice - HEAD",
+  "fr": "Apprenti artisan - TÊTE"
+ },
+ {
+  "en": "Craftsman's Apprentice - Cuirass",
+  "fr": "Apprenti artisan - Plastron"
+ },
+ {
+  "en": "Craftsman's Apprentice - Pants",
+  "fr": "Apprenti artisan - Pantalon"
+ },
+ {
+  "en": "Craftsman's Apprentice - Shoes",
+  "fr": "Apprenti artisan - Chaussures"
+ },
+ {
+  "en": "Balamtok Standard (Warrior) - Head",
+  "fr": "Tête de Balamtok (Guerrier)"
+ },
+ {
+  "en": "Balamtok Standard (Warrior) - Gloves",
+  "fr": "Gants de service (Guerrier) de Balamtok"
+ },
+ {
+  "en": "Balamtok Standard (Warrior) - Cuirass",
+  "fr": "Cuirasse standard de Balamtok (Guerrier)"
+ },
+ {
+  "en": "Balamtok Standard (Warrior) - Pants",
+  "fr": "Pantalon standard de Balamtok (Guerrier)"
+ },
+ {
+  "en": "Balamtok Standard (Warrior) - Shoes",
+  "fr": "Chaussures standard de Balamtok (Guerrier)"
+ },
+ {
+  "en": "Balamtok Standard Set (Priest) - HEAD",
+  "fr": "Standard de Balamtok (Prêtre) - TÊTE"
+ },
+ {
+  "en": "Balamtok Standard (Priest) - Gloves",
+  "fr": "Gants de dotation de Balamtok (Prêtre)"
+ },
+ {
+  "en": "Balamtok Standard (Priest) - Cuirass",
+  "fr": "Cuirasse standard de Balamtok (Prêtre)"
+ },
+ {
+  "en": "Balamtok Standard (Priest) - Pants",
+  "fr": "Standard de Balamtok (Prêtre) - Pantalon"
+ },
+ {
+  "en": "Balamtok Standard (Priest) - Shoes",
+  "fr": "Chaussures standard de Balamtok (Prêtre)"
+ },
+ {
+  "en": "Kepler Standard Issue (Rarity 1) - Head",
+  "fr": "Modèle Kepler (Rareté 1) - Tête"
+ },
+ {
+  "en": "Kepler Standard Issue (Rarity 1) - Gloves",
+  "fr": "Modèle Kepler (Rareté 1) - Gants"
+ },
+ {
+  "en": "Kepler Standard Issue (Rarity 1) - Chest Armor",
+  "fr": "Modèle Kepler (Rareté 1) - Plastron"
+ },
+ {
+  "en": "Kepler Standard Issue (Rarity 1) - Pants",
+  "fr": "Standard de Kepler (Rareté 1) - Pantalon"
+ },
+ {
+  "en": "Kepler Standard Issue (Rarity 1) - Shoes",
+  "fr": "Standard de Kepler (Rareté 1) - Chaussures"
+ },
+ {
+  "en": "Kepler Standard Issue (Rarity 2) - Head",
+  "fr": "Modèle Kepler (Rareté 2) - Tête"
+ },
+ {
+  "en": "Kepler Standard (Rarity 2) - Gloves",
+  "fr": "Standard de Kepler (Rareté 2) - Gants"
+ },
+ {
+  "en": "Kepler Standard (Rarity 2) - Cuirass",
+  "fr": "Cuirasse de type Kepler (Rareté 2)"
+ },
+ {
+  "en": "Kepler Standard Issue (Rarity 2) - Pants",
+  "fr": "Standard de Kepler (Rareté 2) - Pantalon"
+ },
+ {
+  "en": "Kepler Standard Issue (Rarity 2) - Shoes",
+  "fr": "Standard de Kepler (Rareté 2) - Chaussures"
+ },
+ {
+  "en": "Kepler Security Set - HEAD",
+  "fr": "Ensemble de sécurité Kepler - TÊTE"
+ },
+ {
+  "en": "Kepler Security Set - Gloves",
+  "fr": "Ensemble de sécurité Kepler - Gants"
+ },
+ {
+  "en": "Kepler Security Set - Cuirass",
+  "fr": "Plastron de sécurité Kepler"
+ },
+ {
+  "en": "Kepler Security Set - Pants",
+  "fr": "Pantalon de sécurité Kepler"
+ },
+ {
+  "en": "Kepler Security Set - Shoes",
+  "fr": "Ensemble de sécurité Kepler - Chaussures"
+ },
+ {
+  "en": "Kepler Researcher Standard Set - HEAD",
+  "fr": "Chercheur Kepler de série - TÊTE"
+ },
+ {
+  "en": "Kepler Researcher Standard-Issue - Gloves",
+  "fr": "Gants standards de Chercheur Kepler"
+ },
+ {
+  "en": "Kepler Researcher Standard-Issue - Cuirass",
+  "fr": "Cuirasse standard de Chercheur Kepler"
+ },
+ {
+  "en": "Kepler Researcher Standard-Issue - Pants",
+  "fr": "Pantalon standard de Chercheur Kepler"
+ },
+ {
+  "en": "Kepler Researcher Standard-Issue - Shoes",
+  "fr": "Chaussures réglementaires de Chercheur Kepler"
+ },
+ {
+  "en": "Kepler Cold-Weather Prospector - HEAD",
+  "fr": "Explorateur arctique de Kepler - TÊTE"
+ },
+ {
+  "en": "Kepler Cold-Weather Surveyor - Gloves",
+  "fr": "Gants d'explorateur Kepler résistant au froid"
+ },
+ {
+  "en": "Kepler Cold-Weather Surveyor - Cuirass",
+  "fr": "Cuirasse d'explorateur Kepler résistant au froid"
+ },
+ {
+  "en": "Kepler Cold-Weather Surveyor - Pants",
+  "fr": "Explorateur Kepler résistant au froid - Pantalon"
+ },
+ {
+  "en": "Kepler Cold-Weather Surveyor - Shoes",
+  "fr": "Explorateur de protection contre le froid de Kepler - Chaussures"
+ },
+ {
+  "en": "Exiled People: Alien Planet - HEAD",
+  "fr": "Alien banni - TÊTE"
+ },
+ {
+  "en": "Outcast Alien Planet - Gloves",
+  "fr": "Gants d'étranger paria"
+ },
+ {
+  "en": "Outcast Alien Planet - Chest Armor",
+  "fr": "Plastron d'Alien Paria"
+ },
+ {
+  "en": "Exiles of an Alien Planet - Pants",
+  "fr": "Pantalon d'exilé extraterrestre"
+ },
+ {
+  "en": "Outcast Alien Planet - Shoes",
+  "fr": "Chaussures d'alien paria"
+ },
+ {
+  "en": "Chelae Warrior - HEAD",
+  "fr": "Guerrier Chelae - TÊTE"
+ },
+ {
+  "en": "Chelae Warrior - Gauntlets",
+  "fr": "Gantelet de guerrier Chelae"
+ },
+ {
+  "en": "Chelae Warrior - Cuirass",
+  "fr": "Cuirasse de guerrier Chelae"
+ },
+ {
+  "en": "Chelae Warrior - Pants",
+  "fr": "Pantalon de guerrier Chelae"
+ },
+ {
+  "en": "Chelae Warrior - Shoes",
+  "fr": "Guerrier Chelae - Chaussures"
+ },
+ {
+  "en": "Nuoluo Gang Standard Issue (Assassin) - Head",
+  "fr": "Standard du Gang Nura (Assassin) - Tête"
+ },
+ {
+  "en": "Nuoluo Gang Standard Issue (Assassin) - Gloves",
+  "fr": "Gants standards du gang Nura (Assassin)"
+ },
+ {
+  "en": "Nuoluo Gang Standard Issue (Assassin) - Cuirass",
+  "fr": "Plastron standard de Nura (Assassin)"
+ },
+ {
+  "en": "Nuoluo Gang Standard Issue (Assassin) - Pants",
+  "fr": "Pantalon standard de Nura (Assassin)"
+ },
+ {
+  "en": "Nuoluo Gang Standard Issue (Assassin) - Shoes",
+  "fr": "Chaussures standard du gang Nura (Assassin)"
+ },
+ {
+  "en": "Nu Luo Gang Standard Issue (Warrior) - Head",
+  "fr": "Standard du Gang Nura (Guerrier) - Tête"
+ },
+ {
+  "en": "Nuoluo Gang Standard (Warrior) - Gloves",
+  "fr": "Gants de service des Nulabangs (Guerrier)"
+ },
+ {
+  "en": "Nuoluo Gang Standard Issue (Warrior) - Cuirass",
+  "fr": "Cuirasse standard du Gang Nura (Guerrier)"
+ },
+ {
+  "en": "Nu Luo Gang Standard Issue (Warrior) - Pants",
+  "fr": "Pantalon standard de la Bande de la Fureur (Guerrier)"
+ },
+ {
+  "en": "Nu Luo Gang Standard Issue (Warrior) - Shoes",
+  "fr": "Chaussures standard du Gang Nura (Guerrier)"
+ },
+ {
+  "en": "Furious Dragon Gang Tea Crate",
+  "fr": "Coffret de thé du Gang du Dragon Furieux"
+ },
+ {
+  "en": "Furious Dragon Gang Tea Crate",
+  "fr": "Coffret de thé du Gang du Dragon enragé"
+ },
+ {
+  "en": "Spliced Component Bracers - Chest Armor",
+  "fr": "Brassards d'élément épissé - Plastron"
+ },
+ {
+  "en": "Scavengers Standard Issue (Quality 1) - Head",
+  "fr": "Standard de Charognards (Qualité 1) - Tête"
+ },
+ {
+  "en": "Scavengers Standard (Quality 1) - Gloves",
+  "fr": "Gants de service des Charognards (Qualité 1)"
+ },
+ {
+  "en": "Scavengers Standard Issue (Quality 1) - Chest Armor",
+  "fr": "Plastron standard de Charognards (Qualité {1})"
+ },
+ {
+  "en": "Scavengers Standard Issue (Quality 1) - Pants",
+  "fr": "Standard de Charognards (Qualité 1) - Pantalon"
+ },
+ {
+  "en": "Scavengers Standard Issue (Quality 1) - Shoes",
+  "fr": "Standard de Charognards (Qualité 1) - Chaussures"
+ },
+ {
+  "en": "Scavengers Standard Issue (Rarity 2) - Head",
+  "fr": "Standard Charognards (Rareté 2) - Tête"
+ },
+ {
+  "en": "Scavengers Standard Issue (Rarity 2) - Gloves",
+  "fr": "Standard de Charognards (Rareté 2) - Gants"
+ },
+ {
+  "en": "Scavengers Standard Issue (Rarity 2) - Chest Armor",
+  "fr": "Plastron standard de Charognards (Rareté 2)"
+ },
+ {
+  "en": "Scavengers Standard Issue (Rarity 2) - Pants",
+  "fr": "Standard de Charognards (Rareté 2) - Pantalon"
+ },
+ {
+  "en": "Scavengers Standard Issue (Rarity 2) - Shoes",
+  "fr": "Standard de Charognards (Rareté 2) - Chaussures"
+ },
+ {
+  "en": "Scavenger King Helmet",
+  "fr": "Casque du Roi des charognards"
+ },
+ {
+  "en": "Scavenger King Boots",
+  "fr": "Bottes de combat du roi charognard"
+ },
+ {
+  "en": "Scavenger King Gloves",
+  "fr": "Gantelets du roi des récupérateurs"
+ },
+ {
+  "en": "Scavenger King Leg Guards",
+  "fr": "Jambières du Roi des récupérateurs"
+ },
+ {
+  "en": "Scavenger King Chest Armor",
+  "fr": "Armure du Roi des Charognards"
+ },
+ {
+  "en": "Scavenger - HEAD",
+  "fr": "Pilleur - TÊTE"
+ },
+ {
+  "en": "Scavenger - Gloves",
+  "fr": "Gants de charognard"
+ },
+ {
+  "en": "Scavenger - Chest Armor",
+  "fr": "Plastron de charognard"
+ },
+ {
+  "en": "Scavenger - Pants",
+  "fr": "Pantalons de charognard"
+ },
+ {
+  "en": "Scavenger - Shoes",
+  "fr": "Pillard - Chaussures"
+ },
+ {
+  "en": "Scout Light Steel Chainmail",
+  "fr": "Armure d'éclaireur en acier léger"
+ },
+ {
+  "en": "Travel Guard Leather Armor",
+  "fr": "Armure légère de garde de voyage"
+ },
+ {
+  "en": "Traveler - Head",
+  "fr": "Tête de Robes humbles"
+ },
+ {
+  "en": "Traveler - Gloves",
+  "fr": "Gants de robes humbles"
+ },
+ {
+  "en": "Traveler's Cuirass",
+  "fr": "Cuirasse d'humble voyageur"
+ },
+ {
+  "en": "Traveler - Pants",
+  "fr": "Pantalon de Robes humbles"
+ },
+ {
+  "en": "Traveler - Shoes",
+  "fr": "Chaussures de robes humbles"
+ },
+ {
+  "en": "Crystal Energy - HEAD",
+  "fr": "Énergie cristalline - TÊTE"
+ },
+ {
+  "en": "Crystal Energy - Gloves",
+  "fr": "Énergie cristalline - Gants"
+ },
+ {
+  "en": "Crystal Energy - Chestplate",
+  "fr": "Énergie cristalline - Plastron"
+ },
+ {
+  "en": "Crystal Energy - Pants",
+  "fr": "Énergie cristalline - Pantalon"
+ },
+ {
+  "en": "Crystal Energy - Shoes",
+  "fr": "Énergie cristalline - Chaussures"
+ },
+ {
+  "en": "WoodBarrel",
+  "fr": "Armoire murale"
+ },
+ {
+  "en": "Mechanical Arm",
+  "fr": "Bras mécanique"
+ },
+ {
+  "en": "Killer Crab Arm",
+  "fr": "Bras de Crabe féroce"
+ },
+ {
+  "en": "Beachwear - Breastplate",
+  "fr": "Tenue de plage - Plastron"
+ },
+ {
+  "en": "Beachwear - Pants",
+  "fr": "Tenue de plage - Pantalon"
+ },
+ {
+  "en": "Abyssal Adjudicator - Head",
+  "fr": "Juge Abyssal - Tête"
+ },
+ {
+  "en": "Abyssal Adjudicator - Gloves",
+  "fr": "Gants du juge abyssal"
+ },
+ {
+  "en": "Abyssal Adjudicator - Cuirass",
+  "fr": "Cuirasse du juge abyssal"
+ },
+ {
+  "en": "Abyssal Adjudicator - Pants",
+  "fr": "Juge abyssal - Pantalon"
+ },
+ {
+  "en": "Abyssal Adjudicator - Shoes",
+  "fr": "Chaussures de l'Inquisiteur abyssal"
+ },
+ {
+  "en": "Ranger - Breastplate",
+  "fr": "Ranger - Plastron"
+ },
+ {
+  "en": "Ranger - Pants",
+  "fr": "Ranger - Pantalon"
+ },
+ {
+  "en": "Ranger - Shoes",
+  "fr": "Chaussures de ranger"
+ },
+ {
+  "en": "Ranger Studded Leather Armor",
+  "fr": "Armure de cuir cloutée de ranger"
+ },
+ {
+  "en": "Fire Emblem - HEAD",
+  "fr": "Emblème de feu - TÊTE"
+ },
+ {
+  "en": "Flame Pattern - Gloves",
+  "fr": "Gants de sceau de feu"
+ },
+ {
+  "en": "Flame Crest - Cuirass",
+  "fr": "Empreinte de feu - Plastron"
+ },
+ {
+  "en": "Fire Pattern - Pants",
+  "fr": "Pantalon de motif de feu"
+ },
+ {
+  "en": "Fire Pattern - Shoes",
+  "fr": "Empreinte de feu - Chaussures"
+ },
+ {
+  "en": "Salamander Set - Head",
+  "fr": "Ensemble de la Salamandre - Tête"
+ },
+ {
+  "en": "Fire Salamander Set - Gloves",
+  "fr": "Gants de la salamandre"
+ },
+ {
+  "en": "Fire Salamander Set - Cuirass",
+  "fr": "Plastron de la salamandre"
+ },
+ {
+  "en": "Fire Salamander Set - Pants",
+  "fr": "Pantalon de la salamandre"
+ },
+ {
+  "en": "Fire Salamander Set - Shoes",
+  "fr": "Chaussures de l'ensemble de la Salamandre"
+ },
+ {
+  "en": "Fire Salamander Vanguard - Head",
+  "fr": "Salamandre Vanguard - Tête"
+ },
+ {
+  "en": "Fire Salamander Vanguard - Gloves",
+  "fr": "Gants de Salamandre Vanguard"
+ },
+ {
+  "en": "Fire Salamander Vanguard - Cuirass",
+  "fr": "Cuirasse de Salamandre Vanguard"
+ },
+ {
+  "en": "Fire Salamander Vanguard - Pants",
+  "fr": "Pantalon de Vanguard de Salamandre"
+ },
+ {
+  "en": "Salamander Vanguard - Shoes",
+  "fr": "Chaussures de la Salamandre Vanguard"
+ },
+ {
+  "en": "Lava (New BOSS Design) - Head",
+  "fr": "Lave (Nouveau design du BOSS) - Tête"
+ },
+ {
+  "en": "Lava (New BOSS Design) - Gloves",
+  "fr": "Lave (Nouveau design du BOSS) - Gants"
+ },
+ {
+  "en": "Lava (New BOSS Design) - Chestplate",
+  "fr": "Lave (Nouveau design du BOSS) - Plastron"
+ },
+ {
+  "en": "Lava (New BOSS Design) - Pants",
+  "fr": "Lave (Nouveau design du BOSS) - Pantalon"
+ },
+ {
+  "en": "Lava (New BOSS Design) - Shoes",
+  "fr": "Lave (Nouveau design du BOSS) - Chaussures"
+ },
+ {
+  "en": "Boiler Gang Standard (Quality 1) - Head",
+  "fr": "Uniforme du Gang du Fourneau (Rareté 1) - Tête"
+ },
+ {
+  "en": "Boiler Gang Standard Issue (Quality 1) - Gloves",
+  "fr": "Standard du Gang du Fourneau (Rareté 1) - Gants"
+ },
+ {
+  "en": "Boiler Gang Standard Issue (Quality 1) - Cuirass",
+  "fr": "Uniforme du Gang du Fourneau (Rareté 1) - Plastron"
+ },
+ {
+  "en": "Boiler Gang Standard Issue (Quality 1) - Pants",
+  "fr": "Standard du Gang du Fourneau (Rareté 1) - Pantalon"
+ },
+ {
+  "en": "Boiler Gang Standard Issue (Quality 1) - Shoes",
+  "fr": "Standard du Gang du Fourneau (Rareté 1) - Chaussures"
+ },
+ {
+  "en": "Boiler Gang Standard Issue (Rarity 2) - Head",
+  "fr": "Standard du Gang du Fourneau (Rareté 2) - Tête"
+ },
+ {
+  "en": "Boiler Gang Standard Issue (Rarity 2) - Gloves",
+  "fr": "Standard du Gang du Fourneau (Rareté 2) - Gants"
+ },
+ {
+  "en": "Boiler Gang Standard Issue (Rarity 2) - Cuirass",
+  "fr": "Uniforme du Gang du Fourneau (Rareté 2) - Plastron"
+ },
+ {
+  "en": "Boiler Gang Standard Issue (Rarity 2) - Pants",
+  "fr": "Uniforme du Gang du Fourneau (Rareté 2) - Pantalon"
+ },
+ {
+  "en": "Boiler Gang Standard Issue (Rarity 2) - Shoes",
+  "fr": "Standard du Gang du Fourneau (Rareté 2) - Chaussures"
+ },
+ {
+  "en": "Molten Core - HEAD",
+  "fr": "Noyau de fonte brûlante - TÊTE"
+ },
+ {
+  "en": "Moltenforged Core - Gloves",
+  "fr": "Noyau de fonte ardente - Gants"
+ },
+ {
+  "en": "Smelted Core - Chestplate",
+  "fr": "Plastron de NOYAU de fonte brûlante"
+ },
+ {
+  "en": "Moltenforged Core - Pants",
+  "fr": "Noyau de fonte ardente - Pantalon"
+ },
+ {
+  "en": "Molten Core - Shoes",
+  "fr": "Noyau de fonte ardente - Chaussures"
+ },
+ {
+  "en": "Hunter - Head",
+  "fr": "CHASSEUR - TÊTE"
+ },
+ {
+  "en": "Hunter - Cuirass",
+  "fr": "Cuirasse de chasse"
+ },
+ {
+  "en": "Hunter - Pants",
+  "fr": "Pantalon de chasse"
+ },
+ {
+  "en": "Hunter - Shoes",
+  "fr": "CHASSEUR - CHAUSSURES"
+ },
+ {
+  "en": "Orion Fur Set",
+  "fr": "Ensemble de fourrure d'Orion"
+ },
+ {
+  "en": "Rogue Rookie Set",
+  "fr": "Ensemble de Débutant pour Voleur"
+ },
+ {
+  "en": "Damaged Beach Outfit - Breastplate",
+  "fr": "Vêtement de plage endommagé - Plastron"
+ },
+ {
+  "en": "Damaged Beach Outfit - Pants",
+  "fr": "Vêtements de plage endommagés - Pantalon"
+ },
+ {
+  "en": "Damaged Rider Set - Head",
+  "fr": "Ensemble de motard endommagé - Tête"
+ },
+ {
+  "en": "Damaged Rider Set - Gloves",
+  "fr": "Gants de l'ensemble de motard endommagé"
+ },
+ {
+  "en": "Damaged Rider Set - Chest Armor",
+  "fr": "Plastron d'ensemble de motard endommagé"
+ },
+ {
+  "en": "Damaged Rider Outfit - Pants",
+  "fr": "Pantalon d'ensemble de motard endommagé"
+ },
+ {
+  "en": "Damaged Rider Set - Shoes",
+  "fr": "Chaussures de l'ensemble de motard endommagé"
+ },
+ {
+  "en": "Ragged Wanderer Set",
+  "fr": "Ensemble de vagabond en haillons"
+ },
+ {
+  "en": "Shard Wanderer - Gloves",
+  "fr": "Vagabond des Éclats - Gants"
+ },
+ {
+  "en": "Shard Wanderer - Breastplate",
+  "fr": "Cuirasse de vagabond d'Éclat"
+ },
+ {
+  "en": "Shard Wanderer - Pants",
+  "fr": "Vagabond des Éclats - Pantalon"
+ },
+ {
+  "en": "Shard Wanderer - Shoes",
+  "fr": "Vagabond d'Éclat - Chaussures"
+ },
+ {
+  "en": "Rough Orcs Marauder Set",
+  "fr": "Ensemble de maraudeur orc rugueux"
+ },
+ {
+  "en": "Elf Hunter - Head",
+  "fr": "Tête de chasseur d'elfes"
+ },
+ {
+  "en": "Elf Hunter - Gloves",
+  "fr": "Gants de chasseur elfe"
+ },
+ {
+  "en": "Elf Hunter - Breastplate",
+  "fr": "Cuirasse de chasseur elfe"
+ },
+ {
+  "en": "Elf Hunter - Pants",
+  "fr": "Chasseur elfe - Pantalon"
+ },
+ {
+  "en": "Elf Hunter - Shoes",
+  "fr": "Chasseurs de cauchemars - Chaussures"
+ },
+ {
+  "en": "Refined Meteoric Iron - HEAD",
+  "fr": "Fer météorique forgé avec précision - TÊTE"
+ },
+ {
+  "en": "Refined Meteoric Iron - Gloves",
+  "fr": "Gantelets en Fer météorique forgé"
+ },
+ {
+  "en": "Refined Meteoric Iron - Cuirass",
+  "fr": "Plastron en Fer météorique forgé"
+ },
+ {
+  "en": "Refined Meteoric Iron - Pants",
+  "fr": "Pantalon en Fer météorique forgé"
+ },
+ {
+  "en": "Refined Meteoric Iron - Shoes",
+  "fr": "Chaussures en Fer météorique forgé de précision"
+ },
+ {
+  "en": "Amethyst - HEAD",
+  "fr": "Améthyste - TÊTE"
+ },
+ {
+  "en": "Amethyst - Gloves",
+  "fr": "Améthyste - Gants"
+ },
+ {
+  "en": "Amethyst - Chestplate",
+  "fr": "Améthyste - Plastron"
+ },
+ {
+  "en": "Amethyst - Pants",
+  "fr": "Améthyste - Pantalon"
+ },
+ {
+  "en": "Amethyst - Shoes",
+  "fr": "Améthyste - Chaussures"
+ },
+ {
+  "en": "Viking Mage - Head",
+  "fr": "Mage viking - Tête"
+ },
+ {
+  "en": "Viking Mage-Gloves",
+  "fr": "Gants de Mage Viking"
+ },
+ {
+  "en": "Viking Mage-Breastplate",
+  "fr": "Mage Viking - Cuirasse"
+ },
+ {
+  "en": "Viking Mage-Pants",
+  "fr": "Mage Viking - Pantalon"
+ },
+ {
+  "en": "Viking Mage-Shoes",
+  "fr": "Mage Viking - Chaussures"
+ },
+ {
+  "en": "WovenBasket",
+  "fr": "Conteneur de formation"
+ },
+ {
+  "en": "Sin - HEAD",
+  "fr": "Karma - TÊTE"
+ },
+ {
+  "en": "Sin - Gloves",
+  "fr": "Karma - Gants"
+ },
+ {
+  "en": "Sinful Deeds - Chestplate",
+  "fr": "Péché - Plastron"
+ },
+ {
+  "en": "Sin - Pants",
+  "fr": "Pantalon de péché originel"
+ },
+ {
+  "en": "Sin Shoes",
+  "fr": "Péché - Chaussures"
+ },
+ {
+  "en": "The Kukulcan Divine Envoy - Head",
+  "fr": "Le Kukulcan : Émissaire divin - Tête"
+ },
+ {
+  "en": "The Kukulcan Divine Envoy - Gloves",
+  "fr": "Le Kukulcan : Gants de l'émissaire divin"
+ },
+ {
+  "en": "The Kukulcan Divine Envoy - Cuirass",
+  "fr": "Le Kukulcan Messager - Plastron"
+ },
+ {
+  "en": "The Kukulcan Divine Envoy - Pants",
+  "fr": "Le Kukulcan : Messager divin - Pantalon"
+ },
+ {
+  "en": "The Kukulcan Divine Messenger - Shoes",
+  "fr": "Le Kukulcan : Messager divin - Chaussures"
+ },
+ {
+  "en": "Bug Gloves",
+  "fr": "Gants d'insecte"
+ },
+ {
+  "en": "Insect Carapace",
+  "fr": "Cuirasse d'insecte"
+ },
+ {
+  "en": "Insect Legs",
+  "fr": "Jambes d'insecte"
+ },
+ {
+  "en": "Bug Shoes",
+  "fr": "Chaussures d'insecte"
+ },
+ {
+  "en": "West-HEAD",
+  "fr": "Zombie western-TÊTE"
+ },
+ {
+  "en": "Western - Gloves",
+  "fr": "Gants de Zombie western"
+ },
+ {
+  "en": "Western - Breastplate",
+  "fr": "Cuirasse de Zombie western"
+ },
+ {
+  "en": "Western - Pants",
+  "fr": "Pantalon - Zombie western"
+ },
+ {
+  "en": "Western - Shoes",
+  "fr": "Chaussures de Zombie western"
+ },
+ {
+  "en": "Western Arm",
+  "fr": "Bras de zombie western"
+ },
+ {
+  "en": "Trainee - Breastplate",
+  "fr": "Cuirasse de stagiaire"
+ },
+ {
+  "en": "Trainee - Pants",
+  "fr": "Pantalon de stagiaire"
+ },
+ {
+  "en": "Trainee - Shoes",
+  "fr": "Chaussures de stagiaire"
+ },
+ {
+  "en": "Cult Matriarch Set",
+  "fr": "Ensemble de la Matriarche du Culte"
+ },
+ {
+  "en": "Riot Control Standard Set - HEAD",
+  "fr": "Modèle anti-émeute - TÊTE"
+ },
+ {
+  "en": "Riot Control Standard-Issue - Gloves",
+  "fr": "Gants anti-émeute réglementaires"
+ },
+ {
+  "en": "Riot Control Standard Issue - Chest Armor",
+  "fr": "Cuirasse anti-émeute réglementaire"
+ },
+ {
+  "en": "Riot Control Standard Issue - Pants",
+  "fr": "Pantalon anti-émeute réglementaire"
+ },
+ {
+  "en": "Riot Control Standard-Issue - Shoes",
+  "fr": "Chaussures anti-émeute réglementaires"
+ },
+ {
+  "en": "Covert Thief - Head",
+  "fr": "Voleur secret - Tête"
+ },
+ {
+  "en": "Secret Thief - Gloves",
+  "fr": "Gants de voleur furtif"
+ },
+ {
+  "en": "Secret Thief - Cuirass",
+  "fr": "Cuirasse de voleur furtif"
+ },
+ {
+  "en": "Secret Thief - Pants",
+  "fr": "Voleur furtif - Pantalon"
+ },
+ {
+  "en": "Stealthy Thief - Shoes",
+  "fr": "Voleur furtif - Chaussures"
+ },
+ {
+  "en": "Snowfield Warrior - Head",
+  "fr": "Guerrier des neiges - Tête"
+ },
+ {
+  "en": "Snowfield Warrior - Gloves",
+  "fr": "Gants de guerrier des neiges"
+ },
+ {
+  "en": "Snowland Warrior - Breastplate",
+  "fr": "Cuirasse de guerrier des neiges"
+ },
+ {
+  "en": "Snowfield Warrior - Pants",
+  "fr": "Guerrier des neiges - Pantalon"
+ },
+ {
+  "en": "Snowland Warrior - Shoes",
+  "fr": "Chaussures du guerrier des neiges"
+ },
+ {
+  "en": "Rider Helmet",
+  "fr": "Casque de cavalier"
+ },
+ {
+  "en": "Rider Combat Boots",
+  "fr": "Bottes de cavalier"
+ },
+ {
+  "en": "Rider Gloves",
+  "fr": "Gants de cavalier"
+ },
+ {
+  "en": "Rider Leg Guards",
+  "fr": "Jambières de cavalier"
+ },
+ {
+  "en": "Rider Chest Armor",
+  "fr": "Cuirasse de cavalier"
+ },
+ {
+  "en": "Skull - Head",
+  "fr": "Crâne - Tête"
+ },
+ {
+  "en": "Skull Gloves",
+  "fr": "Gantelets de crâne"
+ },
+ {
+  "en": "Skull Cuirass",
+  "fr": "Cuirasse de crâne"
+ },
+ {
+  "en": "Skull - Pants",
+  "fr": "Pantalon de crâne"
+ },
+ {
+  "en": "Skull - Shoes",
+  "fr": "Chaussures de crâne"
+ },
+ {
+  "en": "Advanced Crab Claw",
+  "fr": "Pinces de crabe PREMIUM"
+ },
+ {
+  "en": "Murloc Gear (Elite) - Head",
+  "fr": "Équipement murloc (Élite) - Tête"
+ },
+ {
+  "en": "Murloc Equipment (Elite) - Gloves",
+  "fr": "Équipement murloc (Élite) - Gants"
+ },
+ {
+  "en": "Murloc Equipment (Elite) - Chestplate",
+  "fr": "Équipement de murloc (Élite) - Plastron"
+ },
+ {
+  "en": "Murloc Gear (Elite) - Pants",
+  "fr": "Équipement murloc (Élite) - Pantalon"
+ },
+ {
+  "en": "Murloc Gear (Elite) - Shoes",
+  "fr": "Équipement murloc (Élite) - Chaussures"
+ },
+ {
+  "en": "Shark Daddy Trade - Head",
+  "fr": "Transaction de Papa Requin - Tête"
+ },
+ {
+  "en": "Shark Daddy Trade - Gloves",
+  "fr": "Transaction de Papa Requin - Gants"
+ },
+ {
+  "en": "Shark Daddy Trade - Chestplate",
+  "fr": "Transaction de Papa Requin - Plastron"
+ },
+ {
+  "en": "Shark Daddy Trade - Pants",
+  "fr": "Transaction de Papa Requin - Pantalon"
+ },
+ {
+  "en": "Shark Daddy Trade - Shoes",
+  "fr": "Transactions de Papa Requin - Chaussures"
+ },
+ {
+  "en": "Dark Elf (Medic) - Head",
+  "fr": "Sprite sombre (Médecin) - Tête"
+ },
+ {
+  "en": "Dark Elf (Medic) - Gloves",
+  "fr": "Gants de Sprite sombre (Médecin)"
+ },
+ {
+  "en": "Dark Elf (Medic) - Breastplate",
+  "fr": "Cuirasse de Sprite sombre (Médecin)"
+ },
+ {
+  "en": "Dark Elf (Medic) - Pants",
+  "fr": "Pantalon de Sprite sombre (Médecin)"
+ },
+ {
+  "en": "Dark Elf (Medic) - Shoes",
+  "fr": "Chaussures de Sprite sombre (Médecin)"
+ },
+ {
+  "en": "Dark Elf (Priest) - Head",
+  "fr": "Sprite Sombre (Prêtre) - Tête"
+ },
+ {
+  "en": "Dark Elf (Priest) - Gloves",
+  "fr": "Gants de Sprite sombre (Prêtre)"
+ },
+ {
+  "en": "Dark Elf (Priest) - Breastplate",
+  "fr": "Cuirasse de Sprite sombre (Prêtre)"
+ },
+ {
+  "en": "Dark Elf (Priest) - Pants",
+  "fr": "Sprite sombre (Prêtre) - Pantalon"
+ },
+ {
+  "en": "Dark Elf (Priest) - Shoes",
+  "fr": "Chaussures de Sprite sombre (Prêtre)"
+ },
+ {
+  "en": "Dragon Arm Bracer",
+  "fr": "Brassards de Ryuichi"
+ },
+ {
+  "en": "Dragon One (Modified) - Head",
+  "fr": "Long Un (Déjà modifié) - Tête"
+ },
+ {
+  "en": "Long Yi (Modified) - Gloves",
+  "fr": "Long Yi (Déjà modifié) - Gants"
+ },
+ {
+  "en": "Long Yi (Modified) - Chest Armor",
+  "fr": "Long Yi (Déjà modifié) - Plastron"
+ },
+ {
+  "en": "Long Yi (Modified) - Pants",
+  "fr": "Long Yi (Déjà modifié) - Pantalon"
+ },
+ {
+  "en": "Long Yi (Modified) - Shoes",
+  "fr": "Long Yi (Déjà modifié) - Chaussures"
+ }
+]

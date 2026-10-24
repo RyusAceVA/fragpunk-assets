@@ -1,0 +1,546 @@
+[
+ {
+  "en": "Cabinet",
+  "fr": ""
+ },
+ {
+  "en": "Test Donggu Cure-All Cargo Box",
+  "fr": ""
+ },
+ {
+  "en": "East Valley Hidden Supply Chest",
+  "fr": "Coffre de ravitaillement caché de la Vallée de l'Est"
+ },
+ {
+  "en": "Medium Refrigerated Crate",
+  "fr": "Glacière moyenne"
+ },
+ {
+  "en": "Medium Barrel Bucket",
+  "fr": "Canon rigide moyen"
+ },
+ {
+  "en": "Medium Medkit",
+  "fr": "Pack de soins moyen"
+ },
+ {
+  "en": "Medium Card Slot",
+  "fr": "Emplacement de carte moyen"
+ },
+ {
+  "en": "Medium Shipping Box",
+  "fr": "Caisse de livraison moyenne"
+ },
+ {
+  "en": "Medium Incubator",
+  "fr": "Incubateur à température constante de taille moyenne"
+ },
+ {
+  "en": "Test Backpack 2*2A",
+  "fr": ""
+ },
+ {
+  "en": "Medium Crate",
+  "fr": "Caisse moyenne"
+ },
+ {
+  "en": "Medium Weapon Chest",
+  "fr": "Caisse d'armes moyenne"
+ },
+ {
+  "en": "Medium Gas Canister",
+  "fr": "Réservoir de gaz moyen"
+ },
+ {
+  "en": "Medium Consumables Pack",
+  "fr": "Pack de consommables moyen"
+ },
+ {
+  "en": "Medium Biohazardous Materials Box",
+  "fr": "Caisse de produits bio-dangereux moyenne"
+ },
+ {
+  "en": "Medium Eco Sphere",
+  "fr": "Écosphère moyenne"
+ },
+ {
+  "en": "Medium Gift Box",
+  "fr": "Coffret cadeau moyen"
+ },
+ {
+  "en": "Medium Precision Shockproof Case",
+  "fr": "Caisse anti-choc de précision moyenne"
+ },
+ {
+  "en": "Medium Material Box",
+  "fr": "Caisse de matériel moyenne"
+ },
+ {
+  "en": "Medium Woven Bag",
+  "fr": "Sac tissé de taille moyenne"
+ },
+ {
+  "en": "Medium Equipment Crate",
+  "fr": "Coffre d'équipement moyen"
+ },
+ {
+  "en": "Medium Radiation Protection Box",
+  "fr": "Caisse de protection contre les radiations de taille moyenne"
+ },
+ {
+  "en": "Medium Metal Box",
+  "fr": "Caisse métallique moyenne"
+ },
+ {
+  "en": "Medium Moisture-Proof and Water-Proof Box",
+  "fr": "Caisse moyenne résistante à l'humidité et à l'Eau"
+ },
+ {
+  "en": "Medium Fireproof and Flame-Retardant Box",
+  "fr": "Boîte ignifuge de taille moyenne"
+ },
+ {
+  "en": "Medium Explosion-Proof Box",
+  "fr": "Caisse antidéflagrante moyenne"
+ },
+ {
+  "en": "Medium Food Pack",
+  "fr": "Pack de nourriture moyen"
+ },
+ {
+  "en": "Aesir Sarcophagus of the Aesir People",
+  "fr": "Sarcophage des Ases"
+ },
+ {
+  "en": "Gym Tote Bag",
+  "fr": "Sac de sport"
+ },
+ {
+  "en": "Cold Weapon Box",
+  "fr": "Coffre d'armes blanches"
+ },
+ {
+  "en": "Test Cold Weapon Box",
+  "fr": ""
+ },
+ {
+  "en": "Test Backpack 1*3A",
+  "fr": ""
+ },
+ {
+  "en": "Chemical Storage Cabinet",
+  "fr": "Armoire à produits chimiques"
+ },
+ {
+  "en": "Medical Cabinet",
+  "fr": "Armoire médicale"
+ },
+ {
+  "en": "Medical Box",
+  "fr": "Caisse médicale"
+ },
+ {
+  "en": "Test Backpack 2*3A",
+  "fr": ""
+ },
+ {
+  "en": "Refrigerator",
+  "fr": ""
+ },
+ {
+  "en": "Washing Machine",
+  "fr": ""
+ },
+ {
+  "en": "Destructible Wooden Crate",
+  "fr": "Vêtements pliés destructibles"
+ },
+ {
+  "en": "Plastic Barrel",
+  "fr": "Seau en Plastique"
+ },
+ {
+  "en": "Test Backpack 1*2B",
+  "fr": ""
+ },
+ {
+  "en": "Large Refrigerated Container",
+  "fr": "Grande glacière"
+ },
+ {
+  "en": "Test Backpack 3*3B",
+  "fr": ""
+ },
+ {
+  "en": "Large Medical Box",
+  "fr": "Grande caisse médicale"
+ },
+ {
+  "en": "Large Card Slot",
+  "fr": "EMPLACEMENT DE GRANDE CARTE"
+ },
+ {
+  "en": "Large Backpack",
+  "fr": "Grande caisse express"
+ },
+ {
+  "en": "Large Incubator",
+  "fr": "Grande incubatrice à température constante"
+ },
+ {
+  "en": "Large Crate",
+  "fr": "Grande caisse en bois"
+ },
+ {
+  "en": "Large Weapon Chest",
+  "fr": "Grand coffre d'armes"
+ },
+ {
+  "en": "Large Gas Tank",
+  "fr": "Grand réservoir de gaz"
+ },
+ {
+  "en": "Large Consumables Pack",
+  "fr": "Grand pack de consommables"
+ },
+ {
+  "en": "Large Biohazardous Materials Box",
+  "fr": "Grande caisse de produits bio-dangereux"
+ },
+ {
+  "en": "Large Ecological Sphere",
+  "fr": "Grande éco-sphère"
+ },
+ {
+  "en": "Large Gift Box",
+  "fr": "Grand coffret cadeau"
+ },
+ {
+  "en": "Large Precision Shockproof Case",
+  "fr": "Grande caisse anti-choc de précision"
+ },
+ {
+  "en": "Large Material Box",
+  "fr": "Grande caisse de matériaux"
+ },
+ {
+  "en": "Large Woven Bag",
+  "fr": "Grand sac tissé"
+ },
+ {
+  "en": "Large Equipment Box",
+  "fr": "Grande caisse d'équipement"
+ },
+ {
+  "en": "Large Radiation Shielding Box",
+  "fr": "Grande caisse de protection contre les radiations"
+ },
+ {
+  "en": "Large Metal Box",
+  "fr": "Grande caisse en Or"
+ },
+ {
+  "en": "Large Moisture-Proof and Waterproof Box",
+  "fr": "Grande caisse étanche à l'humidité et à l'Eau"
+ },
+ {
+  "en": "Large Fireproof Flame-Retardant Box",
+  "fr": "Coffre ignifuge et résistant au feu"
+ },
+ {
+  "en": "Large Explosion-Proof Box",
+  "fr": "Grande caisse antidéflagrante"
+ },
+ {
+  "en": "Large Food Pack",
+  "fr": "Pack de nourriture de grande taille"
+ },
+ {
+  "en": "Large High-Pressure Barrel",
+  "fr": "Grand baril à haute pression"
+ },
+ {
+  "en": "Large Wooden Crate",
+  "fr": "Grand coffre en bois"
+ },
+ {
+  "en": "Large Leather Bag",
+  "fr": "Grand sac en cuir"
+ },
+ {
+  "en": "Small Refrigerated Box",
+  "fr": "Petite glacière"
+ },
+ {
+  "en": "Small Medical Kit",
+  "fr": "Petit pack de soins médicaux"
+ },
+ {
+  "en": "Small Card Slot",
+  "fr": "Emplacement de petite carte"
+ },
+ {
+  "en": "Test Backpack 1*1B",
+  "fr": ""
+ },
+ {
+  "en": "Small Shipping Box",
+  "fr": "Petit coffre de livraison"
+ },
+ {
+  "en": "Small Incubator",
+  "fr": "Petit incubateur isotherme"
+ },
+ {
+  "en": "Small Slatted Crate",
+  "fr": "Petite caisse"
+ },
+ {
+  "en": "Small Weapon Chest",
+  "fr": "Petite caisse d'armes"
+ },
+ {
+  "en": "Small Gas Canister",
+  "fr": "Petite bouteille de gaz"
+ },
+ {
+  "en": "Small Consumables Pack",
+  "fr": "Petit pack de consommables"
+ },
+ {
+  "en": "Small Biohazardous Materials Box",
+  "fr": "Petite caisse de produits bio-dangereux"
+ },
+ {
+  "en": "Small Ecological Orb",
+  "fr": "Petite orbe écologique"
+ },
+ {
+  "en": "Small Gift Box",
+  "fr": "Petit coffret cadeau"
+ },
+ {
+  "en": "Small Precision Shockproof Case",
+  "fr": "Petite caisse anti-choc de précision"
+ },
+ {
+  "en": "Small Material Box",
+  "fr": "Petite caisse de matériel"
+ },
+ {
+  "en": "Small Woven Bag",
+  "fr": "Petit sac tissé"
+ },
+ {
+  "en": "Small Equipment Box",
+  "fr": "Petit coffre d'équipement"
+ },
+ {
+  "en": "Small Radiation Shielding Box",
+  "fr": "Petite caisse de protection contre les radiations"
+ },
+ {
+  "en": "Test Backpack 1*1A",
+  "fr": ""
+ },
+ {
+  "en": "Small Metal Box",
+  "fr": "Petite caisse en métal"
+ },
+ {
+  "en": "Small Moisture-Proof and Waterproof Box",
+  "fr": "Petite caisse étanche et résistante à l'humidité"
+ },
+ {
+  "en": "Small Fireproof and Flame-Retardant Box",
+  "fr": "Petit coffre ignifuge et résistant au feu"
+ },
+ {
+  "en": "Small Explosion-Proof Box",
+  "fr": "Petite caisse antidéflagrante"
+ },
+ {
+  "en": "Small Food Pack",
+  "fr": "Petit pack de nourriture"
+ },
+ {
+  "en": "Corpse",
+  "fr": "corps desséché"
+ },
+ {
+  "en": "Tool Cabinet",
+  "fr": "Armoire à outils"
+ },
+ {
+  "en": "Toolbox",
+  "fr": "Boîte à outils"
+ },
+ {
+  "en": "Canvas bag 1*1",
+  "fr": "Sac en toile 1*1"
+ },
+ {
+  "en": "Canvas bag 1*2",
+  "fr": "Sac en toile 1*2"
+ },
+ {
+  "en": "Canvas Tote Bag 2*2",
+  "fr": "Sac en toile 2*2"
+ },
+ {
+  "en": "Canvas bag 3*3",
+  "fr": "Sac en toile 3*3"
+ },
+ {
+  "en": "Abandoned Vehicle Trunk",
+  "fr": "Coffre d'un véhicule abandonné"
+ },
+ {
+  "en": "Kepler Cargo Box",
+  "fr": "Caisse de Kepler"
+ },
+ {
+  "en": "Egg Nest",
+  "fr": "Nid d'oiseau de Pâques"
+ },
+ {
+  "en": "Furious Dragon Gang Tea Crate",
+  "fr": "Coffret de thé du Gang du Dragon Furieux"
+ },
+ {
+  "en": "Flowerpot",
+  "fr": ""
+ },
+ {
+  "en": "DRONE Ruins",
+  "fr": "Débris de drone"
+ },
+ {
+  "en": "Test Backpack 2*3B",
+  "fr": ""
+ },
+ {
+  "en": "SERVER",
+  "fr": "SERVEUR"
+ },
+ {
+  "en": "Wall Mounted Cabinet",
+  "fr": "Armoire murale"
+ },
+ {
+  "en": "Wooden Storage Chest",
+  "fr": "Caisse de rangement en bois"
+ },
+ {
+  "en": "Cabinet",
+  "fr": "Armoire"
+ },
+ {
+  "en": "Test Backpack 1*3B",
+  "fr": ""
+ },
+ {
+  "en": "Test Backpack 1*2A",
+  "fr": ""
+ },
+ {
+  "en": "Toilet",
+  "fr": ""
+ },
+ {
+  "en": "Gasoline Barrel",
+  "fr": "Bidon de Pétrole"
+ },
+ {
+  "en": "Liquid Can 1*2",
+  "fr": "Réservoir de liquide 1*2"
+ },
+ {
+  "en": "Soul Orb 1*1",
+  "fr": "Orbe d'âme 1*1"
+ },
+ {
+  "en": "Corrugated cardboard box",
+  "fr": "Boîte en carton ondulé"
+ },
+ {
+  "en": "Box",
+  "fr": ""
+ },
+ {
+  "en": "Airdrop Cargo Crate",
+  "fr": "Coffre de ravitaillement parachuté"
+ },
+ {
+  "en": "Game console",
+  "fr": ""
+ },
+ {
+  "en": "HIGH Wooden Box",
+  "fr": "Boîte en bois HAUT"
+ },
+ {
+  "en": "Compile Container",
+  "fr": "Conteneur de formation"
+ },
+ {
+  "en": "Ashbin",
+  "fr": ""
+ },
+ {
+  "en": "Rice cooker",
+  "fr": ""
+ },
+ {
+  "en": "Loot box",
+  "fr": ""
+ },
+ {
+  "en": "Seashell Storage Chest",
+  "fr": "Coffre en coquillage"
+ },
+ {
+  "en": "Test Scrapped Vehicle Hood Box",
+  "fr": ""
+ },
+ {
+  "en": "Shipping Box",
+  "fr": "Caisse de transport"
+ },
+ {
+  "en": "Test Backpack 3*3A",
+  "fr": ""
+ },
+ {
+  "en": "Metal Storage Box",
+  "fr": "Coffre de rangement en métal"
+ },
+ {
+  "en": "Metal Workbench",
+  "fr": "Établi de travail en Or"
+ },
+ {
+  "en": "Metal Briefcase",
+  "fr": "Valise en métal"
+ },
+ {
+  "en": "Overland Goods",
+  "fr": "Cargaison terrestre"
+ },
+ {
+  "en": "Food Box",
+  "fr": "Caisse de nourriture"
+ },
+ {
+  "en": "Advanced Crab Claw",
+  "fr": "Pinces de crabe PREMIUM"
+ },
+ {
+  "en": "Test Backpack 2*2B",
+  "fr": ""
+ },
+ {
+  "en": "Microwave oven",
+  "fr": ""
+ }
+]

@@ -1,0 +1,334 @@
+[
+ {
+  "en": "CHL000_Drone",
+  "fr": "CHL000_Drone"
+ },
+ {
+  "en": "Aesir Soldier",
+  "fr": "Soldat Aesir"
+ },
+ {
+  "en": "Aesir Archer",
+  "fr": "Archer Aesir"
+ },
+ {
+  "en": "Aesir Shieldbearer",
+  "fr": "Porteur de bouclier Aesir"
+ },
+ {
+  "en": "Dummy",
+  "fr": "Mannequin"
+ },
+ {
+  "en": "Orc Grunt",
+  "fr": "Grognard orc"
+ },
+ {
+  "en": "Orc Cannoneer",
+  "fr": "Canonnier orc"
+ },
+ {
+  "en": "Orc Centurion",
+  "fr": "Centurion orc"
+ },
+ {
+  "en": "Orc Shieldbearer",
+  "fr": "Porteur de bouclier orc"
+ },
+ {
+  "en": "Ice Wolf",
+  "fr": "Loup des glaces"
+ },
+ {
+  "en": "Ice Pup",
+  "fr": "Louveteau des glaces"
+ },
+ {
+  "en": "Ice Wolf King",
+  "fr": "Roi des loups des glaces"
+ },
+ {
+  "en": "Frost Crystal Bear",
+  "fr": "Ours de cristal de givre"
+ },
+ {
+  "en": "Frost Cub",
+  "fr": "Ourson de givre"
+ },
+ {
+  "en": "Frost Bear King",
+  "fr": "Roi ours de givre"
+ },
+ {
+  "en": "Cryogel Orb",
+  "fr": "Orbe de cryogel"
+ },
+ {
+  "en": "Bloodfreezer",
+  "fr": "Gel-sang"
+ },
+ {
+  "en": "Purifier Construct",
+  "fr": "Construction purificatrice"
+ },
+ {
+  "en": "Doom Hatchling",
+  "fr": "Jeune lézard du destin"
+ },
+ {
+  "en": "Doom Lizard",
+  "fr": "Lézard du destin"
+ },
+ {
+  "en": "Doom Lizard King",
+  "fr": "Roi lézard du destin"
+ },
+ {
+  "en": "Altered Aesir Soldiers",
+  "fr": "Soldat Aesir altéré"
+ },
+ {
+  "en": "Altered Aesir Archer",
+  "fr": "Archer Aesir altéré"
+ },
+ {
+  "en": "Mutated Kepler Researcher",
+  "fr": "Chercheur Kepler muté"
+ },
+ {
+  "en": "Altered Bjorn",
+  "fr": "Bjorn altéré"
+ },
+ {
+  "en": "Mutant Wolf",
+  "fr": "Loup mutant"
+ },
+ {
+  "en": "Mutant Wolf Cub",
+  "fr": "Louveteau mutant"
+ },
+ {
+  "en": "Mutant Wolf King",
+  "fr": "Roi loup mutant"
+ },
+ {
+  "en": "Sentry",
+  "fr": "Sentinelle"
+ },
+ {
+  "en": "Night Market Chef",
+  "fr": "Chef du marché nocturne"
+ },
+ {
+  "en": "Skyhook",
+  "fr": "Croche-ciel"
+ },
+ {
+  "en": "Guardian",
+  "fr": "Gardien"
+ },
+ {
+  "en": "Worker bee",
+  "fr": "Ouvrière abeille"
+ },
+ {
+  "en": "Wasteland Pup",
+  "fr": "Chiot des Terres Désolées"
+ },
+ {
+  "en": "Wasteland Dog King",
+  "fr": "Roi des chiens errants"
+ },
+ {
+  "en": "Wasteland Dog",
+  "fr": "Chien des Terres Désolées"
+ },
+ {
+  "en": "Kepler Security Officer",
+  "fr": "Agent de sécurité Kepler"
+ },
+ {
+  "en": "Kepler Security Captain",
+  "fr": "Capitaine Kepler"
+ },
+ {
+  "en": "Kepler Researcher",
+  "fr": "Chercheur Kepler"
+ },
+ {
+  "en": "Chelae Infantry",
+  "fr": "Fantassin Chelae"
+ },
+ {
+  "en": "Chelae Marksman",
+  "fr": "Tireur d’élite Chelae"
+ },
+ {
+  "en": "Chelae Tank",
+  "fr": "Bouclier Chelae"
+ },
+ {
+  "en": "Chelae Broodmother",
+  "fr": "Mère couvée Chelae"
+ },
+ {
+  "en": "Anger Luo Statue",
+  "fr": "Statue de Nura"
+ },
+ {
+  "en": "Mad Dragon Captain",
+  "fr": "Capitaine du Dragon Fou"
+ },
+ {
+  "en": "Mad Dragon Training Dummy",
+  "fr": "Mannequin du Dragon Fou"
+ },
+ {
+  "en": "Mad Dragon Martial Artist",
+  "fr": "Guerrier du Dragon Fou"
+ },
+ {
+  "en": "Mad Dragon Knife Thrower",
+  "fr": "Lanceur de couteaux"
+ },
+ {
+  "en": "Scavenger Marauder",
+  "fr": "Charognard maraudeur"
+ },
+ {
+  "en": "Scavenger King: Rust-Faced Brutus",
+  "fr": "Roi des récupérateurs · Brutus au visage rouillé"
+ },
+ {
+  "en": "The Scavenger King, leader of the Scavengers and the unquestioned ruler of The Fringe Sector, is cruel and violent, showing no mercy even to his own men. Yet despite that, he is still surrounded by hordes of lackeys. As for the reason, ultimately it may be because he pays full social security for every Scavenger.",
+  "fr": "Le Roi des charognards, chef des Charognards et dirigeant incontesté du Secteur périphérique, possède un caractère cruel et violent, ne montrant aucune pitié même envers ses propres subordonnés. Pourtant, il est toujours entouré d'une foule de sbires ; la raison en est simple : il paie scrupuleusement la sécurité sociale de chaque Charognard."
+ },
+ {
+  "en": "Scavenger Butcher",
+  "fr": "Charognard cogneur"
+ },
+ {
+  "en": "Scavenger Shield",
+  "fr": "Charognard à bouclier"
+ },
+ {
+  "en": "Killer Crab",
+  "fr": "Crabe féroce"
+ },
+ {
+  "en": "Bastion",
+  "fr": "Bastion"
+ },
+ {
+  "en": "Toxigel Orb",
+  "fr": "Orbe de toxigel"
+ },
+ {
+  "en": "Sweeper",
+  "fr": "Nettoyeur"
+ },
+ {
+  "en": "Scavenger Blaster",
+  "fr": "Charognard artilleur"
+ },
+ {
+  "en": "Infernogel Orb",
+  "fr": "Orbe de gel enflammé"
+ },
+ {
+  "en": "Ash Larva",
+  "fr": "Larve de cendre"
+ },
+ {
+  "en": "Ash Worm",
+  "fr": "Ver de cendre"
+ },
+ {
+  "en": "Thermal Leaker",
+  "fr": "Fuiteur thermique"
+ },
+ {
+  "en": "Furnace Gang Arsonist",
+  "fr": "Incendiaire du Brasier"
+ },
+ {
+  "en": "Furnace Gang Leader",
+  "fr": "Chef d'escouade"
+ },
+ {
+  "en": "Electrogel Orb",
+  "fr": "Orbe d’électrogel"
+ },
+ {
+  "en": "Cacharo Enforcer",
+  "fr": "Exécuteur requin blanc"
+ },
+ {
+  "en": "Bomber",
+  "fr": "Bombardier"
+ },
+ {
+  "en": "Siren",
+  "fr": "Sirène"
+ },
+ {
+  "en": "Swift Leopard Cub",
+  "fr": "Léopard rapide juvénile"
+ },
+ {
+  "en": "Swift Leopard",
+  "fr": "Léopard rapide"
+ },
+ {
+  "en": "Swift Leopard King",
+  "fr": "Roi Léopard rapide"
+ },
+ {
+  "en": "Anvil",
+  "fr": "Enclume"
+ },
+ {
+  "en": "Carrion Rat Pup",
+  "fr": "Ratou rouillé"
+ },
+ {
+  "en": "Rusted Rat",
+  "fr": "Rat rouillé"
+ },
+ {
+  "en": "Carrion Rat King",
+  "fr": "Roi des rats rouillés"
+ },
+ {
+  "en": "Stealth Assassin",
+  "fr": "Assassin invisible"
+ },
+ {
+  "en": "Snowblind Stalker",
+  "fr": "Traqueur des neiges"
+ },
+ {
+  "en": "Zombie Cub",
+  "fr": "Ourson zombie"
+ },
+ {
+  "en": "Zombie Bear",
+  "fr": "Ours zombie"
+ },
+ {
+  "en": "Zombie Bear King",
+  "fr": "Roi ours zombie"
+ },
+ {
+  "en": "Mariana Ruffian",
+  "fr": "Éclaireur de Mariana"
+ },
+ {
+  "en": "Mariana Gunslinger",
+  "fr": "Tireur de Mariana"
+ },
+ {
+  "en": "Mariana Guard",
+  "fr": "Garde de Mariana"
+ }
+]

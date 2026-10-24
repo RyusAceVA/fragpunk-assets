@@ -1,0 +1,642 @@
+[
+ {
+  "en": "Omni-Fabricator",
+  "fr": "Imprimante universelle"
+ },
+ {
+  "en": "Middleman Big Pincers",
+  "fr": "Le Fixeur Pinces"
+ },
+ {
+  "en": "Lead Vocal: Siren",
+  "fr": "Chanteuse principale Siren"
+ },
+ {
+  "en": "Central District",
+  "fr": "Zone urbaine principale"
+ },
+ {
+  "en": "Main Base",
+  "fr": "Campement principal"
+ },
+ {
+  "en": "Lookout Eren",
+  "fr": "Vigie Allen"
+ },
+ {
+  "en": "Interact",
+  "fr": "Interactif"
+ },
+ {
+  "en": "Interact",
+  "fr": "Interaction"
+ },
+ {
+  "en": "Trade",
+  "fr": "Transaction"
+ },
+ {
+  "en": "Trading Officer 7 Pairs",
+  "fr": "Officier de transaction 7 paires"
+ },
+ {
+  "en": "Hedonist Lady",
+  "fr": "La Grande Dame des Plaisirs"
+ },
+ {
+  "en": "Residential Area",
+  "fr": "Zone résidentielle"
+ },
+ {
+  "en": "Caretaker No. 21",
+  "fr": "Gardien n° 21"
+ },
+ {
+  "en": "Bodyguard Thresher Shark",
+  "fr": "Garde du corps Requin exécuteur"
+ },
+ {
+  "en": "Side Hall Entrance",
+  "fr": "Entrée du hall latéral"
+ },
+ {
+  "en": "Fitness Star Graytusk",
+  "fr": "Star du fitness Graytusk"
+ },
+ {
+  "en": "Fitness Freak Skarn",
+  "fr": "Fana de fitness Skarn"
+ },
+ {
+  "en": "Scout Bragg",
+  "fr": "Vanguard Bragg"
+ },
+ {
+  "en": "Photovoltaic Power Station",
+  "fr": "Centrale photovoltaïque"
+ },
+ {
+  "en": "Orcish Outpost",
+  "fr": "Avant-poste des orcs"
+ },
+ {
+  "en": "Orcish Core",
+  "fr": "Usine de base des Orques"
+ },
+ {
+  "en": "Orcish Core",
+  "fr": "Usine de base des Orcs"
+ },
+ {
+  "en": "Orcs' Transfer Station",
+  "fr": "Station de transfert des orques"
+ },
+ {
+  "en": "Orc Settlement",
+  "fr": "Colonie d'orques"
+ },
+ {
+  "en": "Orc Camp",
+  "fr": "Campement d'orques"
+ },
+ {
+  "en": "Farmer Ka",
+  "fr": "Agriculteur CARTES"
+ },
+ {
+  "en": "START",
+  "fr": "Commencer"
+ },
+ {
+  "en": "Deconstructor",
+  "fr": "Déconstructeur"
+ },
+ {
+  "en": "Master Scrounger Digsby Digs Three Feet Deep",
+  "fr": "Maître récupérateur : Fouilleur de terre"
+ },
+ {
+  "en": "Secondary Outpost",
+  "fr": "Campement secondaire"
+ },
+ {
+  "en": "Garlock",
+  "fr": "Garlock"
+ },
+ {
+  "en": "Gas Station",
+  "fr": "Station-service de Pétrole"
+ },
+ {
+  "en": "Striver Vincent",
+  "fr": "Vincent l'Efforcé"
+ },
+ {
+  "en": "Medical Merchant",
+  "fr": "Marchand médical"
+ },
+ {
+  "en": "Hospital",
+  "fr": "Hôpital"
+ },
+ {
+  "en": "South Bank Fishing Village Pier",
+  "fr": "Quai du village de pêcheurs de la rive sud"
+ },
+ {
+  "en": "博洛克",
+  "fr": "Broker"
+ },
+ {
+  "en": "Ancient Ruins",
+  "fr": "Ruines antiques"
+ },
+ {
+  "en": "Suspicious Orcs",
+  "fr": "Orque suspect"
+ },
+ {
+  "en": "Foodie Liangzi",
+  "fr": "Gourmet Liangzi"
+ },
+ {
+  "en": "Guitarist Kachinos",
+  "fr": "Guitariste Kachinos"
+ },
+ {
+  "en": "Guitarist Chieftain",
+  "fr": "Guitariste Chef"
+ },
+ {
+  "en": "Miser Avare",
+  "fr": "Harpagon l'Avare"
+ },
+ {
+  "en": "Ring of Fate",
+  "fr": "Anneau du destin"
+ },
+ {
+  "en": "Peace Envoy Paz",
+  "fr": "Messager de la paix Paz"
+ },
+ {
+  "en": "Main Street",
+  "fr": "Commercial A"
+ },
+ {
+  "en": "Merchant Big Hat",
+  "fr": "Marchand au Grand Chapeau"
+ },
+ {
+  "en": "Merchant Scavenger",
+  "fr": "Marchand Glaneur"
+ },
+ {
+  "en": "Merchant Collector",
+  "fr": "Marchand Collectionneur"
+ },
+ {
+  "en": "Merchant One-Eyed",
+  "fr": "Marchand le Borgne"
+ },
+ {
+  "en": "Merchant \"Big Hat\"",
+  "fr": "Marchand « Logan le Grand Chapeau »"
+ },
+ {
+  "en": "Burial Ground",
+  "fr": "Terre des ossements enterrés"
+ },
+ {
+  "en": "Oraric",
+  "fr": "Olaric"
+ },
+ {
+  "en": "妮巧",
+  "fr": "NITRO"
+ },
+ {
+  "en": "Scholar Tiye",
+  "fr": "Érudit Tiye"
+ },
+ {
+  "en": "Rear Guard Dor",
+  "fr": "Arrière-garde Dor"
+ },
+ {
+  "en": "Gravekeeper Silver Scale",
+  "fr": "Gardien de tombe Écaille d'Argent"
+ },
+ {
+  "en": "斯凯拉 “声呐”",
+  "fr": "Veilleur de nuit Sonar"
+ },
+ {
+  "en": "Security Mark",
+  "fr": "Sécurité Marc"
+ },
+ {
+  "en": "Thief Vaulting Horse",
+  "fr": "Voleur Saut de mouton"
+ },
+ {
+  "en": "Little Scavenger King",
+  "fr": "Petit Roi des Scavengers"
+ },
+ {
+  "en": "Trail Outpost",
+  "fr": "Poste de garde du chemin secondaire"
+ },
+ {
+  "en": "Mountain Waterfall",
+  "fr": "Cascade en forêt"
+ },
+ {
+  "en": "Artisan Taka",
+  "fr": "Artisan Taka"
+ },
+ {
+  "en": "Artisan Dagon",
+  "fr": "Artisan Dagon"
+ },
+ {
+  "en": "Engineer Kroz",
+  "fr": "Ingénieur Kroz"
+ },
+ {
+  "en": "Civilians' Parcel Locker",
+  "fr": "Casiers de livraison pour civils"
+ },
+ {
+  "en": "Prologue",
+  "fr": "Prologue"
+ },
+ {
+  "en": "Abandoned Tunnel Entrance",
+  "fr": "Entrée du tunnel abandonné"
+ },
+ {
+  "en": "Chelae Transfer Station",
+  "fr": "Station de transfert des Chelae"
+ },
+ {
+  "en": "Chelae Settlement",
+  "fr": "Colonie des Chelae"
+ },
+ {
+  "en": "Ship Graveyard",
+  "fr": "Amas d'épaves"
+ },
+ {
+  "en": "Lawyer White Gloves",
+  "fr": "Avocat Homme de main"
+ },
+ {
+  "en": "Parcel locker",
+  "fr": "Consigne à colis"
+ },
+ {
+  "en": "Dragon's Nest",
+  "fr": "Nid du Dragon Furieux"
+ },
+ {
+  "en": "Warrior No. 3",
+  "fr": "Guerrier n° 3"
+ },
+ {
+  "en": "Warrior Mohawk",
+  "fr": "Crête du guerrier"
+ },
+ {
+  "en": "Tactics Training Room",
+  "fr": "Salle tactique"
+ },
+ {
+  "en": "打开",
+  "fr": "OUVRIR"
+ },
+ {
+  "en": "Porter Lao Wu",
+  "fr": "Porteur Lao Wu"
+ },
+ {
+  "en": "Collector Colette",
+  "fr": "Colette la collectionneuse"
+ },
+ {
+  "en": "Grocer",
+  "fr": "Épicier"
+ },
+ {
+  "en": "极光",
+  "fr": "Pérennité"
+ },
+ {
+  "en": "HUB",
+  "fr": "Station pivot"
+ },
+ {
+  "en": "Test - Orc Tribe",
+  "fr": "Station pivot"
+ },
+ {
+  "en": "test - Murloc Gathering Grounds",
+  "fr": "Station pivot"
+ },
+ {
+  "en": "Gunman Zelus",
+  "fr": "Tireur Zelus"
+ },
+ {
+  "en": "Muffled Voice",
+  "fr": "AUDIO flou"
+ },
+ {
+  "en": "Weapon Merchant",
+  "fr": "Marchand d’armes"
+ },
+ {
+  "en": "Sailor Ishmael",
+  "fr": "Ishmael le marin"
+ },
+ {
+  "en": "Water Sailor Gibbs",
+  "fr": "Gibbs le marin"
+ },
+ {
+  "en": "Seeker No. 102",
+  "fr": "Chercheur n° 102"
+ },
+ {
+  "en": "Dune Town",
+  "fr": "Dune-ville"
+ },
+ {
+  "en": "Desert",
+  "fr": "Désert"
+ },
+ {
+  "en": "Swamp",
+  "fr": "Marais"
+ },
+ {
+  "en": "流星",
+  "fr": "Hollowpoint"
+ },
+ {
+  "en": "Wanderer Asong",
+  "fr": "Le vagabond A-Song"
+ },
+ {
+  "en": "Shoal",
+  "fr": "Bas-fonds"
+ },
+ {
+  "en": "Shoal",
+  "fr": "Hauts-fonds"
+ },
+ {
+  "en": "Test - Orc Tribe",
+  "fr": "test—Tribu des Orcs"
+ },
+ {
+  "en": "test - Murloc Gathering Grounds",
+  "fr": "test—Rassemblement des Murlocs"
+ },
+ {
+  "en": "Seaside Town",
+  "fr": "Petite ville balnéaire"
+ },
+ {
+  "en": "Fisherman Santiago",
+  "fr": "Santiago le pêcheur"
+ },
+ {
+  "en": "Lighthouse",
+  "fr": "Phare"
+ },
+ {
+  "en": "Coffin Square",
+  "fr": "Carré du Cercueil"
+ },
+ {
+  "en": "测试用NPC",
+  "fr": "Don Fernido de Mariana"
+ },
+ {
+  "en": "Mariana Settlement",
+  "fr": "Lieu de rassemblement des Chelae"
+ },
+ {
+  "en": "Mariana Settlement",
+  "fr": "Lieu de rassemblement des Chelae de Mariana"
+ },
+ {
+  "en": "Shardverse King Luqi",
+  "fr": "Roi éclatsverse Lucci"
+ },
+ {
+  "en": "Watcher Sotus",
+  "fr": "Sotus le Surveillant"
+ },
+ {
+  "en": "Stone Forest",
+  "fr": "Forêt de colonnes de pierre"
+ },
+ {
+  "en": "Dilapidated Overpass",
+  "fr": "Viaduc délabré"
+ },
+ {
+  "en": "Temple Exit",
+  "fr": "Sortie du temple"
+ },
+ {
+  "en": "Outlier Bubble",
+  "fr": "Bulle de l'Exilé"
+ },
+ {
+  "en": "Scientist Mardon",
+  "fr": "Le scientifique Marton"
+ },
+ {
+  "en": "Kemet Depository Station",
+  "fr": "Station de consigne des Kemets"
+ },
+ {
+  "en": "Journey",
+  "fr": "Majordome Tutu"
+ },
+ {
+  "en": "Journey",
+  "fr": "Tutu le majordome"
+ },
+ {
+  "en": "Fans Vance",
+  "fr": "Fans Fans"
+ },
+ {
+  "en": "Translator Xiao Sanyuan",
+  "fr": "Officier de traduction Petit Triple"
+ },
+ {
+  "en": "Eldest Auntie Shi, Sister Shi",
+  "fr": "La vieille dame Sœur Shi"
+ },
+ {
+  "en": "Miner Anna",
+  "fr": "Mineuse Anna"
+ },
+ {
+  "en": "Captain Jack",
+  "fr": "Capitaine Jack"
+ },
+ {
+  "en": "Artist Meri",
+  "fr": "Artiste Meri"
+ },
+ {
+  "en": "茵",
+  "fr": "Pathojen"
+ },
+ {
+  "en": "Honor Cemetery",
+  "fr": "Cimetière de la Gloire"
+ },
+ {
+  "en": "Devout Iside",
+  "fr": "Dévote Iside"
+ },
+ {
+  "en": "Crab People Gathering Place",
+  "fr": "Lieu de rassemblement des Orateurs de crabe"
+ },
+ {
+  "en": "Equipment Merchant",
+  "fr": "Marchand d’équipement"
+ },
+ {
+  "en": "Order",
+  "fr": "Commande"
+ },
+ {
+  "en": "Designer: Skillful Fingers",
+  "fr": "Doigts habiles du designer"
+ },
+ {
+  "en": "Trade Merchant 1",
+  "fr": "Marchand de commerce 1"
+ },
+ {
+  "en": "Trade Merchant 2",
+  "fr": "Marchand de commerce 2"
+ },
+ {
+  "en": "Trade Merchant 3",
+  "fr": "Marchand de commerce 3"
+ },
+ {
+  "en": "Fast Runner, Bro Lun",
+  "fr": "Cours vite, Roue-Man"
+ },
+ {
+  "en": "Sidekick Xiao Ban",
+  "fr": "Sbire Xiao Ban"
+ },
+ {
+  "en": "Crossroads Tower",
+  "fr": "Balise d'intersection"
+ },
+ {
+  "en": "Vehicle Merchant",
+  "fr": "Marchand de véhicules"
+ },
+ {
+  "en": "City Path",
+  "fr": "Allée d'entrée"
+ },
+ {
+  "en": "AI Communicator",
+  "fr": "IA du Communicateur"
+ },
+ {
+  "en": "Harvester Mogrim",
+  "fr": "Cueilleur Mogrim"
+ },
+ {
+  "en": "Angler Pat",
+  "fr": "Pat le pêcheur"
+ },
+ {
+  "en": "Steel Ruins",
+  "fr": "Ruines d'acier"
+ },
+ {
+  "en": "Blacksmith Nehet",
+  "fr": "Forgeron Nehet"
+ },
+ {
+  "en": "Working out, Ahao",
+  "fr": "En plein entraînement Ahao"
+ },
+ {
+  "en": "Mirror",
+  "fr": "Miroir"
+ },
+ {
+  "en": "Random NPC01",
+  "fr": "PNJ ALÉATOIRE 01"
+ },
+ {
+  "en": "Random NPC02",
+  "fr": "PNJ ALÉATOIRE 02"
+ },
+ {
+  "en": "Secluded Retreat",
+  "fr": "Lieu de retraite"
+ },
+ {
+  "en": "Secret Entrance",
+  "fr": "Entrée Secrète"
+ },
+ {
+  "en": "Snowy mountains",
+  "fr": "Montagnes enneigées"
+ },
+ {
+  "en": "Devil's Island",
+  "fr": "L'Île du Diable"
+ },
+ {
+  "en": "Murloc Storage Hub",
+  "fr": "Consigne des Murlocs"
+ },
+ {
+  "en": "Murloc Storage Hub",
+  "fr": "Station de dépôt des Murlocs"
+ },
+ {
+  "en": "Murloc Trading Post",
+  "fr": "Poste de traite des Murlocs"
+ },
+ {
+  "en": "Shark Boss Territory",
+  "fr": "Territoire du Squale Dominant"
+ },
+ {
+  "en": "Shark Dad",
+  "fr": "Papa Requin"
+ },
+ {
+  "en": "Ostrich...?",
+  "fr": "Une... autruche ?"
+ },
+ {
+  "en": "Serket, Master of Deserts",
+  "fr": "Serket, maître des sables"
+ },
+ {
+  "en": "Drummer Andrew",
+  "fr": "Batteur Andrew"
+ }
+]

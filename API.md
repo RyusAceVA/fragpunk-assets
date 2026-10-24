@@ -135,3 +135,16 @@ CORS ouvert. Mêmes formes de données que l'API publique (casse camelCase).
   des armes spéciales/melee).
 - IDs stables dans le temps : `C0xx` (lancer), `CSxxxx` (skin lancer),
   `W0xx`/`WSxxxx` (arme/skin), `GZxxx` (charm), `STxxx` (sticker).
+
+## FarLands et nouveautés de patch
+
+| URL | Contenu |
+|---|---|
+| `/farlands/data/farlands.json` | Index du mode FarLands : `mode`, `counts`, `highlights` (images phares), `videos[]`, `models[]` (`group`, `id`, `url`, `thumbnail`), `maps[]` (`previews`), `texts[]` (`json`, `tsv`, `count`), `images[]` (groupes `id`, `files`). |
+| `/farlands/textes/<table>.json` | Tableaux `[{ "en": "...", "fr": "..." }]` : `regions_histoire`, `factions`, `monstres`, `pnj_noms`, `pnj_dialogues`, `quetes`, `marqueurs_carte`, `documents_histoire`, `equipement`, `objets`, `conteneurs`, `bonus_ensembles`, `messages_systeme`. |
+| `/farlands/textes/_tous_les_textes_du_jeu.tsv` | Les 67 714 textes du jeu, TSV UTF-8 (BOM) : `table`, `cle`, `anglais`, `francais`. |
+| `/data/patches/2026-10-22.json` | Nouveautés du patch : `lancers`, `lancer_skins`, `weapon_skins`, `charms`, `modes`, avec `status` (`released` / `upcoming` / `unknown`) et `name_source` (`official`, `texts`). |
+| `/FARLANDS.md` | Base de connaissances lisible (lieux, factions, monstres, systèmes, cinématiques, niveau de fiabilité). |
+
+Les `.glb` FarLands ont des textures KTX2 (three.js : `KTX2Loader` ; `<model-viewer>` : direct).
+Contenu non sorti au moment de l'extraction : à présenter comme tel.

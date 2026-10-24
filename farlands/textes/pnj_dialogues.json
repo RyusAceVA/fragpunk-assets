@@ -1,0 +1,654 @@
+[
+ {
+  "en": "......",
+  "fr": "Veuillez fournir le texte source en chinois que vous souhaitez faire traduire en français."
+ },
+ {
+  "en": "......",
+  "fr": "Veuillez fournir le texte en chinois que vous souhaitez faire traduire en français."
+ },
+ {
+  "en": "Boss, I have already planned the best route. Press M to open the Map and check it!",
+  "fr": "Boss, j'ai déjà planifié le MEILLEUR itinéraire, appuyez sur M pour ouvrir la Carte et vérifier !"
+ },
+ {
+  "en": "……",
+  "fr": ""
+ },
+ {
+  "en": "Very close... I'm right over... Coordinates already...",
+  "fr": "…très proche… je suis à… les coordonnées ont déjà…"
+ },
+ {
+  "en": "The road might be collapsing...",
+  "fr": "…La frontière… se fissure…"
+ },
+ {
+  "en": "Some of the Lancers still out there have joined our ranks!",
+  "fr": "Certains Lanciers encore actifs nous ont également rejoints !"
+ },
+ {
+  "en": "A letter? Let me take a look.",
+  "fr": "Une lettre ? Laissez-moi voir."
+ },
+ {
+  "en": "The Seven Deadly Sins?",
+  "fr": "Les Sept Péchés Capitaux ?"
+ },
+ {
+  "en": "Three Birdman feathers, Fresh Meat in any form, and a set of prison uniform set.",
+  "fr": "Trois plumes d'oiseau, n'importe quel type de Viande fraîche, et un ensemble de tenue de prisonnier."
+ },
+ {
+  "en": "Impossible! Those Chelae have not been completely wiped out. This war is far from over!",
+  "fr": "C'est impossible ! Ces Chelae n'ont pas encore été tous éliminés, cette Roi de la guerre n'est pas encore finie !"
+ },
+ {
+  "en": "There is an ecological anomaly at Seaside Port. Go investigate it.",
+  "fr": "L'écologie du Port côtier est anormale, allez enquêter."
+ },
+ {
+  "en": "Submit Challenge Dialogue 1",
+  "fr": "Après le concert de la MISSION 1"
+ },
+ {
+  "en": "Submit Challenge Dialogue 2",
+  "fr": "Après le concert de la MISSION 2"
+ },
+ {
+  "en": "Humans, although we appreciate your help, you still have to prove your abilities.",
+  "fr": "Humain, bien que nous vous soyons reconnaissants pour votre aide, vous devez encore prouver vos capacités."
+ },
+ {
+  "en": "What is it?",
+  "fr": "Qu'est-ce qu'il y a ?"
+ },
+ {
+  "en": "He is severely injured; with this kind of injury, there is basically no hope left.",
+  "fr": "Il est gravement blessé, il n'y a pratiquement plus d'espoir pour une telle blessure."
+ },
+ {
+  "en": "But as you can see, the Chelae keep harassing our homeland. So you must be extra careful.",
+  "fr": "Mais comme vous le voyez, les Parias ne cessent de harceler notre foyer. Vous devez donc redoubler de prudence."
+ },
+ {
+  "en": "But I do not want us to suffer greater casualties, so first, please go and find out the Chelae's true intentions, Boss.",
+  "fr": "Mais je ne souhaite pas que nous subissions davantage de pertes, c'est incroyable tout d'abord, veuillez aller vous renseigner sur les véritables intentions des Parias, Chef de station."
+ },
+ {
+  "en": "But we cannot afford another war, so I want you to destroy those weapons of war of theirs.",
+  "fr": "Mais nous ne pouvons pas nous permettre une autre guerre, c'est pourquoi je voudrais que tu détruises leurs armes robotiques."
+ },
+ {
+  "en": "But we know that if we do not do this, disaster is certain to strike.",
+  "fr": "Mais nous savons que si nous ne le faisons pas, une catastrophe se produira certainement."
+ },
+ {
+  "en": "But I'm so tired...",
+  "fr": "Mais, je suis si fatigué..."
+ },
+ {
+  "en": "Are you performing some kind of ritual?",
+  "fr": "Est-ce que vous organisez une sorte de cérémonie ?"
+ },
+ {
+  "en": "What do you need these things for?",
+  "fr": "Que voulez-vous faire de ces choses ?"
+ },
+ {
+  "en": "What happened here?",
+  "fr": "Que se passe-t-il ici ?"
+ },
+ {
+  "en": "What do you need?",
+  "fr": "De quoi avez-vous besoin ?"
+ },
+ {
+  "en": "You are back again, Lancer. This Challenge will be tough.",
+  "fr": "Te revoilà, LANCER, la Mission de cette fois est très difficile."
+ },
+ {
+  "en": "You can pick up my token at my resting place, and then you will be able to travel freely through our homeland.",
+  "fr": "Tu peux récupérer mon gage dans mon lieu de repos, ainsi tu pourras circuler librement dans notre foyer."
+ },
+ {
+  "en": "Do you want to know about the hatred between us and the Outcasts? That chapter of the past is too painful to look back on.",
+  "fr": "Voulez-vous connaître l'origine de notre haine envers les Parias ? Ce passé est vraiment trop douloureux pour s'en souvenir."
+ },
+ {
+  "en": "Do you want to know why we broke up back then?",
+  "fr": "Tu veux savoir la raison pour laquelle nous nous sommes dissous à l'époque ?"
+ },
+ {
+  "en": "You seem to be making quite a name for yourself lately, courier. Interested in expanding your business?",
+  "fr": "On dirait que vous avez le vent en poupe ces derniers temps, coursier. Seriez-vous intéressé par une extension de vos activités ?"
+ },
+ {
+  "en": "You are here, Boss.",
+  "fr": "Vous voilà, Chef de station."
+ },
+ {
+  "en": "You'd be better off not knowing, Boss. Anyway, we need this stuff.",
+  "fr": "Il vaut mieux que vous ne le sachiez pas, Chef de station. Quoi qu'il en soit, nous avons besoin de ces choses."
+ },
+ {
+  "en": "Your health is low. Please replenish it!",
+  "fr": "Santé insuffisante, n'oubliez pas de la reconstituer."
+ },
+ {
+  "en": "Your health is critically low! Please replenish it as soon as possible!",
+  "fr": "PV critique, veuillez le restaurer au plus vite."
+ },
+ {
+  "en": "Son, I am right here.",
+  "fr": "Mon fils, ME VOILÀ !"
+ },
+ {
+  "en": "Calm down, Sonar.",
+  "fr": "Calme-toi un peu, Sonar."
+ },
+ {
+  "en": "Calm down, Sonar. The war is over.",
+  "fr": "Calme-toi Sonar, la guerre est terminée."
+ },
+ {
+  "en": "After the battle a few days ago, I found that one of my bracelets was missing. Maybe it was taken by the Chelae.",
+  "fr": "Après les combats de ces derniers jours, j'ai remarqué que j'avais perdu l'un de mes bracelets, peut-être a-t-il été emporté par les Chelaes."
+ },
+ {
+  "en": "There's a public parcel locker up ahead, so just leave the package inside.",
+  "fr": ""
+ },
+ {
+  "en": "Package?",
+  "fr": "Des colis ?"
+ },
+ {
+  "en": "What happened?",
+  "fr": "Que se passe-t-il ?"
+ },
+ {
+  "en": "Also, I have something for Sonar. Please go to the settlement area and collect it.",
+  "fr": "De plus, j'ai quelque chose à donner à Sonar, veuillez vous rendre à la colonie pour le récupérer."
+ },
+ {
+  "en": "Only their deaths and wails can bring me Pleasant Moments and soothe my soul.",
+  "fr": "Seuls leur mort et leurs cris peuvent me rendre les moments agréables et apaiser mon âme."
+ },
+ {
+  "en": "As long as nothing goes wrong, I'll be right there to pick you up.",
+  "fr": "Tant qu'il n'y a pas de petit accident, je pourrai bientôt venir vous chercher... bzzzt..."
+ },
+ {
+  "en": "Can you hear me?",
+  "fr": "Est-ce que tu m'entends ?"
+ },
+ {
+  "en": "Hello? Oh! Signal's much clearer now!",
+  "fr": "Allô ? Oh ! Le signal est bien plus clair !"
+ },
+ {
+  "en": "Hey, I saw you crash... You okay?",
+  "fr": "Hé… J’ai vu… le crash… Ça va ?"
+ },
+ {
+  "en": "What’s wrong with Sonar?",
+  "fr": "Qu’est-ce qui arrive au Sonar ?"
+ },
+ {
+  "en": "Large order delivery, stay safe!",
+  "fr": "Livraison de commandes volumineuses, soyez prudent !"
+ },
+ {
+  "en": "Great! Just a little further for you.",
+  "fr": "Super, tu y es presque, avance encore un peu !"
+ },
+ {
+  "en": "Overhead Speech",
+  "fr": "Parler au-dessus de la tête"
+ },
+ {
+  "en": "After hearing about the Chelae, she swore an oath to kill every last one of them.",
+  "fr": "Après avoir entendu parler des Chelaes, elle a juré de tous les tuer."
+ },
+ {
+  "en": "All right, that's all I'll say. If you still want to know the truth, go discover it for yourself.",
+  "fr": "Bon, c'est tout ce que j'ai à dire. Si tu veux encore connaître la vérité, découvre-la par toi-même."
+ },
+ {
+  "en": "All right, that's because we have irreconcilable differences about something.",
+  "fr": "Eh bien, c'est parce que nous avons eu un désaccord irréconciliable sur un certain sujet."
+ },
+ {
+  "en": "It hurts so much... Father... save me...",
+  "fr": "Ça fait mal… Père… Sauvez-moi…"
+ },
+ {
+  "en": "Awesome! Here begin the adventures of Boss and Journey!",
+  "fr": "OUAIS ! Le périple du Chef de station et de Tutu a commencé !"
+ },
+ {
+  "en": "If you're not ready yet, go tell the Sergeant Major. I'm sure he'll understand.",
+  "fr": "Si vous n'êtes pas encore prêt, allez le dire au Major, il comprendra sûrement."
+ },
+ {
+  "en": "Be careful! Don't slip!",
+  "fr": ""
+ },
+ {
+  "en": "Not long ago they attacked us, those scum. One day I will kill every last one of them.",
+  "fr": "Ils nous ont attaqués il n'y a pas si longtemps. Ces racailles... Un jour, je les tuerai tous jusqu'au dernier."
+ },
+ {
+  "en": "Good Job, Boss. You have earned the Fishmen's friendship.",
+  "fr": "Bon travail, Chef de station, vous avez gagné l'amitié des Murlocs."
+ },
+ {
+  "en": "What did you pick back then?",
+  "fr": "Qu'avez-vous choisi à l'époque ?"
+ },
+ {
+  "en": "Excellent, Stationmaster! With this token, we can move through Seaside Port with a Clear Path.",
+  "fr": "C'est parfait, Chef de station ! Avec ce gage, nous aurons un Passage ouvert au Port côtier."
+ },
+ {
+  "en": "All right, Webmaster, thank you for your help.",
+  "fr": "Très bien, Administrateur, merci pour votre aide."
+ },
+ {
+  "en": "Good, there are still Elite monsters at the end, so go take down two more.",
+  "fr": "Eh bien, enfin il y a des monstres Élite, va en éliminer deux autres."
+ },
+ {
+  "en": "Good, come collect your reward.",
+  "fr": "Très bien, viens chercher ta récompense."
+ },
+ {
+  "en": "Courier, I want a batch of new goods.",
+  "fr": "Livreur, je veux un nouveau lot."
+ },
+ {
+  "en": "What's wrong, Boss?",
+  "fr": "Qu'est-ce qu'il y a, chef de station ?"
+ },
+ {
+  "en": "What's wrong?",
+  "fr": "Qu’est-ce qui t’arrive ?"
+ },
+ {
+  "en": "One day, I will storm into their homeland and make them vanish from this world forever!",
+  "fr": "Un jour, j'envahirai leur foyer et je les ferai disparaître de ce monde pour Yong !"
+ },
+ {
+  "en": "Congratulations, Boss! Welcome back safely!",
+  "fr": "Félicitations, chef de station ! Bon retour parmi nous !"
+ },
+ {
+  "en": "Sneak into the village and bring back some supplies!",
+  "fr": "Entrez discrètement dans le village et ramenez des fournitures !"
+ },
+ {
+  "en": "This is bad, Boss... they've completely lost their minds...",
+  "fr": "La situation n'est pas très bonne, BOSS, ils ont complètement perdu la raison…"
+ },
+ {
+  "en": "Thank you, Boss! This is a small token of my appreciation. I hope you can RECEIVE it!",
+  "fr": "Merci, administrateur ! C'est un petit geste de ma part, j'espère que vous accepterez de le RECEVOIR !"
+ },
+ {
+  "en": "Angry about what?",
+  "fr": "En colère contre quoi ?"
+ },
+ {
+  "en": "Angry at them, angry at Kepler, and angry at myself.",
+  "fr": "En colère contre eux, en colère contre Kepler, et en colère contre moi."
+ },
+ {
+  "en": "Becoming a warrior is an inevitable path, and everyone must go through it.",
+  "fr": "C'est un passage obligé pour devenir un guerrier, tout le monde doit passer par là."
+ },
+ {
+  "en": "I... what’s wrong with me...?",
+  "fr": "Je… Qu'est-ce qui m'arrive… ?"
+ },
+ {
+  "en": "I can't defeat those Chelae on my own, so Boss, could you please help me get those assets back?",
+  "fr": "Je ne peux pas vaincre ces Parias seule, c'est incroyable Chef de station, pouvez-vous m'aider à récupérer ces actifs ?"
+ },
+ {
+  "en": "I have to kill every last one of these bastards... these bastards...",
+  "fr": "Je dois tous les massacrer, ces ordures... ces ordures..."
+ },
+ {
+  "en": "I don't want to be looked down on. I want to become stronger. I want you to be proud of me...",
+  "fr": "Je ne veux pas être méprisé, je veux devenir plus fort, je veux que vous soyez fier de moi..."
+ },
+ {
+  "en": "I have prepared a letter for you. Now, go tell Sonar about it.",
+  "fr": "J'ai préparé une lettre pour toi, maintenant, va en informer Sonar."
+ },
+ {
+  "en": "We don't know.",
+  "fr": "Nous ne savons pas."
+ },
+ {
+  "en": "We are sworn enemies with the outcasts, and we hope you will stand with us.",
+  "fr": "Nous sommes des ennemis jurés des Parias, j'espère que vous vous rangerez à nos côtés."
+ },
+ {
+  "en": "We must inform the High Chief of the situation.",
+  "fr": "Nous devons informer le Grand Chef de la situation."
+ },
+ {
+  "en": "We will put together a batch of food. The specific order has already been sent to your AI sidekick. Put the goods where I asked, and our people will come pick them up themselves.",
+  "fr": "On va récupérer de la nourriture, la commande détaillée a été envoyée à ton acolyte IA. Dépose les marchandises à l'endroit que j'ai EXIGÉ, nos gars viendront les chercher eux-mêmes."
+ },
+ {
+  "en": "I actually already asked him. But his answer was vague, and he told me I should know what everyone thinks.",
+  "fr": "En fait, je lui ai déjà posé la question. Mais il est resté évasif et m'a dit qu'il valait mieux que je connaisse l'avis de tout le monde."
+ },
+ {
+  "en": "I heard humans have a brewed drink. Bring me two bottles, and you will earn the trust of the fishfolk.",
+  "fr": "J'ai entendu dire que les humains ont une boisson fermentée, apportez-m'en deux bouteilles pour gagner la confiance des murlocs."
+ },
+ {
+  "en": "I am sick of that trash. Just thinking about breathing the same air as them makes me want to vomit.",
+  "fr": "J'en ai assez de ces déchets, la simple idée de partager le même air qu'eux me donne envie de vomir."
+ },
+ {
+  "en": "I'm calm. I've never been this calm before.",
+  "fr": "Je suis calme, je n'ai jamais été aussi calme."
+ },
+ {
+  "en": "I think it's time to face the past head-on.",
+  "fr": "Je pense qu'il est également temps de faire face au passé."
+ },
+ {
+  "en": "I am the Warlord of Hub 9. So you were here. The Sergeant Major has been looking for you.",
+  "fr": "Je suis le chef de station de Hub 9. Te voilà enfin, le Major te cherche partout."
+ },
+ {
+  "en": "MY Replay, MY Replay, they are all MY Replay!",
+  "fr": "Tout est à Mon replay !"
+ },
+ {
+  "en": "My cargo is important. Please try to get it to me!",
+  "fr": "Mes marchandises… important… essayez de les emporter…"
+ },
+ {
+  "en": "I will give you an address. Once you go there, you will naturally understand.",
+  "fr": "Je te donne une adresse, une fois là-bas, tu comprendras avec la Verdure."
+ },
+ {
+  "en": "I put together a small-item order for you. Get familiar with the delivery process and contact the courier.",
+  "fr": "J'ai préparé une petite commande pour vous afin que vous puissiez vous familiariser avec le processus de livraison. Veuillez contacter le service de livraison."
+ },
+ {
+  "en": "I want you to kill 10 Chelae Infantry. Bring me their bodies, and I will reward you handsomely.",
+  "fr": "Je veux que vous tuiez 10 Fantassin Chelae. Rapportez-moi leurs cadavres et je vous donnerai une généreuse récompense."
+ },
+ {
+  "en": "I've also put together some supplies to get you started. Take a look!",
+  "fr": "J'ai également préparé des fournitures de démarrage, venez voir !"
+ },
+ {
+  "en": "I chose to disband because of anger.",
+  "fr": "J'ai choisi de dissoudre l'équipe à cause de la colère."
+ },
+ {
+  "en": "I need a batch of weapons and ammunition. Of course, we can talk about the payment.",
+  "fr": "J'ai besoin d'un lot d'armes et de Munitions, et bien sûr, la récompense sera généreuse."
+ },
+ {
+  "en": "The war is over.",
+  "fr": "La guerre est terminée."
+ },
+ {
+  "en": "So, we only need to do our part of the work.",
+  "fr": "C'est incroyable, nous n'avons qu'à faire notre part du travail."
+ },
+ {
+  "en": "Sorry, Father... Let me get some sleep...",
+  "fr": "Désolé père… Laisse-moi bien dormir…"
+ },
+ {
+  "en": "Sorry, Boss, I have something I need to trouble you with.",
+  "fr": "Désolé administrateur, j'ai un service à vous demander."
+ },
+ {
+  "en": "Take off your helmet. We gotta scan your facial data!",
+  "fr": "Retirez votre casque, procédons au Balayage des informations faciales !"
+ },
+ {
+  "en": "Help me, please... sob sob.",
+  "fr": "Sauvez-moi ! Ouin ouin..."
+ },
+ {
+  "en": "Countless brave warriors fell one after another, but it was all in vain. We had no choice but to initiate the final plan, and then The Smash-Up happened.",
+  "fr": "D'innombrables guerriers héroïques se sont succédé, mais en vain. Nous avons dû lancer le plan final, puis l’Effondrement s'est produit."
+ },
+ {
+  "en": "Broker is right next to you. Why don't you go ask him?",
+  "fr": "Alors que Broker est juste à côté de vous, pourquoi ne pas lui demander ?"
+ },
+ {
+  "en": "Yes...was it left to MY Replay by Aura?",
+  "fr": "OUI... C'est ce que AURA a laissé pour Mon replay ?"
+ },
+ {
+  "en": "Yes.",
+  "fr": "Oui."
+ },
+ {
+  "en": "Yes, we don't know.",
+  "fr": "Oui, nous ne savons pas."
+ },
+ {
+  "en": "It was those Chelae.",
+  "fr": "Ce sont ces Combat Chelae."
+ },
+ {
+  "en": "Unknown signal... Connecting.",
+  "fr": "Signal inconnu… Connexion en cours"
+ },
+ {
+  "en": "Help me kill those outcasts and prove you hate those scumbags as much as I do.",
+  "fr": "Viens m'aider à tuer ces Parias, prouve-moi que tu détestes ces ordures autant que moi."
+ },
+ {
+  "en": "NOT ENOUGH Oxygen NOT ENOUGH Oxygen NOT ENOUGH Oxygen",
+  "fr": "PAS ASSEZ d'Oxygène PAS ASSEZ d'Oxygène PAS ASSEZ d'Oxygène"
+ },
+ {
+  "en": "That's right, those scum got their lives back.",
+  "fr": "C'est ça, ces racailles ont eu de la chance de s'en sortir."
+ },
+ {
+  "en": "Then you can cross the mountains and reach town.",
+  "fr": "Puis, en traversant les montagnes enneigées, vous pourrez atteindre Toyland."
+ },
+ {
+  "en": "The ecosystem is worse than expected. Clear another wave.",
+  "fr": "L'état écologique est pire que prévu, nettoyons une autre vague."
+ },
+ {
+  "en": "Sleep, child.",
+  "fr": "Dors, mon enfant."
+ },
+ {
+  "en": "This Shard is unstable. Please proceed with caution!",
+  "fr": "Des fragments… instables… avancez avec prudence…"
+ },
+ {
+  "en": "The Shardverse is teeming with different factions. Will they be friends or foes? That's for you to decide!",
+  "fr": "De nombreuses factions se dressent dans L'Autre Monde des fragments. Amis ou ennemis, c'est au chef de station de décider !"
+ },
+ {
+  "en": "Magnetism has been depleted and the Magnetism effect is currently unavailable.",
+  "fr": "Le magnétisme est épuisé, l'effet magnétique est actuellement indisponible."
+ },
+ {
+  "en": "Boss! The Signal Tower has been restarted. Now you just need to extract safely from the Map!",
+  "fr": "Chef de station ! La Balise a été redémarrée, il ne vous reste plus qu'à évacuer la Carte en toute sécurité !"
+ },
+ {
+  "en": "Welcome aboard, Boss!",
+  "fr": "Chef de station ! Bienvenue !"
+ },
+ {
+  "en": "Boss, your health is getting low.",
+  "fr": "Chef de station, votre santé est insuffisante."
+ },
+ {
+  "en": "Boss, your health is critically low!",
+  "fr": "Chef de station, les PV sont entrés dans un état critique."
+ },
+ {
+  "en": "Boss, retreat indoors first, then head out after resupplying.",
+  "fr": "Chef de station, repliez-vous d'abord à l'intérieur, ressortez après avoir fini de Fournir."
+ },
+ {
+  "en": "Hey Boss, register your name in the system. Then, you can officially take over the hub station!",
+  "fr": "Administrateur, enregistrez votre nom dans le système et prenez officiellement les commandes de notre station pivot !"
+ },
+ {
+  "en": "Boss, congratulations on completing the trial! You have become the Boss of Hub Station No. 9! However, the heavy rain has blocked the Signal Tower's signal, and the Signal Tower needs to be restarted.",
+  "fr": "Chef de station, félicitations pour avoir réussi l'épreuve ! Vous êtes désormais le chef de la Station Hub n°9 ! Cependant, les fortes pluies ont bloqué le signal de la Balise, et un redémarrage de la Balise est nécessaire."
+ },
+ {
+  "en": "Boss, harsh weather will continuously drain your health. Don't stay outside for too long.",
+  "fr": "Chef de station, la météo extrême réduira continuellement votre santé, ne restez pas dehors trop longtemps."
+ },
+ {
+  "en": "Boss, the situation is crystal clear now. These Chelae are still up to no good and are still trying to invade our territory.",
+  "fr": "Chef de station, la situation est désormais claire : ces Chelae n'ont pas renoncé à leurs sombres desseins et cherchent toujours à envahir notre territoire."
+ },
+ {
+  "en": "Boss, we have an urgent order for you. We need a few special items.",
+  "fr": "Chef de station, nous avons une commande urgente pour vous, il nous faut plusieurs objets spéciaux."
+ },
+ {
+  "en": "Boss, there's nothing left in the HARVEST Warehouse. Let's go.",
+  "fr": "Chef de station, il n'y a plus rien dans l'Entrepôt de récolte, partons."
+ },
+ {
+  "en": "Boss, out in the Shards, might makes right after all. Taking out a few scavengers will keep us from being looked down on.",
+  "fr": "Chef, il faut croire que la force est le seul langage qui compte en dehors des Débris. Éliminez quelques pillards, on ne peut pas se laisser sous-estimer."
+ },
+ {
+  "en": "Boss, lately the Chelae have been getting more and more brazen. We must find a way to defend ourselves.",
+  "fr": "Chef de station, les Chelae se montrent de plus en plus insolents ces derniers jours, nous devons trouver un moyen de nous protéger."
+ },
+ {
+  "en": "Boss, there are some things in this world you do not need to know.",
+  "fr": "Chef de station, il y a des choses dans ce monde qu'il vaut mieux ne pas savoir."
+ },
+ {
+  "en": "Boss, there's an anonymous package for Sonar here. Let's give it to her.",
+  "fr": "Chef de station, il y a un colis anonyme pour Sonar ici, donnons-le-lui."
+ },
+ {
+  "en": "Boss, those Chelae have abandoned their intent to invade. Thank you.",
+  "fr": "Chef de station, ces Chelaes ont renoncé à leurs intentions d'agression, merci."
+ },
+ {
+  "en": "Second small Order, DOUBLE practice run!",
+  "fr": "Deuxième petite commande, DOUBLE entraînement !"
+ },
+ {
+  "en": "After the Second Smash Up, the Shardverse fell into chaos. Getting packages delivered safely is our #1 mission!",
+  "fr": "Après le second Smash Up, l'univers fragmenté a sombré dans le chaos. Livrer les colis en toute sécurité est notre mission !"
+ },
+ {
+  "en": "Can you hear me? The signal from these snowy mountains is actually pretty good.",
+  "fr": ""
+ },
+ {
+  "en": "Let me see what tricks those Chelae are up to this time.",
+  "fr": "Laisse-moi voir un peu... Quel genre de tour ces Chelae sont-ils encore en train de nous jouer ?"
+ },
+ {
+  "en": "Who will help me!!",
+  "fr": "Que quelqu'un m'aide !!"
+ },
+ {
+  "en": "Thank you, webmaster. This is a very precious keepsake to me. I really do not know what I would do without you.",
+  "fr": "Merci, chef de station. C'est un souvenir très précieux pour moi, je ne sais vraiment pas ce que j'aurais fait sans vous."
+ },
+ {
+  "en": "Thank you, webmaster. This is exactly what we need.",
+  "fr": "Merci administrateur, c'est exactement ce dont nous avons besoin."
+ },
+ {
+  "en": "Thank you, Boss.",
+  "fr": "Merci, Chef de station."
+ },
+ {
+  "en": "Thanks, my name is Sonar. Thank you very much for bringing these supplies.",
+  "fr": "Merci, je m'appelle Sonar, merci beaucoup d'avoir envoyé ces fournitures."
+ },
+ {
+  "en": "Not enough. Gather some more!",
+  "fr": "Pas assez, collectez-en encore plus !"
+ },
+ {
+  "en": "Is that really a thing?",
+  "fr": "Ça existe vraiment ?"
+ },
+ {
+  "en": "This is the medical supplies I wanted. Thank you.",
+  "fr": "C'est exactement l'erreur médicale qu'il me fallait, merci."
+ },
+ {
+  "en": "That is the whole story.",
+  "fr": "C'est tout pour l'histoire."
+ },
+ {
+  "en": "Is this...gear for streaming?",
+  "fr": "C’est... de l’équipement pour la diffusion en direct ?"
+ },
+ {
+  "en": "That way, even if they still want to invade, we can protect ourselves.",
+  "fr": "De cette façon, nous pourrons nous protéger même s'ils tentent une nouvelle incursion."
+ },
+ {
+  "en": "Every day this scum remains alive in this world, they poison it a little more. There is only one path forward: kill them all.",
+  "fr": "Chaque jour que cette racaille passe dans ce monde est un poison de plus pour lui, la seule issue est de tous les massacrer."
+ },
+ {
+  "en": "Is there any of the best gear here to check out?",
+  "fr": "Voici le meilleur équipement, tu veux y jeter un œil ?"
+ },
+ {
+  "en": "Here lie the merman warriors who fell in the war against the Outcasts.",
+  "fr": "Ici sont enterrés les guerriers MORDANTS tombés pendant la guerre contre les Parias."
+ },
+ {
+  "en": "That disagreement led to arguments, reprimands, and suspicion between us. Under those circumstances, disbanding was the best choice.",
+  "fr": "Ce désaccord a provoqué des disputes, des reproches et de la méfiance entre nous. Dans ces circonstances, la dissolution était la meilleure option."
+ },
+ {
+  "en": "Those foul-smelling Chelae are watching our homeland through a Psychic Link. So I must stand Guard In this mode, staying Alert against that bunch of scum.",
+  "fr": "Ces Chelae puants, ils ont un lien psychique avec notre foyer. C'est pourquoi je dois rester dans ce mode, en alerte maximale face à ces ordures."
+ },
+ {
+  "en": "Then let’s start the first Field Time Challenge, Boss! Taking office as a goose... no, as the hub leader!",
+  "fr": "Commençons la première Mission de terrain, Chef de station ! Bienvenue à l'Oie... non, bienvenue au Hub !"
+ },
+ {
+  "en": "That was... their weapon? They must be trying to invade my homeland again!",
+  "fr": "C'est... leur arme ? Ils doivent vouloir s'introduire à nouveau dans mon foyer !"
+ },
+ {
+  "en": "That was before The Smash-Up, when they came from another shard, seeking to seize our homeland.",
+  "fr": "C'était avant l’Effondrement, ils venaient d'un autre éclat et tentaient de s'emparer de notre foyer."
+ },
+ {
+  "en": "That was made for me by my sister. Could you please help me get my bracelet back?",
+  "fr": "C'est ma sœur qui l'a fabriqué pour moi. Pourrais-tu m'aider à retrouver mon bracelet, s'il te plaît ?"
+ },
+ {
+  "en": "Besides taking out the mobs, go take out a few wild dogs too, Boss.",
+  "fr": "En plus d'éliminer les sbires, allez donc abattre quelques chiens sauvages, Chef."
+ }
+]

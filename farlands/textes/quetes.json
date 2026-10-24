@@ -1,0 +1,3698 @@
+[
+ {
+  "en": "Repair the Signal Tower",
+  "fr": "Réparer la Balise"
+ },
+ {
+  "en": "Obtain \"Old Book\"",
+  "fr": "Obtenir « Livre papier »"
+ },
+ {
+  "en": "Obtain \"Light Alloy\"",
+  "fr": "Obtenir « Alliage léger »"
+ },
+ {
+  "en": "Obtain \"Basic Gear\"",
+  "fr": "Obtenir « Engrenage en fer »"
+ },
+ {
+  "en": "Perform a ritual offering",
+  "fr": "Faire une offrande"
+ },
+ {
+  "en": "Conduct an Investigation",
+  "fr": "Répondre à l'enquête"
+ },
+ {
+  "en": "Conduct an Investigation",
+  "fr": "Répondre au sondage"
+ },
+ {
+  "en": "Omni-Printer Upgrade To Level 20",
+  "fr": "Passer l'impression 3D universelle au niveau 20"
+ },
+ {
+  "en": "All-Purpose Supplies",
+  "fr": "Fournitures universelles"
+ },
+ {
+  "en": "Unstoppable",
+  "fr": "IMPARABLE"
+ },
+ {
+  "en": "Unstoppable",
+  "fr": "IMSTOPPABLE"
+ },
+ {
+  "en": "Subdue the enemy without fighting.",
+  "fr": "Vaincre sans combattre"
+ },
+ {
+  "en": "Enter the {1} Map {2} time(s) without carrying a backpack or weapons.",
+  "fr": "Entrez dans la {1}carte{2} fois sans porter de sac à dos ni d'armes."
+ },
+ {
+  "en": "Enter the {1} Map {2} time(s) without equipping any armor.",
+  "fr": "Entrez {2} fois sur la Carte {1} sans équiper aucune armure."
+ },
+ {
+  "en": "Talk to the Market liaison officer.",
+  "fr": "Interagissez avec 3 PNJ au Port côtier : 101810 101818 101816"
+ },
+ {
+  "en": "Extract from any map with teammates {1} time(s).",
+  "fr": "Évacuez {1} fois de n'importe quelle Carte avec des coéquipiers."
+ },
+ {
+  "en": "Enter any map with teammates {1} time(s).",
+  "fr": "Entrez sur n'importe quelle Carte avec des coéquipiers {1} fois."
+ },
+ {
+  "en": "Kill any {1} enemies together with teammates.",
+  "fr": "Vaincre {1} ennemis avec vos coéquipiers."
+ },
+ {
+  "en": "Coastal Capital",
+  "fr": "Cité côtière principale"
+ },
+ {
+  "en": "The Final Push",
+  "fr": "Coup de grâce"
+ },
+ {
+  "en": "Present a gift to any NPC on the map.",
+  "fr": "Offrez {1} cadeau à n'importe quel personnage sur n'importe quelle carte."
+ },
+ {
+  "en": "First Standing on Business Order",
+  "fr": "Quête principale 1-2"
+ },
+ {
+  "en": "First Delivery Order Standing on Business: Complete the order in The Fringe Sector.",
+  "fr": "Quête principale 1-2 : Complétez 3 commandes dans le Secteur périphérique."
+ },
+ {
+  "en": "Take stock of your assets",
+  "fr": "Ligne principale 1-3 Entrée"
+ },
+ {
+  "en": "Take Stock: Search The Fringe Sector containers.",
+  "fr": "Quête principale 1-3 : Recherchez 5 conteneurs dans le Secteur périphérique."
+ },
+ {
+  "en": "Heavy Load Lesson 1",
+  "fr": "Histoire principale 1-4 Rencontre Sinistre"
+ },
+ {
+  "en": "Heavy Load Lesson 1",
+  "fr": "Histoire principale 1-4"
+ },
+ {
+  "en": "Heavy Load Lesson 1: Complete a Heavy Load order in The Fringe Sector.",
+  "fr": "1-4 Rencontre Sinistre : Complétez 1 commande d'un poids ≥ 30 kg dans le Secteur périphérique."
+ },
+ {
+  "en": "Clear obstacles.",
+  "fr": "Quête principale 1-5"
+ },
+ {
+  "en": "Clear the obstacles: Kill the Sentry in The Fringe Sector.",
+  "fr": "Quête principale 1-5 : Élimination de 3 Agents de sécurité Kepler dans le Secteur périphérique, à terminer en une seule partie."
+ },
+ {
+  "en": "Build on capital",
+  "fr": "Histoire principale 1-6"
+ },
+ {
+  "en": "Build Capital: Extract from The Fringe Sector with supplies.",
+  "fr": "Quête principale 1-6 : Rapportez des fournitures d'une valeur ≥ 20 Dix mille depuis le Secteur périphérique et effectuez une Évacuation d'urgence."
+ },
+ {
+  "en": "Market Bulk Order",
+  "fr": "Quête principale 2-2"
+ },
+ {
+  "en": "Market Bulk Order: Complete 3 orders in total at Seaside Port.",
+  "fr": "Quête principale 2-2 : Terminer 3 commandes au Port côtier."
+ },
+ {
+  "en": "Market Contact",
+  "fr": "Quête principale 2-3"
+ },
+ {
+  "en": "Market Contact",
+  "fr": "Quête principale 2-3 Flamme"
+ },
+ {
+  "en": "Market Liaison: Talk to the Market liaison.",
+  "fr": "Quête principale 2-3 : Interagissez avec 3 PNJ au Port côtier : 101810 101818 101816."
+ },
+ {
+  "en": "Chelae Suspicions",
+  "fr": "Quête principale 2-4"
+ },
+ {
+  "en": "Chelae Suspicions: Investigate 2 clues.",
+  "fr": "Quête principale 2-4 : Enquêter sur deux indices existants au Port côtier."
+ },
+ {
+  "en": "Coastal Transport",
+  "fr": "Quête principale 2-5"
+ },
+ {
+  "en": "Coastal Transport: Complete 4 orders in total at Seaside Port.",
+  "fr": "Quête principale 2-5 : Complétez 4 commande(s) au Port côtier."
+ },
+ {
+  "en": "Sea Area Clearance",
+  "fr": "Quête principale 2-6"
+ },
+ {
+  "en": "Sea Area Sweep: Kill 10 Common Murlocs.",
+  "fr": "Quête principale 2-6 : Effectuez 5 Éliminations de monstres au Port côtier."
+ },
+ {
+  "en": "Heavy Load Journey",
+  "fr": ""
+ },
+ {
+  "en": "Complete 3 reload Orders in Golden Dunes (Order weight >= 50KG)",
+  "fr": ""
+ },
+ {
+  "en": "Direct Delivery for Bulk Orders",
+  "fr": ""
+ },
+ {
+  "en": "Complete 1 high-value order in Golden Dunes (Order Value >= 4,000,000)",
+  "fr": ""
+ },
+ {
+  "en": "Desert Trade Route",
+  "fr": ""
+ },
+ {
+  "en": "Enter Golden Dunes and complete 1 order.",
+  "fr": ""
+ },
+ {
+  "en": "Mid-match supply",
+  "fr": ""
+ },
+ {
+  "en": "Obtain 1 item of Epic rarity or higher and extract from Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "Return with a Full Load",
+  "fr": ""
+ },
+ {
+  "en": "Complete 1 reload order in Golden Dunes and extract from Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "Elite Hunt",
+  "fr": ""
+ },
+ {
+  "en": "Kill 3 Elite monsters",
+  "fr": ""
+ },
+ {
+  "en": "Dual Image FULL",
+  "fr": ""
+ },
+ {
+  "en": "Extract once each from Seaside Port and Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "Quenching",
+  "fr": ""
+ },
+ {
+  "en": "Complete 1 order weighing at least 50 kg in Golden Dunes, Kill 1 Elite monster, and extract 1 time.",
+  "fr": ""
+ },
+ {
+  "en": "Production Capacity Upgrade",
+  "fr": "Mise à niveau de la capacité de production"
+ },
+ {
+  "en": "Kill 2 enemies with Melee Weapons.",
+  "fr": "Éliminez 2 monstres en utilisant uniquement des armes de mêlée."
+ },
+ {
+  "en": "The Source of Hatred",
+  "fr": "Source de la haine"
+ },
+ {
+  "en": "Obtain the quest item Data Drive from {1}.",
+  "fr": "Obtenez l'objet de quête auprès de {1} : Mémoire."
+ },
+ {
+  "en": "Successfully extract from {1} {2} time(s).",
+  "fr": "Évacuation réussie de {1} à {2} reprises."
+ },
+ {
+  "en": "Extract from {1} {2} time(s).",
+  "fr": "Évacuer {2} fois de {1}."
+ },
+ {
+  "en": "Extract from {1} {3} time(s), with total value of items on you ≥ {2} at extraction.",
+  "fr": "Effectuer une Évacuation d'urgence de {1} à {3} reprises, avec une valeur totale des ressources transportées lors de l'évacuation ≥ {2}."
+ },
+ {
+  "en": "Extract from {1} {3} time(s), with the total value of items on you ≥ {2} at extraction.",
+  "fr": "S'évacuer {3} fois de {1}, avec une valeur totale de l'équipement sur soi lors de l'évacuation ≥ {2}."
+ },
+ {
+  "en": "Extract {3} time(s) from {1}, with total value of items on you at extraction ≥ {2}.",
+  "fr": "Effectuer une Évacuation d'urgence de {1} à {3} reprises, avec une valeur totale des ressources transportées lors de l'évacuation ≥ {2}."
+ },
+ {
+  "en": "Extract from {1} {3} time(s), with total value of items on you at extraction ≥ {2}.",
+  "fr": "Effectuer {3} évacuations d'urgence depuis {1}, avec une valeur totale du matériel sur soi ≥ {2} lors de l'évacuation."
+ },
+ {
+  "en": "Extract from {1} {3} time(s), with total value of items on you at extraction ≥ {2}.",
+  "fr": "Effectuer une évacuation d'urgence de {1} à {3} reprises, avec une valeur totale des ressources transportées lors de l'évacuation ≥ {2}."
+ },
+ {
+  "en": "Extract from {1} {3} time(s), with the total value of supplies on you during extraction ≥ {2}.",
+  "fr": "Effectuer {3} évacuations d'urgence depuis {1}, avec une valeur totale du matériel sur soi ≥ {2} lors de l'évacuation."
+ },
+ {
+  "en": "Extract from {1} {3} time(s), with total value of items carried at extraction ≥ {2}.",
+  "fr": "Effectuer {3} évacuations d'urgence depuis {1}, avec une valeur totale du matériel sur soi ≥ {2} lors de l'évacuation."
+ },
+ {
+  "en": "Extract from {1} {3} time(s), with the total value of carried items ≥ {2} at extraction.",
+  "fr": "Effectuer {3} évacuations d'urgence depuis {1}, avec une valeur totale du matériel sur soi ≥ {2} lors de l'évacuation."
+ },
+ {
+  "en": "Extract {3} time(s) from {1}, with total value of carried items ≥ {2} during extraction.",
+  "fr": "Effectuer une évacuation d'urgence de {1} à {3} reprises, avec une valeur totale des ressources transportées lors de l'évacuation ≥ {2}."
+ },
+ {
+  "en": "Extract from {1} {3} time(s); the total value of carried items at extraction must be ≥ {2}.",
+  "fr": "Effectuer {3} évacuations d'urgence depuis {1}, avec une valeur totale du matériel sur soi ≥ {2} lors de l'évacuation."
+ },
+ {
+  "en": "Extraction Successful from Golden Dunes",
+  "fr": ""
+ },
+ {
+  "en": "Extract from any map {3} time(s), with the total value of items on you ≥ {2} at extraction.",
+  "fr": "Évacuez {3} fois de n'importe quelle Carte, avec une valeur totale de fournitures sur vous ≥ {2} lors de l'évacuation."
+ },
+ {
+  "en": "Kill the Scavenger King",
+  "fr": ""
+ },
+ {
+  "en": "Take away 1 item of Epic or higher rarity.",
+  "fr": ""
+ },
+ {
+  "en": "Extract from The Fringe Sector, and the supplies value is no less than 20,000.",
+  "fr": "Extraire des fournitures d'une valeur ≥ Deux mille mille du Secteur périphérique et effectuer une Évacuation d'urgence."
+ },
+ {
+  "en": "Extraction Successful from Golden Dunes",
+  "fr": "Évacuation réussie de la Terre des sables"
+ },
+ {
+  "en": "Upgrade the Warehouse to Level 20.",
+  "fr": "Faire passer l'Entrepôt au niveau 20."
+ },
+ {
+  "en": "Traditional Skills",
+  "fr": "Talent classique"
+ },
+ {
+  "en": "Traditional Skills",
+  "fr": "Savoir-faire traditionnel"
+ },
+ {
+  "en": "Party Up!",
+  "fr": "Accompagne-moi"
+ },
+ {
+  "en": "Party Up!",
+  "fr": "ACCOMPAGNE-MOI"
+ },
+ {
+  "en": "A Helping Hand",
+  "fr": "Tendre la main"
+ },
+ {
+  "en": "From the Embers",
+  "fr": "Braise sombre brûlante"
+ },
+ {
+  "en": "From the Embers",
+  "fr": "Braise couvant sous la cendre"
+ },
+ {
+  "en": "Kill 3 enemy players with Rusty Revolver.",
+  "fr": "Obtenez 1 kill en utilisant l'arme spécifiée (Discipline)"
+ },
+ {
+  "en": "Complete 2 orders in Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "In Good Health",
+  "fr": "Rester en bonne santé"
+ },
+ {
+  "en": "Messenger",
+  "fr": "Messager"
+ },
+ {
+  "en": "Repair the Signal Tower to regain communications with headquarters.",
+  "fr": "Réparez la Balise pour Regain la communication avec le quartier général."
+ },
+ {
+  "en": "Better Together",
+  "fr": "S'unir pour la victoire ou la défaite"
+ },
+ {
+  "en": "Better Together",
+  "fr": "Avancer et reculer ensemble"
+ },
+ {
+  "en": "Arms Race",
+  "fr": "Course à l'armement"
+ },
+ {
+  "en": "Purifier",
+  "fr": "Purifier tout"
+ },
+ {
+  "en": "Kill 5 enemy players with melee attacks.",
+  "fr": ""
+ },
+ {
+  "en": "Kill 1 Scavenger King.",
+  "fr": "Tuer 1 Roi des charognards"
+ },
+ {
+  "en": "Deliver 100 Gold Material to Artisan Taka.",
+  "fr": ""
+ },
+ {
+  "en": "Kill 3 Orc Centurions",
+  "fr": "Tuez 3 Centurion orcs"
+ },
+ {
+  "en": "Kill 3 Kepler Security Captains",
+  "fr": "Tuez 3 Capitaine Kepler"
+ },
+ {
+  "en": "Kill 3 Kepler Researchers",
+  "fr": "Tuez 3 Chercheur Kepler"
+ },
+ {
+  "en": "Kill 3 Scavenger Marauders",
+  "fr": "Tuez 3 Charognard maraudeurs"
+ },
+ {
+  "en": "Kill 3 Thermal Leakers",
+  "fr": "Tuez 3 Fuiteurs thermiques"
+ },
+ {
+  "en": "Kill 3 Snowblind Stalkers",
+  "fr": "Tuez 3 Traqueur des neiges"
+ },
+ {
+  "en": "Kill 3 Zombie Bear Kings",
+  "fr": "Tuez 3 Rois ours zombies"
+ },
+ {
+  "en": "The total HL Gold has reached 400,000,000.",
+  "fr": ""
+ },
+ {
+  "en": "Deliver 1 Gold Material to the warrior Mohawk.",
+  "fr": ""
+ },
+ {
+  "en": "Deliver 1 Gold Material to Gunman Zelus",
+  "fr": ""
+ },
+ {
+  "en": "Deliver 10 Gold Material to the merchant collector.",
+  "fr": ""
+ },
+ {
+  "en": "Deliver 3 Gold Material to Farmer Ka",
+  "fr": ""
+ },
+ {
+  "en": "Deliver 1 Gold Material to Artisan Taka",
+  "fr": ""
+ },
+ {
+  "en": "Kill {1}*{2}.",
+  "fr": "Éliminez {2} {1}."
+ },
+ {
+  "en": "Accumulate 1 Elite Kill with melee attacks.",
+  "fr": "Élimination d'un joueur"
+ },
+ {
+  "en": "Enter the Scavengers Arena",
+  "fr": ""
+ },
+ {
+  "en": "Upgrade the Deconstruction Station to Level 3",
+  "fr": "Améliorer l'établi de recyclage au Niveau 3"
+ },
+ {
+  "en": "Arriving in Akhet",
+  "fr": "Premiers pas à Akhet"
+ },
+ {
+  "en": "Arriving in Akhet",
+  "fr": "Entrée à Akhet"
+ },
+ {
+  "en": "Complete 1 order in Golden Dunes with a weight of at least 50 kg.",
+  "fr": ""
+ },
+ {
+  "en": "Craft any equipment*{3} with Rarity of {2} or above.",
+  "fr": "Fabriquez {3} pièces d'équipement de RARETÉ {2} ou supérieure."
+ },
+ {
+  "en": "Craft any equipment*{3}, with Rarity of {2} or above.",
+  "fr": "Fabriquer {3} pièces d'équipement de RARETÉ {2} ou supérieure."
+ },
+ {
+  "en": "Craft any equipment*{3}  with Rarity of {2} or above.",
+  "fr": "Fabriquez {3} pièces d'équipement de RARETÉ {2} ou supérieure."
+ },
+ {
+  "en": "Craft any {3} pieces of equipment with Rarity of {2} or above.",
+  "fr": "Fabriquez {3} pièces d'équipement de RARETÉ {2} ou supérieure."
+ },
+ {
+  "en": "Craft {1}*{2}.",
+  "fr": "Fabrique {2} {1}."
+ },
+ {
+  "en": "Craft {1}*{2}.",
+  "fr": "Fabriquer {2} {1}."
+ },
+ {
+  "en": "Craft vehicle*{2}.",
+  "fr": "Fabriquez {2} véhicules."
+ },
+ {
+  "en": "Go to {1} and loot any {2} containers.",
+  "fr": "Allez à {1} et fouillez {2} conteneurs."
+ },
+ {
+  "en": "Head to {2}, and pick up the Quest Item {1} at the designated location at the Gas Station",
+  "fr": "Allez à {2}, récupérez l'objet de Mission : {1} à l'endroit indiqué de la Station-service."
+ },
+ {
+  "en": "Head to {2} and pick up the Quest Item at the designated location in the  Chelae Settlement: {1}.",
+  "fr": "Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué dans le Campement des Chelae."
+ },
+ {
+  "en": "Head to {2} and pick up the Quest Item at the designated location in Main Outpost: {1}.",
+  "fr": "Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué au Camp principal Scavenger."
+ },
+ {
+  "en": "Go to {2}, and pick up the Quest Item: {1} at the designated location in the Loading Yard.",
+  "fr": "Allez à {2}, récupérez l'objet de Mission : {1} à l'endroit indiqué dans la Zone de chargement."
+ },
+ {
+  "en": "Go to {2}, pick up the Quest Item at the designated location in the Bar: {1}.",
+  "fr": "ALLER à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué dans le Bar."
+ },
+ {
+  "en": "Go to {2}, pick up the Quest Item at the designated location in the Central District: {1}.",
+  "fr": "Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué dans la Ville principale."
+ },
+ {
+  "en": "Head to {2}, and pick up the Quest Item at the designated location in the Central District: {1}.",
+  "fr": "Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué dans la Ville principale."
+ },
+ {
+  "en": "Go to {2} and pick up the Quest Item: {1} at the designated location in the Central District.",
+  "fr": "Allez à {2} et ramassez l'objet de Mission : {1} à l'endroit indiqué dans la Ville principale."
+ },
+ {
+  "en": "Head to {2} and pick up the Quest Item {1} at the designated location in the Central District.",
+  "fr": "Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué dans la Ville principale."
+ },
+ {
+  "en": "Go to {2} and pick up the Quest Item at the designated location in the Factory Perimeter: {1}.",
+  "fr": "Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué en Périphérie de l'usine."
+ },
+ {
+  "en": "Go to {2} and pick up the Quest Item at the designated location in Chelae Settlement: {1}.",
+  "fr": "Allez à {2} et ramassez l'objet de Mission : {1} à l'endroit indiqué dans le Campement des Chelae."
+ },
+ {
+  "en": "Head to {2}, and pick up the Quest Item {1} at the designated location in the Main Outpost.",
+  "fr": "Allez à {2} et ramassez l'objet de Mission : {1} à l'endroit indiqué au Camp principal Scavenger."
+ },
+ {
+  "en": "Head to {2}, and pick up the Quest Item at the designated location in the Main Outpost: {1}.",
+  "fr": "Allez à {2} et ramassez l'objet de Mission : {1} à l'endroit indiqué du Camp principal Scavenger."
+ },
+ {
+  "en": "Head to {2}, then at the designated location in Glory Cemetery, pick up the Quest Item: {1}.",
+  "fr": "Allez à {2} et ramassez l'objet de Mission : {1} à l'emplacement indiqué dans le Cimetière de la Gloire."
+ },
+ {
+  "en": "Head to Seaside Port and investigate the designated location at Coastal Outpost.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'endroit indiqué de l'Avant-poste côtier."
+ },
+ {
+  "en": "Head to the Seaside Port and investigate at designated location 1 in the Chelae Settlement.",
+  "fr": "ALLER au Port côtier, effectuer une enquête à l'emplacement spécifié 1 du Campement des Chelae."
+ },
+ {
+  "en": "Head to the Seaside Port and investigate at designated location 2 in the Chelae Settlement.",
+  "fr": "Allez au Port côtier et menez l'enquête à la position 2 spécifiée dans le Campement des Chelae."
+ },
+ {
+  "en": "Go to Seaside Port, and place {1} at the designated location in Chelae Settlement. (You must prepare {1} yourself.)",
+  "fr": "Allez au Port côtier et placez {1} à l'endroit désigné dans le Campement des Chelae. (Vous devez préparer {1} vous-même.)"
+ },
+ {
+  "en": "Go to Seaside Port and conduct an investigation at the designated location in the Mariana Settlement.",
+  "fr": "ALLER au Port côtier et mener l'enquête à l'endroit désigné de la Colonie des Marianiens."
+ },
+ {
+  "en": "Go to Seaside Port and place {1} at the designated location in the Mariana Settlement.",
+  "fr": "ALLER au Port côtier, placez {1} à l'endroit désigné de la colonie de Mariana."
+ },
+ {
+  "en": "Head to the southern part of Seaside Port and submit {2}*{3} to {1}.",
+  "fr": "Allez au sud du Port côtier et remettez {3} {2} à {1}."
+ },
+ {
+  "en": "Go to the Orc settlement west of Seaside Port and view the inventory.",
+  "fr": "Rendez-vous dans la zone de peuplement des orcs à l'ouest du Port côtier pour VOIR les stocks."
+ },
+ {
+  "en": "Go to Seaside Port and submit {2}*{3} to {1}.",
+  "fr": "ALLER au Port côtier et donner {3} {2} à {1}."
+ },
+ {
+  "en": "Go to Seaside Port and submit {2}*{3} to {1}.",
+  "fr": "ALLER au Port côtier et soumettre {3} {2} à {1}."
+ },
+ {
+  "en": "Head to Seaside Port and talk to {1}.",
+  "fr": "ALLER au Port côtier et parler avec {1}."
+ },
+ {
+  "en": "Go to Seaside Port and talk to {1}.",
+  "fr": "ALLER au Port côtier et parler avec {1}."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location in the eastern Chelae Settlement.",
+  "fr": "ALLER au Port côtier et mener l'enquête à l'emplacement désigné dans la colonie des parias à l'est."
+ },
+ {
+  "en": "Head to Seaside Port and collect business information at the designated location in the Central District.",
+  "fr": "ALLER au Port côtier, RASSEMBLEZ-VOUS ICI pour collecter des informations commerciales à l'endroit indiqué dans la Ville principale."
+ },
+ {
+  "en": "Head to Seaside Port and investigate the designated location in Central District.",
+  "fr": "ALLER au Port côtier, effectuez une enquête à l'endroit indiqué de la Ville principale."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location at Border Outpost.",
+  "fr": "Allez au Port côtier, effectuez l'enquête à l'endroit indiqué de l'Avant-poste frontalier."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location on Umbrella Island.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'endroit indiqué sur l'Île du Rocher-Parapluie."
+ },
+ {
+  "en": "Go to Seaside Port and conduct an investigation at the designated location in the Solar Plant.",
+  "fr": "ALLER au Port côtier, effectuez une enquête à l'endroit indiqué de la Centrale photovoltaïque."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location at Cloud-Reaching Peak.",
+  "fr": "ALLER au Port côtier, effectuez une enquête à l'endroit indiqué du Pic des Nuages."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location at Orcish Outpost.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'emplacement désigné de l'Avant-poste orque."
+ },
+ {
+  "en": "Go to Seaside Port and obtain the quest item at the designated location in Orcish Core: {1}.",
+  "fr": "Allez au Port côtier et récupérez l'objet de Mission : {1} à l'emplacement spécifié dans l'Usine de base des Orcs."
+ },
+ {
+  "en": "Go to Seaside Port and investigate at the designated location in Orcish Core.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'emplacement désigné de l'Usine de base des Orcs."
+ },
+ {
+  "en": "Go to Seaside Port and conduct an investigation at the designated location in the Ancient Ruins.",
+  "fr": "ALLER au Port côtier, menez l'enquête à l'endroit indiqué des Ruines."
+ },
+ {
+  "en": "Head to Seaside Port and collect business information at the designated location in the Ring of Fate.",
+  "fr": "ALLER au Port côtier, RASSEMBLEZ des informations commerciales à l'emplacement spécifié de l'Anneau du destin."
+ },
+ {
+  "en": "Go to Seaside Port and investigate at the designated location in Ring of Fate.",
+  "fr": "ALLER au Port côtier, effectuez l'enquête à l'endroit indiqué de l'Anneau du destin."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location in Peril Canyon.",
+  "fr": "ALLER au Port côtier et mener l'enquête à l'endroit indiqué du Sentier périlleux du canyon."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location in Factory Perimeter.",
+  "fr": "ALLER au Port côtier, effectuez une enquête à l'endroit indiqué en Périphérie de l'usine."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location at the Colossal Beast Bones.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'endroit indiqué sur l'Os de dragon géant."
+ },
+ {
+  "en": "Head to Seaside Port and investigate the designated location in Stone Formation.",
+  "fr": "ALLER au Port côtier, effectuez une enquête à l'endroit indiqué de la Formation de pierres géantes."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location in Chelae Settlement.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'endroit indiqué dans le Campement des Chelae."
+ },
+ {
+  "en": "Go to Seaside Port and investigate at designated location 1 in Dragon's Nest.",
+  "fr": "ALLER au Port côtier, effectuer une enquête à l'emplacement 1 spécifié du Repaire du dragon furieux."
+ },
+ {
+  "en": "Go to Seaside Port and investigate at designated location 2 in Dragon's Nest.",
+  "fr": "ALLER au Port côtier et effectuer une enquête à la position de la caméra 2 dans le Repaire du dragon furieux."
+ },
+ {
+  "en": "Go to Seaside Port and investigate at the designated location in Dragon's Nest.",
+  "fr": "ALLER au Port côtier, effectuez une enquête à l'endroit indiqué du Repaire du dragon furieux."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location in Dragon's Nest.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'endroit indiqué du Repaire du dragon furieux."
+ },
+ {
+  "en": "Go to Seaside Port and investigate at the designated location in Celebration Corner.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'endroit indiqué au Coin de célébration."
+ },
+ {
+  "en": "Head to Seaside Port and investigate the designated location at Deadwood Outpost.",
+  "fr": "ALLER au Port côtier et mener l'enquête à l'emplacement désigné de l'Avant-poste de l'Arbre mort."
+ },
+ {
+  "en": "Go to Seaside Port and investigate at the designated location in White Coast.",
+  "fr": "ALLER au Port côtier et mener l'enquête à l'endroit indiqué sur la Côte blanche."
+ },
+ {
+  "en": "Head to Seaside Port and investigate the designated location in Shallow Shoals.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'endroit indiqué sur la Plage d'herbe claire."
+ },
+ {
+  "en": "Proceed to Seaside Port and investigate the designated location in Shallow Shoals.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'endroit indiqué sur la Plage d'herbe claire."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location on Sea Anemone Island.",
+  "fr": "ALLER au Port côtier et mener l'enquête à l'endroit indiqué sur l'Île des Anémones."
+ },
+ {
+  "en": "Head to Seaside Port and investigate at the designated location at the Lighthouse.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'endroit indiqué du Phare."
+ },
+ {
+  "en": "Proceed to Seaside Port and investigate the designated location in Purple Coast.",
+  "fr": "ALLER au Port côtier et mener l'enquête à l'endroit indiqué sur la Côte violette."
+ },
+ {
+  "en": "Head to Seaside Port and investigate the designated location in Purple Coast.",
+  "fr": "ALLER au Port côtier et mener l'enquête à l'emplacement désigné de la Côte violette."
+ },
+ {
+  "en": "Proceed to Seaside Port and investigate the designated location in Mangrove Forest.",
+  "fr": "ALLER au Port côtier et mener l'enquête à l'endroit indiqué dans la Mangrove."
+ },
+ {
+  "en": "Go to Seaside Port and investigate at the designated location in Crimson Mountains.",
+  "fr": "ALLER au Port côtier, effectuez une enquête à l'endroit indiqué dans les Montagnes écarlates."
+ },
+ {
+  "en": "Go to Seaside Port and investigate at the designated location in Glory Cemetery.",
+  "fr": "Allez au Port côtier et menez l'enquête à l'endroit indiqué du Cimetière de la Gloire."
+ },
+ {
+  "en": "Head to Seaside Port and investigate the designated location in Steel Ruins.",
+  "fr": "ALLER au Port côtier et mener l'enquête à l'emplacement indiqué dans les Ruines d'acier."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location in Meteor Crater.",
+  "fr": "ALLER au Port côtier, effectuez l'enquête à l'endroit indiqué du Cratère."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location at Secluded Retreat.",
+  "fr": "ALLER au Port côtier, effectuez l'enquête à l'endroit indiqué de l'Ermitage."
+ },
+ {
+  "en": "Go to Seaside Port and investigate the designated location on Devil's Island.",
+  "fr": "ALLER au Port côtier, effectuez une enquête à l'endroit indiqué sur l'Île du diable."
+ },
+ {
+  "en": "Head to Seaside Port and investigate at the designated location at Black Sand Beach.",
+  "fr": "ALLER au Port côtier et mener l'enquête à l'endroit indiqué sur la Plage de sable noir."
+ },
+ {
+  "en": "Travel to Seaside Port and destroy the pollution generator in the Mariana Settlement.",
+  "fr": "ALLER au Port côtier pour détruire le générateur de pollution de la colonie de Mariana."
+ },
+ {
+  "en": "Go to Seaside Port and investigate Trail Outpost.",
+  "fr": "ALLER au Port côtier, enquête à l'Avant-poste du chemin secondaire."
+ },
+ {
+  "en": "Head to Orcish Core, and deploy {1} in the designated area.",
+  "fr": "Allez à l'Usine de base des Orcs et venez DÉPLOYER {1} dans la zone désignée."
+ },
+ {
+  "en": "Go to the human settlement in the north and place the Quest Item: {1}.",
+  "fr": "ALLER à la colonie humaine du nord, DÉPLOYER l'objet de Mission : {1}."
+ },
+ {
+  "en": "Go to the reefs on the southern coast and pay respects at the designated location in Glory Cemetery.",
+  "fr": "Rendez-vous aux récifs de la côte sud et effectuez le rituel au lieu indiqué dans le Cimetière de la Gloire."
+ },
+ {
+  "en": "Head to the Extraction Point on the Map and extract from {1} {2} time(s).",
+  "fr": "Accéder au site d'évacuation sur la Carte, évacuer {2} fois depuis {1}."
+ },
+ {
+  "en": "Go to the Training Room and complete {1} Backpack Training sessions.",
+  "fr": "Allez à la Salle tactique et terminez {1} entraînements de sac."
+ },
+ {
+  "en": "Go to the Hub to use a Logistics Order.",
+  "fr": "ALLER à la station pivot pour UTILISER les commandes logistiques."
+ },
+ {
+  "en": "Head to the teleport beam at the center, then depart for {1}.",
+  "fr": "Allez vers le pilier de lumière de téléportation au centre et partez pour {1}."
+ },
+ {
+  "en": "Go to the designated location near Anemone Island and submit {1}*{2}.",
+  "fr": "Rendez-vous à l'endroit indiqué près de l'Île des Anémones pour soumettre {2} {1}."
+ },
+ {
+  "en": "Go to the Target Site and pick up the Quest Item: {1}.",
+  "fr": "Accéder au site cible et ramasser l'objet de Mission : {1}."
+ },
+ {
+  "en": "Head to the Honor Cemetery and give {2}*{3} to {1}.",
+  "fr": "ALLER au Cimetière de la Gloire, donnez {3} {2} à {1}."
+ },
+ {
+  "en": "Head to The Fringe Sector and investigate the designated location in the Residential Area.",
+  "fr": "ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué dans la Zone résidentielle."
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location in the Residential Area.",
+  "fr": "ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué dans la Zone résidentielle."
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location in Secondary Outpost.",
+  "fr": "ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué du Camp secondaire."
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location in the Market.",
+  "fr": "ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué de la Boutique."
+ },
+ {
+  "en": "Go to The Fringe Sector, and conduct a location investigation at the designated point on the town overpass.",
+  "fr": "ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué sur le viaduc de la ville."
+ },
+ {
+  "en": "Go to The Fringe Sector and place {1} at the designated location. (You need to prepare {1} yourself.)",
+  "fr": "ALLER au Secteur périphérique, placez {1} à l'endroit indiqué. ({1} doit être préparé par vos soins.)"
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location in the Old Town Hall.",
+  "fr": "ALLER au Secteur périphérique et mener l'enquête à l'emplacement désigné du Vieil hôtel de ville."
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location next to the abandoned building at Old Lighthouse.",
+  "fr": "ALLER au Secteur périphérique, effectuer une enquête à l'emplacement désigné à côté du bâtiment abandonné du Vieux phare."
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location at Old Lighthouse.",
+  "fr": "ALLER au Secteur périphérique, mener l'enquête à l'emplacement désigné du Vieux phare."
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location in the Loading Yard.",
+  "fr": "ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué de la Zone de chargement."
+ },
+ {
+  "en": "Go to The Fringe Sector, and investigate at the designated location in Loading Yard.",
+  "fr": "ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué dans la Zone de chargement."
+ },
+ {
+  "en": "Go to The Fringe Sector and place {1} at the designated location at Crossroads Tower. ({1} must be prepared on your own.)",
+  "fr": "ALLER au Secteur périphérique, placez {1} à l'emplacement spécifié de la Balise d'intersection. ({1} doit être préparé par vos soins.)"
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location at Crossroads Tower.",
+  "fr": "ALLER au Secteur périphérique, effectuer une enquête à l'emplacement spécifié de la Balise d'intersection."
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location at the Bar.",
+  "fr": "ALLER au Secteur périphérique, menez l'enquête à l'endroit indiqué dans le Bar."
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location in the Bar.",
+  "fr": "ALLER au Secteur périphérique, menez l'enquête à l'endroit indiqué dans le Bar."
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location in the Secondary Outpost.",
+  "fr": "Allez au Secteur périphérique et menez l'enquête à l'endroit indiqué du Camp secondaire."
+ },
+ {
+  "en": "Go to The Fringe Sector and investigate the designated location in the Main Outpost.",
+  "fr": "ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué du Camp principal Scavenger."
+ },
+ {
+  "en": "Go to The Fringe Sector and view the abandoned storage inventory.",
+  "fr": "Aller au Secteur périphérique pour vérifier l'inventaire de l'Entrepôt abandonné."
+ },
+ {
+  "en": "Artisan Crafting",
+  "fr": "Fait main par un artisan"
+ },
+ {
+  "en": "Medical Merchant reaches Lv. 10.",
+  "fr": "Marchand médical atteint le niveau 10."
+ },
+ {
+  "en": "Star Upgrade CHALLENGE 1",
+  "fr": "MISSION D'ÉTOILE 1"
+ },
+ {
+  "en": "Star Upgrade Challenge 1/1",
+  "fr": "Mission d'ascension 1-1"
+ },
+ {
+  "en": "Star Upgrade Challenges 1-2",
+  "fr": "Défi de promotion 1-2"
+ },
+ {
+  "en": "Star Upgrade Challenge(s) 1-3",
+  "fr": "Mission d'ascension 1-3"
+ },
+ {
+  "en": "Star Upgrade Challenge 1-4",
+  "fr": "Mission d'éveil 1-4"
+ },
+ {
+  "en": "Star Upgrade Challenges 1-5",
+  "fr": "Missions de montée en étoile 1-5"
+ },
+ {
+  "en": "Star Upgrade Challenge 1-6",
+  "fr": "Mission de promotion d'étoile 1-6 Assaut"
+ },
+ {
+  "en": "Star Upgrade Challenge 1-7",
+  "fr": "Missions de montée en étoile 1-7"
+ },
+ {
+  "en": "Star Upgrade Challenge 2",
+  "fr": "MISSION D'ÉTOILE 2"
+ },
+ {
+  "en": "Star Upgrade Challenge 2-1",
+  "fr": "Missions de promotion 2-1"
+ },
+ {
+  "en": "Star Upgrade Challenge 2-2",
+  "fr": "Mission de promotion 2-2"
+ },
+ {
+  "en": "Star Upgrade Challenge 2-3",
+  "fr": "Mission de promotion 2-3"
+ },
+ {
+  "en": "Star Upgrade Challenge 2-4",
+  "fr": "Mission(s) de montée en étoile 2-4"
+ },
+ {
+  "en": "Star Upgrade Challenge(s) 2-5",
+  "fr": "Mission(s) de promotion 2-5"
+ },
+ {
+  "en": "Star Upgrade Challenge 2-6",
+  "fr": "Mission d'ascension 2-6"
+ },
+ {
+  "en": "Star Upgrade Challenge 2-7",
+  "fr": "Mission de montée en étoile 2-7"
+ },
+ {
+  "en": "Star Upgrade Challenge 3",
+  "fr": "Défi 3"
+ },
+ {
+  "en": "Star Upgrade Challenge 3-1",
+  "fr": "Mission d'Étoile 3-1"
+ },
+ {
+  "en": "Star Upgrade Challenge 3-2",
+  "fr": "Mission d'ascension 3-2 Forge"
+ },
+ {
+  "en": "Star Upgrade Challenge 3-3",
+  "fr": "Mission d'ascension d'étoile 3-3"
+ },
+ {
+  "en": "Star Upgrade Challenge 3-4",
+  "fr": "Missions de promotion 3-4"
+ },
+ {
+  "en": "Star Upgrade Challenge 3-5",
+  "fr": "Missions d'éveil 3-5"
+ },
+ {
+  "en": "Star Upgrade Challenge 3-6",
+  "fr": "Mission d'ascension 3-6"
+ },
+ {
+  "en": "Star Upgrade Challenge 3-7",
+  "fr": "Mission d'ascension 3-7"
+ },
+ {
+  "en": "Star Upgrade Challenge 4",
+  "fr": "Mission d'ascension 4"
+ },
+ {
+  "en": "Star Upgrade Challenge 4-1",
+  "fr": "Mission d'éveil 4-1 Hall"
+ },
+ {
+  "en": "Star Upgrade Challenge 4-2",
+  "fr": "Mission(s) de Promotion 4-2"
+ },
+ {
+  "en": "Star Upgrade Challenge 4-3",
+  "fr": "Mission d'ascension 4-3"
+ },
+ {
+  "en": "Star Upgrade Challenge 4-4",
+  "fr": "Mission d'ascension 4-4"
+ },
+ {
+  "en": "Star Upgrade Challenge 4-5",
+  "fr": "Mission d'ascension 4-5"
+ },
+ {
+  "en": "Star Upgrade Challenge 4-6",
+  "fr": "Missions de promotion 4-6"
+ },
+ {
+  "en": "Star Upgrade Challenge 4-7",
+  "fr": "Missions de promotion 4-7"
+ },
+ {
+  "en": "Sell any goods to obtain {1} coins.",
+  "fr": "Vendez n'importe quelle marchandise pour obtenir {1} pièces."
+ },
+ {
+  "en": "Sell any goods to earn {1} coins.",
+  "fr": "Vendez n'importe quelle marchandise pour obtenir {1} pièces."
+ },
+ {
+  "en": "Unload and leave immediately.",
+  "fr": "Déchargez et partez"
+ },
+ {
+  "en": "A Friendship Forged",
+  "fr": "Charme de l'amitié"
+ },
+ {
+  "en": "Legacy",
+  "fr": "Témoignage à travers les âges"
+ },
+ {
+  "en": "Submit {2}*{3} to {1}.",
+  "fr": "Soumettez {3} {2} à {1}."
+ },
+ {
+  "en": "Deliver 1 Gold Material to the Merchant Scavenger",
+  "fr": "Remettez 1 Pièce dorée au marchand Le Glaneur."
+ },
+ {
+  "en": "Deliver 1 Gold Material to Scholar Tiye",
+  "fr": "Remettez 1 Pièce dorée à l'Érudit Tiye"
+ },
+ {
+  "en": "Deliver 1 Gold Material to Devout Iside.",
+  "fr": "Livrer 1 Pièce dorée à Dévote Iside"
+ },
+ {
+  "en": "Deliver 1 Gold Material to Serket, Master of Deserts",
+  "fr": "Livrez 1 Pièce dorée à Serket, maître des sables"
+ },
+ {
+  "en": "Talk to Medical Merchant: Pathojen.",
+  "fr": "Parlez avec le Marchand médical : Pathojen."
+ },
+ {
+  "en": "Talk to General Goods Merchant: Old Joe.",
+  "fr": "Parlez à l'Épicier : Vieux Joe."
+ },
+ {
+  "en": "Talk to Weapon Merchant: Hollowpoint.",
+  "fr": "Parlez au Marchand d’armes : Hollowpoint."
+ },
+ {
+  "en": "Talk to Equipment Merchant: Broker.",
+  "fr": "Parler à Marchand d’équipement : Broker."
+ },
+ {
+  "en": "The Disaster of Harmony Town",
+  "fr": "La catastrophe de Ville fantôme"
+ },
+ {
+  "en": "The Disaster of Harmony Town",
+  "fr": "La catastrophe de la Ville fantôme"
+ },
+ {
+  "en": "Talk to Vehicle Merchant: Nitro.",
+  "fr": "Parler au Marchand de véhicules : NITRO."
+ },
+ {
+  "en": "Old Joe: Chamber of Commerce Invitation",
+  "fr": "Invitation de la chambre de commerce"
+ },
+ {
+  "en": "Loot any {2} containers at {1}.",
+  "fr": "Fouillez {2} conteneurs dans {1}."
+ },
+ {
+  "en": "Loot any {2} containers on {1}.",
+  "fr": "Fouillez {2} conteneurs à {1}."
+ },
+ {
+  "en": "Loot any {2} containers at {1}.",
+  "fr": "Fouillez {2} conteneurs à {1}."
+ },
+ {
+  "en": "Kill 1 Elite enemy with melee attacks.",
+  "fr": "ÉLIMINEZ 2 monstres Élite au corps à corps uniquement au Port côtier"
+ },
+ {
+  "en": "Complete 3 orders in Golden Dunes cumulatively.",
+  "fr": "Complétez 2 commande(s) avec un véhicule au Port côtier."
+ },
+ {
+  "en": "Complete 4 orders in total in Golden Dunes.",
+  "fr": "Effectuer 3 livraisons en utilisant un véhicule au Port côtier"
+ },
+ {
+  "en": "Kill 10 Common Murlocs",
+  "fr": "Éliminez 5 monstres à Port côtier."
+ },
+ {
+  "en": "Complete 1 order in Seaside Port cumulatively.",
+  "fr": "Compléter 1 commande d'une valeur > 4 millions au Port côtier"
+ },
+ {
+  "en": "Kill 1 enemy player with each of three different weapon types.",
+  "fr": "Effectuer 1 commande d'un poids ≥ 30 kg au Port côtier"
+ },
+ {
+  "en": "Complete 3 orders in total at Seaside Port.",
+  "fr": "Compléter 3 commandes au Port côtier"
+ },
+ {
+  "en": "Complete 4 orders in total at Seaside Port.",
+  "fr": "Complétez 4 commande(s) sur la carte Port côtier"
+ },
+ {
+  "en": "Extraction Successful 1 time",
+  "fr": "Effectuer une commande d'un poids ≥ 100 kg au Port côtier"
+ },
+ {
+  "en": "Complete 1 order weighing no less than 100 kg in Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "Complete 1 order with a weight of no less than 50 KG in Seaside Port cumulatively.",
+  "fr": "Terminer des commandes de poids ≥ 50 kg au Port côtier"
+ },
+ {
+  "en": "Complete 3 orders in Golden Dunes with a weight of at least 50 kg.",
+  "fr": ""
+ },
+ {
+  "en": "Complete 1 order worth no less than 4,000,000 in Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "Complete 5 orders in total at Seaside Port.",
+  "fr": "Terminez 5 commandes au total au Port côtier."
+ },
+ {
+  "en": "Investigate the Outcast Mystery Clue 01",
+  "fr": "Enquêter sur deux indices existants au Port côtier"
+ },
+ {
+  "en": "Investigate the Outcast Mystery Clue 02",
+  "fr": "Enquêter sur deux indices au Port côtier"
+ },
+ {
+  "en": "Craft {1}*{2} at the Medkit Station.",
+  "fr": "Fabriquer {2} {1} au poste de secours."
+ },
+ {
+  "en": "Search any {2} containers on the Map.",
+  "fr": "Cherchez {2} conteneurs sur n'importe quelle Carte."
+ },
+ {
+  "en": "Pick up the Quest Item at the Loading Yard: {1}.",
+  "fr": "Ramasser l'objet de Mission dans la Zone de chargement : {1}."
+ },
+ {
+  "en": "Kill 8 Sentries in The Fringe Sector",
+  "fr": "Élimination de 3 Agents de sécurité Kepler dans le Secteur périphérique, à terminer en une seule partie."
+ },
+ {
+  "en": "Complete 1 order in The Fringe Sector.",
+  "fr": "Complétez 1 commande dans le Secteur périphérique."
+ },
+ {
+  "en": "Complete 1 order weighing no less than 30 kg in The Fringe Sector.",
+  "fr": "Complétez 1 commande d'un poids ≥ 30 kg dans le Secteur périphérique."
+ },
+ {
+  "en": "Complete 2 orders in The Fringe Sector.",
+  "fr": "Terminez 2 commande(s) sur la carte Secteur périphérique."
+ },
+ {
+  "en": "Complete 3 orders in The Fringe Sector.",
+  "fr": "Complétez 3 commandes dans le Secteur périphérique."
+ },
+ {
+  "en": "Kill 3 enemy players with Rusty Revolver.",
+  "fr": "Effectuer une commande d'un poids ≥ 100 kg dans le Secteur périphérique"
+ },
+ {
+  "en": "Complete 1 order in The Fringe Sector with an order value of no less than 2,000,000.",
+  "fr": "Complétez des commandes d'une valeur ≥ 100 dix mille dans le Secteur périphérique"
+ },
+ {
+  "en": "Search 8 containers in The Fringe Sector.",
+  "fr": "Rechercher 5 conteneurs dans le Secteur périphérique"
+ },
+ {
+  "en": "Search 5 containers in The Fringe Sector.",
+  "fr": "recherche : 5 conteneurs dans le Secteur périphérique"
+ },
+ {
+  "en": "Complete 1 order worth no less than 4,000,000 in Golden Dunes.",
+  "fr": "Compléter 1 commande d'une valeur non inférieure à 4 000 000 dans la Terre des sables."
+ },
+ {
+  "en": "Complete 1 order in Golden Dunes.",
+  "fr": "Complétez 1 commande sur Terre des sables."
+ },
+ {
+  "en": "Complete 3 orders in Golden Dunes.",
+  "fr": "Effectuer 3 commandes dans la Terre des sables"
+ },
+ {
+  "en": "Complete 3 orders in Golden Dunes, including 1 high-value order.",
+  "fr": "Complétez 3 commandes dans la Terre des sables, dont 1 commande de haute valeur."
+ },
+ {
+  "en": "Hold the Line",
+  "fr": "Défense de la ligne de front"
+ },
+ {
+  "en": "Cemetery Chronicles",
+  "fr": "Chroniques du cimetière"
+ },
+ {
+  "en": "Combat Supplies",
+  "fr": "Fournitures de préparation"
+ },
+ {
+  "en": "Perimeter Exploration",
+  "fr": "Exploration périphérique"
+ },
+ {
+  "en": "Night Delivery",
+  "fr": "Livraison de navigation de nuit"
+ },
+ {
+  "en": "Broker: Major Investor",
+  "fr": "Investisseur majeur"
+ },
+ {
+  "en": "Encounters of a Third Kind",
+  "fr": "Visiteur d'ailleurs"
+ },
+ {
+  "en": "Viral!",
+  "fr": "Extrêmement positif"
+ },
+ {
+  "en": "Viral!",
+  "fr": "Plébiscité par la critique"
+ },
+ {
+  "en": "Enchanting Anemone",
+  "fr": "Anémone séduisante"
+ },
+ {
+  "en": "Island Survey",
+  "fr": "Cartographie de l'île isolée"
+ },
+ {
+  "en": "Watchtower Lighthouse",
+  "fr": "Phare de la Sentinelle"
+ },
+ {
+  "en": "Safety First",
+  "fr": "La sécurité avant tout"
+ },
+ {
+  "en": "Facility Upgrades",
+  "fr": "Améliorer la couverture"
+ },
+ {
+  "en": "Kill 2 enemy players",
+  "fr": "Terminez 1 commande d'un poids ≥ 50 kg"
+ },
+ {
+  "en": "Complete 20 orders",
+  "fr": "Complétez 20 commandes."
+ },
+ {
+  "en": "Complete 3 orders",
+  "fr": "Complétez 3 commandes"
+ },
+ {
+  "en": "Complete 40 orders",
+  "fr": "À obtenir après avoir terminé 40 commandes"
+ },
+ {
+  "en": "Complete 80 orders",
+  "fr": "Terminer 80 commandes"
+ },
+ {
+  "en": "Complete {1} orders",
+  "fr": "Complétez {1} commande(s)"
+ },
+ {
+  "en": "Complete {2} orders with package value > {1}.",
+  "fr": "Complétez {2} commandes d'une valeur de colis >{1}."
+ },
+ {
+  "en": "Complete orders with {2} packages whose package weight > {1}kg.",
+  "fr": "Terminez {2} commandes avec un poids de colis > {1} kg."
+ },
+ {
+  "en": "Complete {2} orders with package weight > {1}kg.",
+  "fr": "Terminez {2} commandes avec un poids de colis > {1} kg."
+ },
+ {
+  "en": "Complete any {1} orders.",
+  "fr": "Complétez {1} commandes au choix."
+ },
+ {
+  "en": "Complete any {1} orders.",
+  "fr": "Complétez n'importe quels {1} commandes."
+ },
+ {
+  "en": "Broker: All That Glitters",
+  "fr": "Demande de saphirs"
+ },
+ {
+  "en": "Broker: All That Glitters",
+  "fr": "Besoin en saphirs"
+ },
+ {
+  "en": "Submit 5 Stellar Carbon to Serket",
+  "fr": ""
+ },
+ {
+  "en": "Repair any {2} items that are not at full perfection to {1}% perfection.",
+  "fr": "Répare {2} articles dont la PRÉFECTION n'est pas au maximum à {1}% de PRÉFECTION."
+ },
+ {
+  "en": "Repair any {2} items that are not at full perfection to {1}% perfection.",
+  "fr": "Réparez {2} articles dont la PRÉFECTION n'est pas au maximum jusqu'à {1} % de PRÉFECTION."
+ },
+ {
+  "en": "Submit {2}*{3} to {1}.",
+  "fr": "Donnez {3} {2} à {1}."
+ },
+ {
+  "en": "Submit {2}*{3} to {1}.",
+  "fr": "Confiez {3} {2} à la garde de {1}."
+ },
+ {
+  "en": "Modest Savings 1",
+  "fr": "Petites économies-1"
+ },
+ {
+  "en": "Modest Savings 2",
+  "fr": "Petites économies-2"
+ },
+ {
+  "en": "Modest Savings 3",
+  "fr": "Petites économies-3"
+ },
+ {
+  "en": "Modest Savings 4",
+  "fr": "Petites économies-4"
+ },
+ {
+  "en": "Modest Savings 4",
+  "fr": "Quelques économies-4"
+ },
+ {
+  "en": "Modest Savings 5",
+  "fr": "Petites économies-5"
+ },
+ {
+  "en": "Local Materials",
+  "fr": "Utiliser les ressources locales"
+ },
+ {
+  "en": "Locally Sourced",
+  "fr": "Utiliser les ressources locales"
+ },
+ {
+  "en": "Factory Supplies",
+  "fr": "Fournitures d'usine"
+ },
+ {
+  "en": "Colossal Beast Bones",
+  "fr": "Les ossements de la grande bête"
+ },
+ {
+  "en": "Colossal Beast Bones",
+  "fr": "Ossements des grandes bêtes"
+ },
+ {
+  "en": "Mysterious Boulder",
+  "fr": "Mème de monolithe"
+ },
+ {
+  "en": "Mysterious Boulder",
+  "fr": "Mème de mégalithe"
+ },
+ {
+  "en": "Extract 1 Rare or higher item",
+  "fr": "Ramenez 3 objets de qualité épique B ou supérieure"
+ },
+ {
+  "en": "Fighting Side-by-Side",
+  "fr": "Combattre côte à côte"
+ },
+ {
+  "en": "The Surviving Miner",
+  "fr": "Mineur survécu"
+ },
+ {
+  "en": "Old Joe: Inventory Check",
+  "fr": "Inventaire des stocks EN VENTE"
+ },
+ {
+  "en": "Old Joe: Inventory Check",
+  "fr": "Inventaire de stock"
+ },
+ {
+  "en": "Kepler's Cleanup",
+  "fr": "Nettoyage de Kepler"
+ },
+ {
+  "en": "Enemy of the Chelae",
+  "fr": "Ennemi des Parias"
+ },
+ {
+  "en": "Chelae Settlement",
+  "fr": "Refuge des Parias"
+ },
+ {
+  "en": "Evidence of the Chelae",
+  "fr": "Preuve des Chelae"
+ },
+ {
+  "en": "Evidence of the Chelae",
+  "fr": "Preuves des Chelae"
+ },
+ {
+  "en": "Chelae Relic",
+  "fr": "Relique des Chelae"
+ },
+ {
+  "en": "Days Gone",
+  "fr": "Days Gone"
+ },
+ {
+  "en": "Days Gone",
+  "fr": "Jours passés"
+ },
+ {
+  "en": "Echoes of the Past",
+  "fr": "Échos du passé"
+ },
+ {
+  "en": "The Past",
+  "fr": "Autrefois"
+ },
+ {
+  "en": "Dragon's Nest",
+  "fr": "Repaire du dragon furieux"
+ },
+ {
+  "en": "Mad Dragon Mystery",
+  "fr": "Mystère du Dragon Furieux"
+ },
+ {
+  "en": "Reach {1} total coins.",
+  "fr": "Le total des pièces atteint {1}."
+ },
+ {
+  "en": "Reach {1} total coins.",
+  "fr": "Pièces totales atteintes : {1}."
+ },
+ {
+  "en": "Reach {1} total coins.",
+  "fr": "Total des pièces atteint {1}."
+ },
+ {
+  "en": "Kill 3 Elite enemies with melee attacks.",
+  "fr": ""
+ },
+ {
+  "en": "Recovery Training 1",
+  "fr": "Regain la formation-1"
+ },
+ {
+  "en": "Recovery Training 2",
+  "fr": "REPRENDRE L'ENTRAÎNEMENT-2"
+ },
+ {
+  "en": "Recovery Training 2",
+  "fr": "ENTRAÎNEMENT Regain-2"
+ },
+ {
+  "en": "Recovery Training 3",
+  "fr": "REGAIN L'ENTRAÎNEMENT-3"
+ },
+ {
+  "en": "Recovery Training 3",
+  "fr": "REGAIN D'ENTRAÎNEMENT-3"
+ },
+ {
+  "en": "Recovery Training 4",
+  "fr": "Entraînement Regain -4"
+ },
+ {
+  "en": "Recovery Training 4",
+  "fr": "Regain d'entraînement -4"
+ },
+ {
+  "en": "Recovery Training 4",
+  "fr": "Entraînement de Regain -4"
+ },
+ {
+  "en": "Seaside Port: Harsh Conditions",
+  "fr": "Environnement hostile - Port côtier"
+ },
+ {
+  "en": "Bounty: Orc Grunt 1",
+  "fr": "Prime : Grognard orc-1"
+ },
+ {
+  "en": "Bounty: Orc Grunt 2",
+  "fr": "Prime : Grognard orc-2"
+ },
+ {
+  "en": "Bounty: Orc Grunt 3",
+  "fr": "Prime : Grognard orc-3"
+ },
+ {
+  "en": "Bounty: Orc Grunt 4",
+  "fr": "Prime : Grognard orc-4"
+ },
+ {
+  "en": "Bounty: Orc Grunt 5",
+  "fr": "Prime : Grognard orc-5"
+ },
+ {
+  "en": "Bounty: Orc Grunt 6",
+  "fr": "Prime : Grognard orc-6"
+ },
+ {
+  "en": "Bounty: Orc Cannoneer 1",
+  "fr": "Prime : Canonnier orc-1"
+ },
+ {
+  "en": "Bounty: Orc Cannoneer 2",
+  "fr": "Prime : Canonnier orc-2"
+ },
+ {
+  "en": "Bounty: Orc Cannoneer 3",
+  "fr": "Prime : Canonnier orc-3"
+ },
+ {
+  "en": "Bounty: Orc Cannoneer 4",
+  "fr": "Prime : Canonnier orc-4"
+ },
+ {
+  "en": "Bounty: Orc Cannoneer 5",
+  "fr": "Prime : Canonnier orc-5"
+ },
+ {
+  "en": "Bounty: Orc Cannoneer 6",
+  "fr": "Prime : Canonnier orc-6"
+ },
+ {
+  "en": "Bounty: Orc Centurion 1",
+  "fr": "Prime : Centurion orc-1"
+ },
+ {
+  "en": "Bounty: Orc Centurion 2",
+  "fr": "Prime: Centurion orc-2"
+ },
+ {
+  "en": "Bounty: Orc Centurion 3",
+  "fr": "Prime : Centurion orc-3"
+ },
+ {
+  "en": "Bounty: Orc Centurion 4",
+  "fr": "Prime : Centurion orc-4"
+ },
+ {
+  "en": "Bounty: Orc Centurion 5",
+  "fr": "Prime : Centurion orc-5"
+ },
+ {
+  "en": "Bounty: Orc Centurion 6",
+  "fr": "Prime : Centurion orc-6"
+ },
+ {
+  "en": "Bounty: Orc Shieldbearer 1",
+  "fr": "Prime : Porteur de bouclier orc-1"
+ },
+ {
+  "en": "Bounty: Orc Shieldbearer 2",
+  "fr": "Prime : Porteur de bouclier orc-2"
+ },
+ {
+  "en": "Bounty: Orc Shieldbearer 3",
+  "fr": "Prime : Porteur de bouclier orc-3"
+ },
+ {
+  "en": "Bounty: Orc Shieldbearer 4",
+  "fr": "Prime : Porteur de bouclier orc-4"
+ },
+ {
+  "en": "Bounty: Orc Shieldbearer 5",
+  "fr": "Prime : Porteur de bouclier orc-5"
+ },
+ {
+  "en": "Bounty: Orc Shieldbearer 6",
+  "fr": "Prime : Porteur de bouclier orc-6"
+ },
+ {
+  "en": "Bounty: Mutated Kepler Researcher 1",
+  "fr": "Prime : Chercheur Kepler muté-1"
+ },
+ {
+  "en": "Bounty: Mutated Kepler Researcher 2",
+  "fr": "Prime : Chercheur Kepler muté-2"
+ },
+ {
+  "en": "Bounty: Mutated Kepler Researcher 3",
+  "fr": "Prime : Chercheur Kepler muté-3"
+ },
+ {
+  "en": "Bounty: Mutated Kepler Researcher 4",
+  "fr": "Prime : Chercheur Kepler muté-4"
+ },
+ {
+  "en": "Bounty: Mutated Kepler Researcher 5",
+  "fr": "Prime : Chercheur Kepler muté-5"
+ },
+ {
+  "en": "Bounty: Mutated Kepler Researcher 6",
+  "fr": "Prime : Chercheur Kepler muté-6"
+ },
+ {
+  "en": "Bounty: Mutant Wolf 1",
+  "fr": "Prime : Loup mutant-1"
+ },
+ {
+  "en": "Bounty: Mutant Wolf 2",
+  "fr": "Prime : Loup mutant-2"
+ },
+ {
+  "en": "Bounty: Mutant Wolf 3",
+  "fr": "Prime : Loup mutant-3"
+ },
+ {
+  "en": "Bounty: Mutant Wolf 4",
+  "fr": "Prime : Loup mutant-4"
+ },
+ {
+  "en": "Bounty: Mutant Wolf 5",
+  "fr": "Prime : Loup mutant-5"
+ },
+ {
+  "en": "Bounty: Mutant Wolf 6",
+  "fr": "Prime : Loup mutant-6"
+ },
+ {
+  "en": "Bounty: Sentry 1",
+  "fr": "Prime : Sentinelle-1"
+ },
+ {
+  "en": "Bounty: Sentry 2",
+  "fr": "Prime : Sentinelle-2"
+ },
+ {
+  "en": "Bounty: Sentry 3",
+  "fr": "Prime : Sentinelle-3"
+ },
+ {
+  "en": "Bounty: Sentry 4",
+  "fr": "Prime : Sentinelle-4"
+ },
+ {
+  "en": "Bounty: Sentry 5",
+  "fr": "Prime : Sentinelle-5"
+ },
+ {
+  "en": "Bounty: Sentry 6",
+  "fr": "Prime : Sentinelle-6"
+ },
+ {
+  "en": "Bounty: Night Market Chef 1",
+  "fr": "Prime : Chef du marché nocturne-1"
+ },
+ {
+  "en": "Bounty: Night Market Chef 2",
+  "fr": "Prime : Chef du marché nocturne-2"
+ },
+ {
+  "en": "Bounty: Night Market Chef 3",
+  "fr": "Prime : Chef du marché nocturne-3"
+ },
+ {
+  "en": "Bounty: Night Market Chef 4",
+  "fr": "Prime : Chef du marché nocturne-4"
+ },
+ {
+  "en": "Bounty: Night Market Chef 5",
+  "fr": "Prime : Chef du marché nocturne-5"
+ },
+ {
+  "en": "Bounty: Night Market Chef 6",
+  "fr": "Prime : Chef du marché nocturne-6"
+ },
+ {
+  "en": "Bounty: Skyhook 1",
+  "fr": "Prime : Croche-ciel-1"
+ },
+ {
+  "en": "Bounty: Skyhook 2",
+  "fr": "Prime : Skyhook-2"
+ },
+ {
+  "en": "Bounty: Skyhook 3",
+  "fr": "Prime : Skyhook-3"
+ },
+ {
+  "en": "Bounty: Skyhook 4",
+  "fr": "Prime : Skyhook'-4"
+ },
+ {
+  "en": "Bounty: Skyhook 5",
+  "fr": "Prime : Skyhook-5"
+ },
+ {
+  "en": "Bounty: Skyhook 6",
+  "fr": "Prime : Skyhook-6"
+ },
+ {
+  "en": "Bounty: Guardian 1",
+  "fr": "Prime : Gardien-1"
+ },
+ {
+  "en": "Bounty: Guardian 2",
+  "fr": "Prime : Gardien-2"
+ },
+ {
+  "en": "Bounty: Guardian 3",
+  "fr": "Prime : Gardien-3"
+ },
+ {
+  "en": "Bounty: Guardian 4",
+  "fr": "Prime : Gardien-4"
+ },
+ {
+  "en": "Bounty: Guardian 5",
+  "fr": "Prime : Gardien-5"
+ },
+ {
+  "en": "Bounty: Guardian 6",
+  "fr": "Prime: Gardien-6"
+ },
+ {
+  "en": "Bounty: Wasteland Pup 1",
+  "fr": "Prime : Chiot des Terres Désolées-1"
+ },
+ {
+  "en": "Bounty: Wasteland Pup 2",
+  "fr": "Prime : Chiot des Terres Désolées-2"
+ },
+ {
+  "en": "Bounty: Wasteland Pup 3",
+  "fr": "Prime : Chiot des Terres Désolées-3"
+ },
+ {
+  "en": "Bounty: Wasteland Pup 4",
+  "fr": "Prime : Chiot des Terres Désolées-4"
+ },
+ {
+  "en": "Bounty: Wasteland Pup 5",
+  "fr": "Prime : Chiot des Terres Désolées-5"
+ },
+ {
+  "en": "Bounty: Wasteland Dog King 1",
+  "fr": "Prime : Roi des chiens errants-1"
+ },
+ {
+  "en": "Bounty: Wasteland Dog King 2",
+  "fr": "Prime : Roi des chiens errants-2"
+ },
+ {
+  "en": "Bounty: Wasteland Dog King 3",
+  "fr": "Prime : Roi des chiens errants-3"
+ },
+ {
+  "en": "Bounty: Wasteland Dog King 4",
+  "fr": "Prime : Roi des chiens errants-4"
+ },
+ {
+  "en": "Bounty: Wasteland Dog King 5",
+  "fr": "Prime : Roi des chiens errants-5"
+ },
+ {
+  "en": "Bounty: Wasteland Dog 1",
+  "fr": "Prime : Chien des Terres Désolées-1"
+ },
+ {
+  "en": "Bounty: Wasteland Dog 2",
+  "fr": "Prime : Chien des Terres Désolées-2"
+ },
+ {
+  "en": "Bounty: Wasteland Dog 3",
+  "fr": "Prime : Chien des Terres Désolées-3"
+ },
+ {
+  "en": "Bounty: Wasteland Dog 4",
+  "fr": "Prime : Chien des Terres Désolées-4"
+ },
+ {
+  "en": "Bounty: Wasteland Dog 5",
+  "fr": "Prime : Chien des Terres Désolées-5"
+ },
+ {
+  "en": "Bounty: Wasteland Dog 6",
+  "fr": "Prime : Chien des Terres Désolées-6"
+ },
+ {
+  "en": "Bounty: Kepler Security Officer 1",
+  "fr": "Prime : Agent de sécurité Kepler-1"
+ },
+ {
+  "en": "Bounty: Kepler Security Officer 2",
+  "fr": "Prime : Agent de sécurité Kepler-2"
+ },
+ {
+  "en": "Bounty: Kepler Security Officer 3",
+  "fr": "Prime : Agent de sécurité Kepler-3"
+ },
+ {
+  "en": "Bounty: Kepler Security Officer 4",
+  "fr": "Prime : Agent de sécurité Kepler-4"
+ },
+ {
+  "en": "Bounty: Kepler Security Officer 5",
+  "fr": "Prime : Agent de sécurité Kepler-5"
+ },
+ {
+  "en": "Bounty: Kepler Security Officer 6",
+  "fr": "Prime : Agent de sécurité Kepler-6"
+ },
+ {
+  "en": "Bounty: Kepler Security Captain 1",
+  "fr": "Prime : Capitaine Kepler-1"
+ },
+ {
+  "en": "Bounty: Kepler Security Captain 2",
+  "fr": "Prime : Capitaine Kepler-2"
+ },
+ {
+  "en": "Bounty: Kepler Security Captain 3",
+  "fr": "Prime : Capitaine Kepler-3"
+ },
+ {
+  "en": "Bounty: Kepler Security Captain 4",
+  "fr": "Prime : Capitaine Kepler-4"
+ },
+ {
+  "en": "Bounty: Kepler Security Captain 5",
+  "fr": "Prime : Capitaine Kepler-5"
+ },
+ {
+  "en": "Bounty: Kepler Security Captain 6",
+  "fr": "Prime : Capitaine Kepler-6"
+ },
+ {
+  "en": "Bounty: Kepler Researcher 1",
+  "fr": "Prime : Chercheur Kepler-1"
+ },
+ {
+  "en": "Bounty: Kepler Researcher 2",
+  "fr": "Prime : Chercheur Kepler-2"
+ },
+ {
+  "en": "Bounty: Kepler Researcher 3",
+  "fr": "Prime : Chercheur Kepler-3"
+ },
+ {
+  "en": "Bounty: Kepler Researcher 4",
+  "fr": "Prime : Chercheur Kepler-4"
+ },
+ {
+  "en": "Bounty: Kepler Researcher 5",
+  "fr": "Prime : Chercheur Kepler-5"
+ },
+ {
+  "en": "Bounty: Chelae Infantry 1",
+  "fr": "Prime : Fantassin Chelae-1"
+ },
+ {
+  "en": "Bounty: Chelae Infantry 2",
+  "fr": "Prime : Fantassin Chelae-2"
+ },
+ {
+  "en": "Bounty: Chelae Infantry 3",
+  "fr": "Prime : Fantassin Chelae-3"
+ },
+ {
+  "en": "Bounty: Chelae Infantry 4",
+  "fr": "Prime : Fantassin Chelae-4"
+ },
+ {
+  "en": "Bounty: Chelae Infantry 5",
+  "fr": "Prime : Fantassin Chelae-5"
+ },
+ {
+  "en": "Bounty: Chelae Infantry 6",
+  "fr": "Prime : Fantassin Chelae-6"
+ },
+ {
+  "en": "Bounty: Chelae Marksman 1",
+  "fr": "Prime : Tireur d’élite Chelae-1"
+ },
+ {
+  "en": "Bounty: Chelae Marksman 2",
+  "fr": "Prime : Tireur d’élite Chelae-2"
+ },
+ {
+  "en": "Bounty: Chelae Marksman 3",
+  "fr": "Prime : Tireur d’élite Chelae-3"
+ },
+ {
+  "en": "Bounty: Chelae Marksman 4",
+  "fr": "Prime : Tireur d’élite Chelae-4"
+ },
+ {
+  "en": "Bounty: Chelae Marksman 5",
+  "fr": "Prime : Tireur d’élite Chelae-5"
+ },
+ {
+  "en": "Bounty: Chelae Marksman 6",
+  "fr": "Prime : Tireur d’élite Chelae-6"
+ },
+ {
+  "en": "Bounty: Chelae Tank 1",
+  "fr": "Prime : Bouclier Chelae-1"
+ },
+ {
+  "en": "Bounty: Chelae Tank 2",
+  "fr": "Prime : Bouclier Chelae-2"
+ },
+ {
+  "en": "Bounty: Chelae Tank 3",
+  "fr": "Prime : Bouclier Chelae-3"
+ },
+ {
+  "en": "Bounty: Chelae Tank 4",
+  "fr": "Prime : Bouclier Chelae-4"
+ },
+ {
+  "en": "Bounty: Chelae Tank 5",
+  "fr": "Prime : Bouclier Chelae-5"
+ },
+ {
+  "en": "Bounty: Chelae Tank 6",
+  "fr": "Prime : Bouclier Chelae-6"
+ },
+ {
+  "en": "Bounty: Chelae Broodmother 1",
+  "fr": "Prime : Mère couvée Chelae-1"
+ },
+ {
+  "en": "Bounty: Chelae Broodmother 2",
+  "fr": "Prime : Mère couvée Chelae-2"
+ },
+ {
+  "en": "Bounty: Chelae Broodmother 3",
+  "fr": "Prime : Mère couvée Chelae-3"
+ },
+ {
+  "en": "Bounty: Chelae Broodmother 4",
+  "fr": "Prime : Mère couvée Chelae-4"
+ },
+ {
+  "en": "Bounty: Chelae Broodmother 5",
+  "fr": "Prime : Mère couvée Chelae-5"
+ },
+ {
+  "en": "Bounty: Chelae Broodmother 6",
+  "fr": "Prime : Mère couvée Chelae-6"
+ },
+ {
+  "en": "Bounty: Mad Dragon Captain 1",
+  "fr": "Prime : Capitaine du Dragon Fou-1"
+ },
+ {
+  "en": "Bounty: Mad Dragon Captain 2",
+  "fr": "Prime : Capitaine du Dragon Fou-2"
+ },
+ {
+  "en": "Bounty: Mad Dragon Captain 3",
+  "fr": "Prime : Capitaine du Dragon Fou-3"
+ },
+ {
+  "en": "Bounty: Mad Dragon Captain 4",
+  "fr": "Prime : Capitaine du Dragon Fou-4"
+ },
+ {
+  "en": "Bounty: Mad Dragon Captain 5",
+  "fr": "Prime : Capitaine du Dragon Fou-5"
+ },
+ {
+  "en": "Bounty: Mad Dragon Captain 6",
+  "fr": "Prime : Capitaine du Dragon Fou-6"
+ },
+ {
+  "en": "Bounty: Mad Dragon Training Dummy 1",
+  "fr": "Prime : Mannequin du Dragon Fou-1"
+ },
+ {
+  "en": "Bounty: Mad Dragon Training Dummy 2",
+  "fr": "Prime : Mannequin du Dragon Fou-2"
+ },
+ {
+  "en": "Bounty: Mad Dragon Training Dummy 3",
+  "fr": "Prime : Mannequin du Dragon Fou-3"
+ },
+ {
+  "en": "Bounty: Mad Dragon Training Dummy 4",
+  "fr": "Prime : Mannequin du Dragon Fou-4"
+ },
+ {
+  "en": "Bounty: Mad Dragon Training Dummy 5",
+  "fr": "Prime : Mannequin du Dragon Fou-5"
+ },
+ {
+  "en": "Bounty: Mad Dragon Martial Artist 1",
+  "fr": "Prime : Guerrier du Dragon Fou-1"
+ },
+ {
+  "en": "Bounty: Mad Dragon Martial Artist 2",
+  "fr": "Prime : Guerrier du Dragon Fou-2"
+ },
+ {
+  "en": "Bounty: Mad Dragon Martial Artist 3",
+  "fr": "Prime : Guerrier du Dragon Fou-3"
+ },
+ {
+  "en": "Bounty: Mad Dragon Martial Artist 4",
+  "fr": "Prime : Guerrier du Dragon Fou-4"
+ },
+ {
+  "en": "Bounty: Mad Dragon Martial Artist 5",
+  "fr": "Prime : Guerrier du Dragon Fou-5"
+ },
+ {
+  "en": "Bounty: Mad Dragon Martial Artist 6",
+  "fr": "Prime : Guerrier du Dragon Fou-6"
+ },
+ {
+  "en": "Bounty: Mad Dragon Knife Thrower 1",
+  "fr": "Prime : Lanceur de couteaux-1"
+ },
+ {
+  "en": "Bounty: Mad Dragon Knife Thrower 2",
+  "fr": "Prime : Lanceur de couteaux-2"
+ },
+ {
+  "en": "Bounty: Mad Dragon Knife Thrower 3",
+  "fr": "Prime : Lanceur de couteaux-3"
+ },
+ {
+  "en": "Bounty: Mad Dragon Knife Thrower 4",
+  "fr": "Prime : Lanceur de couteaux-4"
+ },
+ {
+  "en": "Bounty: Mad Dragon Knife Thrower 5",
+  "fr": "Prime : Lanceur de couteaux-5"
+ },
+ {
+  "en": "Bounty: Mad Dragon Knife Thrower 6",
+  "fr": "Prime : Lanceur de couteaux-6"
+ },
+ {
+  "en": "Bounty: Scavenger Marauder 1",
+  "fr": "Prime : Charognard maraudeur-1"
+ },
+ {
+  "en": "Bounty: Scavenger Marauder 2",
+  "fr": "Prime : Charognard maraudeur-2"
+ },
+ {
+  "en": "Bounty: Scavenger Marauder 3",
+  "fr": "Prime : Charognard maraudeur-3"
+ },
+ {
+  "en": "Bounty: Scavenger Marauder 4",
+  "fr": "Prime : Charognard maraudeur-4"
+ },
+ {
+  "en": "Bounty: Scavenger Marauder 5",
+  "fr": "Prime : Charognard maraudeur-5"
+ },
+ {
+  "en": "Bounty: Scavenger Marauder 6",
+  "fr": "Prime : Charognard maraudeur-6"
+ },
+ {
+  "en": "Bounty: Scavenger Butcher 1",
+  "fr": "Prime : Charognard cogneur-1"
+ },
+ {
+  "en": "Bounty: Scavenger Butcher 2",
+  "fr": "Prime : Charognard cogneur-2"
+ },
+ {
+  "en": "Bounty: Scavenger Butcher 3",
+  "fr": "Prime : Charognard cogneur-3"
+ },
+ {
+  "en": "Bounty: Scavenger Butcher 4",
+  "fr": "Prime : Charognard cogneur-4"
+ },
+ {
+  "en": "Bounty: Scavenger Butcher 5",
+  "fr": "Prime : Charognard cogneur - 5"
+ },
+ {
+  "en": "Bounty: Scavenger Butcher 5",
+  "fr": "Prime : Charognard cogneur-5"
+ },
+ {
+  "en": "Bounty: Scavenger Butcher 6",
+  "fr": "Prime : Charognard cogneur-6"
+ },
+ {
+  "en": "Bounty: Scavenger Brawler 1",
+  "fr": "Prime : Charognard à bouclier-1"
+ },
+ {
+  "en": "Bounty: Scavenger Brawler 2",
+  "fr": "Prime : Charognard à bouclier-2"
+ },
+ {
+  "en": "Bounty: Scavenger Brawler 3",
+  "fr": "Prime : Charognard à bouclier-3"
+ },
+ {
+  "en": "Bounty: Scavenger Brawler 4",
+  "fr": "Prime : Charognard à bouclier-4"
+ },
+ {
+  "en": "Bounty: Scavenger Brawler 5",
+  "fr": "Prime : Charognard à bouclier-5"
+ },
+ {
+  "en": "Bounty: Killer Crab 1",
+  "fr": "Prime : Crabe féroce-1"
+ },
+ {
+  "en": "Bounty: Killer Crab 2",
+  "fr": "Prime : Crabe féroce-2"
+ },
+ {
+  "en": "Bounty: Killer Crab 3",
+  "fr": "Prime : Crabe féroce-3"
+ },
+ {
+  "en": "Bounty: Killer Crab 4",
+  "fr": "Prime : Crabe féroce-4"
+ },
+ {
+  "en": "Bounty: Killer Crab 5",
+  "fr": "Prime : Crabe féroce-5"
+ },
+ {
+  "en": "Bounty: Sweeper 1",
+  "fr": "Prime : Nettoyeur-1"
+ },
+ {
+  "en": "Bounty: Sweeper 2",
+  "fr": "Prime : Nettoyeur-2"
+ },
+ {
+  "en": "Bounty: Sweeper 3",
+  "fr": "Prime : Nettoyeur-3"
+ },
+ {
+  "en": "Bounty: Sweeper 4",
+  "fr": "Prime : Nettoyeur-4"
+ },
+ {
+  "en": "Bounty: Sweeper 5",
+  "fr": "Prime : Nettoyeur-5"
+ },
+ {
+  "en": "Bounty: Sweeper 6",
+  "fr": "Prime : Nettoyeur-6"
+ },
+ {
+  "en": "Bounty: Scavenger Blaster 1",
+  "fr": "Prime : Charognard artilleur-1"
+ },
+ {
+  "en": "Bounty: Scavenger Blaster 2",
+  "fr": "Prime : Charognard artilleur-2"
+ },
+ {
+  "en": "Bounty: Scavenger Blaster 3",
+  "fr": "Prime : Charognard artilleur-3"
+ },
+ {
+  "en": "Bounty: Scavenger Blaster 4",
+  "fr": "Prime : Charognard artilleur-4"
+ },
+ {
+  "en": "Bounty: Scavenger Blaster 5",
+  "fr": "Prime : Charognard artilleur-5"
+ },
+ {
+  "en": "Bounty: Scavenger Blaster 6",
+  "fr": "Prime : Charognard artilleur-6"
+ },
+ {
+  "en": "Bounty: Thermal Leaker 1",
+  "fr": "Prime : Fuiteur thermique-1"
+ },
+ {
+  "en": "Bounty: Thermal Leaker 2",
+  "fr": "Prime : Fuiteur thermique-2"
+ },
+ {
+  "en": "Bounty: Thermal Leaker 3",
+  "fr": "Prime : Fuiteur thermique-3"
+ },
+ {
+  "en": "Bounty: Thermal Leaker 4",
+  "fr": "Prime : Fuiteur thermique-4"
+ },
+ {
+  "en": "Bounty: Thermal Leaker 5",
+  "fr": "Prime : Fuiteur thermique-5"
+ },
+ {
+  "en": "Bounty: Thermal Leaker 6",
+  "fr": "Prime : Fuiteur thermique-6"
+ },
+ {
+  "en": "Bounty: Cacharo Enforcer 1",
+  "fr": "Prime : Exécuteur requin blanc-1"
+ },
+ {
+  "en": "Bounty: Cacharo Enforcer 2",
+  "fr": "Prime : Exécuteur requin blanc-2"
+ },
+ {
+  "en": "Bounty: Cacharo Enforcer 3",
+  "fr": "Prime : Exécuteur requin blanc-3"
+ },
+ {
+  "en": "Bounty: Cacharo Enforcer 4",
+  "fr": "Prime : Exécuteur requin blanc-4"
+ },
+ {
+  "en": "Bounty: Cacharo Enforcer 5",
+  "fr": "Prime : Exécuteur requin blanc-5"
+ },
+ {
+  "en": "Bounty: Cacharo Enforcer 6",
+  "fr": "Prime : Exécuteur requin blanc-6"
+ },
+ {
+  "en": "Bounty: Bomber 1",
+  "fr": "Prime : Bombardier-1"
+ },
+ {
+  "en": "Bounty: Bomber 2",
+  "fr": "Prime : Bombardier-2"
+ },
+ {
+  "en": "Bounty: Bomber 3",
+  "fr": "Prime : Bombardier-3"
+ },
+ {
+  "en": "Bounty: Bomber 4",
+  "fr": "Prime : Bombardier-4"
+ },
+ {
+  "en": "Bounty: Bomber 5",
+  "fr": "Prime : Bombardier-5"
+ },
+ {
+  "en": "Bounty: Bomber 6",
+  "fr": "Prime : Bombardier-6"
+ },
+ {
+  "en": "Bounty: Siren 1",
+  "fr": "Prime : Sirène-1"
+ },
+ {
+  "en": "Bounty: Siren 2",
+  "fr": "Prime: Sirène-2"
+ },
+ {
+  "en": "Bounty: Siren 3",
+  "fr": "Prime : Sirène-3"
+ },
+ {
+  "en": "Bounty: Siren 4",
+  "fr": "Prime : Sirène-4"
+ },
+ {
+  "en": "Bounty: Siren 5",
+  "fr": "Prime : Sirène-5"
+ },
+ {
+  "en": "Bounty: Siren 6",
+  "fr": "Prime : Sirène-6"
+ },
+ {
+  "en": "Bounty: Swift Leopard King 1",
+  "fr": "Prime : Roi Léopard rapide-1"
+ },
+ {
+  "en": "Bounty: Swift Leopard King 2",
+  "fr": "Prime : Roi Léopard rapide-2"
+ },
+ {
+  "en": "Bounty: Swift Leopard King 2",
+  "fr": "Prime : Roi des Léopard rapides-2"
+ },
+ {
+  "en": "Bounty: Swift Leopard King 3",
+  "fr": "Prime : Roi Léopard rapide-3"
+ },
+ {
+  "en": "Bounty: Swift Leopard King 4",
+  "fr": "Prime : Roi Léopard rapide-4"
+ },
+ {
+  "en": "Bounty: Swift Leopard King 5",
+  "fr": "Prime : Roi Léopard rapide-5"
+ },
+ {
+  "en": "Bounty: Anvil 1",
+  "fr": "Prime : Enclume-1"
+ },
+ {
+  "en": "Bounty: Anvil 2",
+  "fr": "Prime : Enclume-2"
+ },
+ {
+  "en": "Bounty: Anvil 3",
+  "fr": "Prime : Enclume-3"
+ },
+ {
+  "en": "Bounty: Anvil 4",
+  "fr": "Prime : Enclume-4"
+ },
+ {
+  "en": "Bounty: Anvil 5",
+  "fr": "Prime : Enclume-5"
+ },
+ {
+  "en": "Bounty: Anvil 6",
+  "fr": "Prime : Enclume-6"
+ },
+ {
+  "en": "Bounty: Rusted Rat 1",
+  "fr": "Prime : Rat rouillé-1"
+ },
+ {
+  "en": "Bounty: Rusted Rat 2",
+  "fr": "Prime : Rat rouillé-2"
+ },
+ {
+  "en": "Bounty: Rusted Rat 3",
+  "fr": "Prime : Rat rouillé-3"
+ },
+ {
+  "en": "Bounty: Rusted Rat 4",
+  "fr": "Prime : Rat rouillé-4"
+ },
+ {
+  "en": "Bounty: Rusted Rat 5",
+  "fr": "Prime : Rat rouillé-5"
+ },
+ {
+  "en": "Bounty: Rusted Rat 6",
+  "fr": "Prime : Rat rouillé-6"
+ },
+ {
+  "en": "Bounty: Snowblind Stalker 1",
+  "fr": "Prime : Traqueur des neiges-1"
+ },
+ {
+  "en": "Bounty: Snowblind Stalker 2",
+  "fr": "Prime : Traqueur des neiges-2"
+ },
+ {
+  "en": "Bounty: Snowblind Stalker 3",
+  "fr": "Prime : Traqueur des neiges-3"
+ },
+ {
+  "en": "Bounty: Snowblind Stalker 4",
+  "fr": "Prime : Traqueur des neiges-4"
+ },
+ {
+  "en": "Bounty: Snowblind Stalker 5",
+  "fr": "Prime : Traqueur des neiges-5"
+ },
+ {
+  "en": "Bounty: Snowblind Stalker 6",
+  "fr": "Prime : Traqueur des neiges-6"
+ },
+ {
+  "en": "Bounty: Skeletal Bear King 1",
+  "fr": "Prime : Roi ours zombie-1"
+ },
+ {
+  "en": "Bounty: Skeletal Bear King 2",
+  "fr": "Prime : Roi ours zombie-2"
+ },
+ {
+  "en": "Bounty: Skeletal Bear King 3",
+  "fr": "Prime : Roi ours zombie-3"
+ },
+ {
+  "en": "Bounty: Skeletal Bear King 4",
+  "fr": "Prime : Roi ours zombie-4"
+ },
+ {
+  "en": "Bounty: Skeletal Bear King 5",
+  "fr": "Prime : Roi ours zombie-5"
+ },
+ {
+  "en": "Bounty: Skeletal Bear King 6",
+  "fr": "Prime : Roi ours zombie-6"
+ },
+ {
+  "en": "Bounty: Mariana Scout 1",
+  "fr": "Prime : Éclaireur de Mariana-1"
+ },
+ {
+  "en": "Bounty: Mariana Scout 2",
+  "fr": "Prime : Éclaireur de Mariana-2"
+ },
+ {
+  "en": "Bounty: Mariana Scout 3",
+  "fr": "Prime : Éclaireur de Mariana-3"
+ },
+ {
+  "en": "Bounty: Mariana Scout 4",
+  "fr": "Prime : Éclaireur de Mariana-4"
+ },
+ {
+  "en": "Bounty: Mariana Scout 5",
+  "fr": "Prime : Éclaireur de Mariana-5"
+ },
+ {
+  "en": "Bounty: Mariana Scout 6",
+  "fr": "Prime : Éclaireur de Mariana-6"
+ },
+ {
+  "en": "Bounty: Mariana Gunslinger 1",
+  "fr": "Prime : Tireur de Mariana-1"
+ },
+ {
+  "en": "Bounty: Mariana Gunslinger 2",
+  "fr": "Prime : Tireur de Mariana-2"
+ },
+ {
+  "en": "Bounty: Mariana Gunslinger 3",
+  "fr": "Prime : Tireur de Mariana-3"
+ },
+ {
+  "en": "Bounty: Mariana Gunslinger 4",
+  "fr": "Prime : Tireur de Mariana-4"
+ },
+ {
+  "en": "Bounty: Mariana Gunslinger 5",
+  "fr": "Prime : Tireur de Mariana-5"
+ },
+ {
+  "en": "Bounty: Mariana Gunslinger 6",
+  "fr": "Prime : Tireur de Mariana-6"
+ },
+ {
+  "en": "Bounty: Mariana Guard 1",
+  "fr": "Prime : Garde de Mariana-1"
+ },
+ {
+  "en": "Bounty: Mariana Guard 2",
+  "fr": "Prime : Garde de Mariana-2"
+ },
+ {
+  "en": "Bounty: Mariana Guard 3",
+  "fr": "Prime : Garde de Mariana-3"
+ },
+ {
+  "en": "Bounty: Mariana Guard 4",
+  "fr": "Prime : Garde de Mariana-4"
+ },
+ {
+  "en": "Bounty: Mariana Guard 5",
+  "fr": "Prime : Garde de Mariana-5"
+ },
+ {
+  "en": "Bounty: Mariana Guard 6",
+  "fr": "Prime : Garde de Mariana-6"
+ },
+ {
+  "en": "Intelligence Relay",
+  "fr": "Relais d'informations"
+ },
+ {
+  "en": "Successfully extract from {1} Map {2} time(s).",
+  "fr": "Évacuez avec succès {2} fois de la carte {1}."
+ },
+ {
+  "en": "Extraction from {1} successful.",
+  "fr": "Évacuation réussie de {1}."
+ },
+ {
+  "en": "Extraction Successful from The Fringe Sector",
+  "fr": "Évacuation réussie du Secteur périphérique"
+ },
+ {
+  "en": "Search 3 containers in The Fringe Sector.",
+  "fr": "Évacuation réussie du Secteur périphérique"
+ },
+ {
+  "en": "Deliver 1 Gold Material to Harvester Mogrim",
+  "fr": ""
+ },
+ {
+  "en": "Extract 1 time",
+  "fr": ""
+ },
+ {
+  "en": "Extraction Successful 3 times",
+  "fr": "3 évacuations réussies"
+ },
+ {
+  "en": "War Drums",
+  "fr": "Rythme de guerre"
+ },
+ {
+  "en": "Seaside Port: Special Combat Training",
+  "fr": "Entraînement spécial de combat - Port côtier"
+ },
+ {
+  "en": "Training Room reaches Lv.5",
+  "fr": "Salle tactique atteint le Niveau 5"
+ },
+ {
+  "en": "Survivalist",
+  "fr": "Triompher de la Verdure"
+ },
+ {
+  "en": "Pizza Ingredients",
+  "fr": "Ingrédients de la pizza"
+ },
+ {
+  "en": "Please, Nitro!",
+  "fr": "S'il te plaît, NITRO !"
+ },
+ {
+  "en": "Finding Clues",
+  "fr": "Rassembler les indices"
+ },
+ {
+  "en": "Pick up Quest Item: {1}.",
+  "fr": "Ramassez l'objet de Mission : {1}."
+ },
+ {
+  "en": "Pick up the Quest Item: {1}.",
+  "fr": "Ramassez l'objet de Mission : {1}."
+ },
+ {
+  "en": "Scavenger Scourge",
+  "fr": "Ennemi de Scavenger Imp"
+ },
+ {
+  "en": "Scavenger Scourge",
+  "fr": "Ennemi du Scavenger"
+ },
+ {
+  "en": "Hidden Clue",
+  "fr": "Ligne de contact furtive"
+ },
+ {
+  "en": "Hidden Clue",
+  "fr": "Contact d'infiltration"
+ },
+ {
+  "en": "Submit {1}*{2}.",
+  "fr": "Soumettre {2} {1}."
+ },
+ {
+  "en": "Submit {1}*{2}.",
+  "fr": "Soumettez {2} {1}."
+ },
+ {
+  "en": "Loot containers 30 times",
+  "fr": "Fouiller des conteneurs 30 fois"
+ },
+ {
+  "en": "Seaside Port Search",
+  "fr": "Piller Akhet"
+ },
+ {
+  "en": "Carry {2}*{3} into {1}.",
+  "fr": "Entrez dans {1} avec {3} {2}."
+ },
+ {
+  "en": "Carry the Quest Item: {1}, and safely extract from the Map.",
+  "fr": "Portez l'objet de Mission : {1}, évacuez la Carte en toute sécurité."
+ },
+ {
+  "en": "Carry the Quest Item: {1}, and safely extract from the Map.",
+  "fr": "Porter l'objet de Mission : {1}, évacuer la Carte en toute sécurité."
+ },
+ {
+  "en": "Carry Quest Item: {1}, and safely extract from the Map.",
+  "fr": "Porter l'objet de Mission : {1}, évacuer la Carte en toute sécurité."
+ },
+ {
+  "en": "Carry the Quest Item: {1} and safely extract from the Map.",
+  "fr": "Évacuer la Carte en toute sécurité avec l'objet de Mission : {1}."
+ },
+ {
+  "en": "Carry the Quest Item: {1}, and safely extract from the Map.",
+  "fr": "Évacuer la Carte en toute sécurité avec l'objet de Mission : {1}."
+ },
+ {
+  "en": "Carry the Quest Item: {1} and safely extract from the Map.",
+  "fr": "Portez l'objet de Mission : {1}, et évacuez la Carte en toute sécurité."
+ },
+ {
+  "en": "Enter {1} with a vehicle {2} time(s).",
+  "fr": "Entrez dans {1} avec un véhicule {2} fois."
+ },
+ {
+  "en": "Carry any {2} items with Rarity of {1} or above when extracting.",
+  "fr": "Extraire avec n'importe quels {2} objets de RARETÉ {1} ou plus."
+ },
+ {
+  "en": "Enter Golden Dunes once.",
+  "fr": ""
+ },
+ {
+  "en": "Climbing Practice 1",
+  "fr": "Grimper Retest-1"
+ },
+ {
+  "en": "Climbing Practice 2",
+  "fr": "Pratique du grimper-2"
+ },
+ {
+  "en": "Climbing Practice 2",
+  "fr": "Pratique de grimpe-2"
+ },
+ {
+  "en": "Climbing Practice 3",
+  "fr": "Pratique des compétences de grimpe-3"
+ },
+ {
+  "en": "Climbing Practice 3",
+  "fr": "Pratique des compétences de grimper-3"
+ },
+ {
+  "en": "A big order delivered to your door",
+  "fr": "Quête secondaire 1-1-1"
+ },
+ {
+  "en": "Big Order Delivery: Complete high-value orders in The Fringe Sector.",
+  "fr": "Quête secondaire 1-1-1 : Terminez des commandes d'une valeur ≥ 100 dix mille dans le Secteur périphérique et évacuez avec succès."
+ },
+ {
+  "en": "Double Pair Single Card",
+  "fr": "Quête secondaire 1-1-2"
+ },
+ {
+  "en": "Double-Link Single: Complete orders cumulatively in The Fringe Sector.",
+  "fr": "Quête secondaire 1-1-2 : Terminez 2 commandes dans le Secteur périphérique et évacuez avec succès."
+ },
+ {
+  "en": "Loot and go.",
+  "fr": "Quête secondaire 1-1-3"
+ },
+ {
+  "en": "Loot and leave: Evacuate after searching the container.",
+  "fr": "Quête secondaire 1-1-3 : Fouillez 5 conteneurs dans le Secteur périphérique et évacuez avec succès."
+ },
+ {
+  "en": "Ironman Triathlon",
+  "fr": "Quête secondaire 1-2-1"
+ },
+ {
+  "en": "Iron Triathlon: Complete Combat and Search, and finish the Order Challenge in The Fringe Sector.",
+  "fr": "Quête secondaire 1-2-1 : Terminez 1 commande d'un poids ≥ 50 kg et évacuez avec succès."
+ },
+ {
+  "en": "Unpackaged Delivery",
+  "fr": "Quête secondaire 1-3-1"
+ },
+ {
+  "en": "Unarmed Delivery: Enter The Fringe Sector empty-handed and then extract.",
+  "fr": "Quête secondaire 1-3-1 : Équipez l'ensemble de prisonnier (plastron, pantalon, chaussures), entrez dans le Secteur périphérique et évacuez avec succès."
+ },
+ {
+  "en": "Unarmed Melee Kill",
+  "fr": "Quête secondaire 1-4-1"
+ },
+ {
+  "en": "Unarmed Melee: Use Melee Weapons to Kill monsters.",
+  "fr": "Quête secondaire 1-4-1 : Éliminez 2 monstres en utilisant uniquement des armes de mêlée et évacuez avec succès."
+ },
+ {
+  "en": "One shot to the end",
+  "fr": "Quête secondaire 1-5-1"
+ },
+ {
+  "en": "One Shot to the End: Kill an enemy player using the Rusty Revolver and extract.",
+  "fr": "Quête secondaire 1-5-1 : Vaincre 1 joueur avec l'arme spécifiée (Discipline) et s'extraire avec succès."
+ },
+ {
+  "en": "Desert Relic Triple kill",
+  "fr": "Quête secondaire 2-1-1"
+ },
+ {
+  "en": "Desert Triple Kill: Complete 3 orders in total in Golden Dunes.",
+  "fr": "Quête secondaire 2-1-1 : Effectuez 2 commandes en une seule fois avec un véhicule à Port côtier et évacuez avec succès."
+ },
+ {
+  "en": "Crossing the No-Man's Land",
+  "fr": "Quête secondaire 2-1-2"
+ },
+ {
+  "en": "Wasteland Crossing: Complete 4 orders in total in Golden Dunes.",
+  "fr": "Quête secondaire 2-1-2 : Effectuez 3 livraisons en une seule fois avec un véhicule à Port côtier et évacuez avec succès."
+ },
+ {
+  "en": "Heavy Load Duel",
+  "fr": "Quête secondaire 2-2-1"
+ },
+ {
+  "en": "Overloaded Duel: In Seaside Port, cumulatively complete 1 order with a weight of no less than 50 KG, and cumulatively get 1 Melee Kills on an Elite monster; the two conditions can be completed separately.",
+  "fr": "Quête secondaire 2-2-1 : Terminez une commande de poids ≥ 50 kg à Port côtier et effectuez une Élimination sur un joueur."
+ },
+ {
+  "en": "Earn and get bonuses",
+  "fr": "Quête secondaire 2-3-1"
+ },
+ {
+  "en": "Profit and Bonus: In Seaside Port, complete 1 order in total, obtain 1 Rare or higher item, and achieve Extraction Successful 1 time; the conditions can be completed separately, not necessarily in the same match, and you are not required to be carrying a Rare item when extracting.",
+  "fr": "Quête secondaire 2-3-1 : Terminez 1 commande d'une valeur > 400w au Port côtier et rapportez 3 objets de qualité epicB ou supérieure."
+ },
+ {
+  "en": "One slash, one kill",
+  "fr": "Quête secondaire 2-4-1"
+ },
+ {
+  "en": "One Slash, One Kill: Get 1 Elite kill with melee attacks.",
+  "fr": "Quête secondaire 2-4-1 : Au Port côtier, effectuez 2 ÉLIMINATIONS au corps à corps sur des monstres d'Élite uniquement, et terminez une commande d'un poids > 50 kg."
+ },
+ {
+  "en": "Weapon-Switching Build",
+  "fr": "Quête secondaire 2-5-1"
+ },
+ {
+  "en": "Weapon Swap Build: Use three different weapon types to Kill 1 enemy player with each.",
+  "fr": "Quête secondaire 2-5-1 : À Port côtier, terminez au cours d'une même partie 1 commande d'un poids ≥ 30 kg et 1 commande d'un poids ≥ 50 kg."
+ },
+ {
+  "en": "The Dignity of the Pistol",
+  "fr": "Quête secondaire 2-5-2"
+ },
+ {
+  "en": "Pistol Dignity: Kill 3 enemy players using the Rusty Revolver and achieve Extraction Successful once each; the two conditions are not guaranteed to be completed in the same match.",
+  "fr": "Quête secondaire 2-5-2 : Terminez une commande d'un poids ≥ 100 kg respectivement dans le Port côtier et le Secteur périphérique, et réussissez l'évacuation en cours de route."
+ },
+ {
+  "en": "What is it with this order?",
+  "fr": ""
+ },
+ {
+  "en": "Complete 1 overweight Order in Golden Dunes (Order weight >= 150 KG).",
+  "fr": ""
+ },
+ {
+  "en": "Unload and leave immediately.",
+  "fr": ""
+ },
+ {
+  "en": "HARVEST List",
+  "fr": ""
+ },
+ {
+  "en": "Extract 5 Rare or higher-quality items from Golden Dunes and achieve Extraction Successful.",
+  "fr": ""
+ },
+ {
+  "en": "CLOSE-QUARTER ESCORT",
+  "fr": ""
+ },
+ {
+  "en": "Kill monsters in melee and complete 1 order in Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "Point-Blank Shotgun",
+  "fr": ""
+ },
+ {
+  "en": "Kill 3 enemy players with Meat Maker within 10 meters.",
+  "fr": ""
+ },
+ {
+  "en": "Subdue the enemy without fighting.",
+  "fr": ""
+ },
+ {
+  "en": "Complete 2 orders in Golden Dunes and extract from Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "Pay to clear the way",
+  "fr": ""
+ },
+ {
+  "en": "Spend 3000000HL Gold and evacuate from Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "Eco Gathering",
+  "fr": ""
+ },
+ {
+  "en": "Search 5 containers in Golden Dunes, and complete 1 order in Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "Collector - Reserves",
+  "fr": ""
+ },
+ {
+  "en": "Deliver 10 Gold Material to the designated NPC.",
+  "fr": ""
+ },
+ {
+  "en": "Collector: Fortune",
+  "fr": ""
+ },
+ {
+  "en": "Collector: Parts",
+  "fr": ""
+ },
+ {
+  "en": "Deliver 1 Gold Material to each of the 8 designated NPCs.",
+  "fr": ""
+ },
+ {
+  "en": "Collector's Edition",
+  "fr": ""
+ },
+ {
+  "en": "Deliver 3 Gold Material to the designated NPC.",
+  "fr": ""
+ },
+ {
+  "en": "Collector - Storage",
+  "fr": ""
+ },
+ {
+  "en": "Deliver 100 Gold Material to the designated NPC.",
+  "fr": ""
+ },
+ {
+  "en": "Final Relay Race",
+  "fr": ""
+ },
+ {
+  "en": "Complete 2 orders in Golden Dunes, Kill 1 Elite monster, and extract once.",
+  "fr": ""
+ },
+ {
+  "en": "Empty-Handed Delivery",
+  "fr": ""
+ },
+ {
+  "en": "Enter any Map empty-handed, and complete 1 order in Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "Clearance Deliver",
+  "fr": ""
+ },
+ {
+  "en": "After submitting 5 items from each of the 5 categories to Serket, extract.",
+  "fr": ""
+ },
+ {
+  "en": "Strong enemy under the blade",
+  "fr": ""
+ },
+ {
+  "en": "Boxing Ring",
+  "fr": ""
+ },
+ {
+  "en": "Kill 5 enemy players with melee attacks and extract once.",
+  "fr": ""
+ },
+ {
+  "en": "Finish the Job",
+  "fr": "Refermer le filet"
+ },
+ {
+  "en": "Harvest thanks from {2} players.",
+  "fr": "Obtenez le Merci de {2} joueurs."
+ },
+ {
+  "en": "Collector: Parts",
+  "fr": "Le Collectionneur · Pièces"
+ },
+ {
+  "en": "Revive teammates {1} times.",
+  "fr": "REVIVRE {1} COÉQUIPIERS."
+ },
+ {
+  "en": "Heal the Wounded",
+  "fr": "Secourisme"
+ },
+ {
+  "en": "Raring to Go",
+  "fr": "PRÊT À COMMENCER"
+ },
+ {
+  "en": "Back in Action",
+  "fr": "RETOUR AU MATCH"
+ },
+ {
+  "en": "Silent Accusations",
+  "fr": "Accusation silencieuse"
+ },
+ {
+  "en": "Old Traces",
+  "fr": "Suivi de l'ancienne station"
+ },
+ {
+  "en": "Upgrade the Fabrication Station to Lv.3",
+  "fr": "Améliorer l'établi de fabrication au Niveau 3"
+ },
+ {
+  "en": "Grocery Store level reached level 5",
+  "fr": "Élevez l'Épicerie au niveau 5."
+ },
+ {
+  "en": "Order from {1}",
+  "fr": "Provenant de la commande {1}"
+ },
+ {
+  "en": "From {1} order description",
+  "fr": "Description de la commande de {1}"
+ },
+ {
+  "en": "Hub Level reached Lv. 10.",
+  "fr": "Atteignez le niveau 10 du Hub."
+ },
+ {
+  "en": "Hub Level reached level 20.",
+  "fr": "Atteignez le niveau 20 du Hub."
+ },
+ {
+  "en": "Hub Level reached Lv. 30.",
+  "fr": "Atteignez le niveau 30 du Hub."
+ },
+ {
+  "en": "Hub Level reached level 40.",
+  "fr": "Atteignez le niveau 40 du Hub."
+ },
+ {
+  "en": "The Core",
+  "fr": "ZONE DU CENTRE"
+ },
+ {
+  "en": "The Core",
+  "fr": "ZONE CENTRALE"
+ },
+ {
+  "en": "Upgrade the Weapon Crafting Station to Lv.5",
+  "fr": "Établi d’armes au Niveau 5"
+ },
+ {
+  "en": "Arm Yourself",
+  "fr": "Armez-vous !"
+ },
+ {
+  "en": "Cradle of Destruction",
+  "fr": "Berceau de la destruction"
+ },
+ {
+  "en": "Daily Rewards",
+  "fr": "Récompenses quotidiennes"
+ },
+ {
+  "en": "The Truth Comes to Light",
+  "fr": "La vérité éclate au grand jour comme l'Eau qui se retire pour laisser apparaître les rochers."
+ },
+ {
+  "en": "Fill the Tank",
+  "fr": "Le réservoir de Pétrole est plein"
+ },
+ {
+  "en": "Coastal Survey",
+  "fr": "Exploration côtière"
+ },
+ {
+  "en": "Seaside Port Supplies",
+  "fr": "Fournitures d'Akhet"
+ },
+ {
+  "en": "Seaside Port Samples",
+  "fr": "Échantillonnage Akhet"
+ },
+ {
+  "en": "Seaside Port Samples",
+  "fr": "Échantillonnage d'Akhet"
+ },
+ {
+  "en": "The Two Seaside Factions",
+  "fr": "Duo de la Mer"
+ },
+ {
+  "en": "The Two Seaside Factions",
+  "fr": "Duo de la Plage"
+ },
+ {
+  "en": "Best in Business",
+  "fr": "Consumérisme"
+ },
+ {
+  "en": "Local Express Delivery 2",
+  "fr": "Difficile de satisfaire tous les goûts."
+ },
+ {
+  "en": "Clearance Sale",
+  "fr": "Vente de liquidation"
+ },
+ {
+  "en": "Clearance Sale",
+  "fr": "Super promo"
+ },
+ {
+  "en": "Cleaning Up",
+  "fr": "Éliminer les rescapés"
+ },
+ {
+  "en": "Inventory Check",
+  "fr": "Inventaire de l'Arsenal"
+ },
+ {
+  "en": "Slide Practice 1",
+  "fr": "Entraînement au glissement-1"
+ },
+ {
+  "en": "Slide Practice 2",
+  "fr": "Entraînement au glissement-2"
+ },
+ {
+  "en": "Slide Practice 3",
+  "fr": "Entraînement au glissement-3"
+ },
+ {
+  "en": "Extract from Seaside Port once",
+  "fr": ""
+ },
+ {
+  "en": "Fully Loaded 1",
+  "fr": "Retour chargé-1"
+ },
+ {
+  "en": "Fully Loaded 1",
+  "fr": "Revenir les mains pleines-1"
+ },
+ {
+  "en": "Fully Loaded 2",
+  "fr": "Revenir les mains pleines-2"
+ },
+ {
+  "en": "Fully Loaded 2",
+  "fr": "Retour chargé-2"
+ },
+ {
+  "en": "Fully Loaded 3",
+  "fr": "Revenir les mains pleines-3"
+ },
+ {
+  "en": "Fully Loaded 3",
+  "fr": "Retour chargé-3"
+ },
+ {
+  "en": "Fully Loaded 4",
+  "fr": "Revenir les mains pleines-4"
+ },
+ {
+  "en": "Fully Loaded 5",
+  "fr": "Retour chargé-5"
+ },
+ {
+  "en": "Fully Loaded 5",
+  "fr": "Revenir les mains pleines-5"
+ },
+ {
+  "en": "The Source of the Disaster",
+  "fr": "Source de la catastrophe"
+ },
+ {
+  "en": "The Source of the Disaster",
+  "fr": "Source de catastrophe"
+ },
+ {
+  "en": "Familiar Faces",
+  "fr": "Visage familier"
+ },
+ {
+  "en": "Upgrade the Logistics Order to Level 20.",
+  "fr": "Les commandes logistiques atteignent le niveau 20."
+ },
+ {
+  "en": "Seaside Port: Supply Collection",
+  "fr": "Collecte de fournitures - Port côtier"
+ },
+ {
+  "en": "Seaside Port: Supply Collection 2",
+  "fr": "Collecte de ressources 2 - Port côtier"
+ },
+ {
+  "en": "Seaside Port: Supply Collection 3",
+  "fr": "Collecte de fournitures 3 - Port côtier"
+ },
+ {
+  "en": "Enemies of Mariana",
+  "fr": "L'Ennemi de Mariana"
+ },
+ {
+  "en": "Eco-Champion 1",
+  "fr": "Expert en environnement-1"
+ },
+ {
+  "en": "Eco-Champion 2",
+  "fr": "Expert en écologie-2"
+ },
+ {
+  "en": "Glassware",
+  "fr": "Produits en Verre"
+ },
+ {
+  "en": "Production",
+  "fr": "Fabrication et production"
+ },
+ {
+  "en": "Production",
+  "fr": "Fabrication"
+ },
+ {
+  "en": "Relay of Life",
+  "fr": "Relais de vie"
+ },
+ {
+  "en": "Seaside Port: Ecological Survey",
+  "fr": "Enquête écologique - Port côtier"
+ },
+ {
+  "en": "Eco Gathering",
+  "fr": "Collecte écologique"
+ },
+ {
+  "en": "Inside Out",
+  "fr": "De l'intérieur vers l'extérieur"
+ },
+ {
+  "en": "Machine Spark",
+  "fr": "Électricité et machines"
+ },
+ {
+  "en": "Shardverse Friends",
+  "fr": "Bon coéquipier d'éclatsverse"
+ },
+ {
+  "en": "Crack Shot",
+  "fr": "Maître tireur"
+ },
+ {
+  "en": "Mineral Materials",
+  "fr": "Matières premières minérales"
+ },
+ {
+  "en": "Boss in position.",
+  "fr": "Chef de station en position"
+ },
+ {
+  "en": "Boss in position: Enter The Fringe Sector.",
+  "fr": "Chef de station en position : Entrer dans le Secteur périphérique."
+ },
+ {
+  "en": "First Delivery",
+  "fr": "Première livraison"
+ },
+ {
+  "en": "An Urgent Request",
+  "fr": "Commande urgente"
+ },
+ {
+  "en": "An Urgent Request",
+  "fr": "Commande d'urgence"
+ },
+ {
+  "en": "Use a total of {1}*{2}.",
+  "fr": "Utilisation cumulée de {2} {1}."
+ },
+ {
+  "en": "Travel a total of {1} m by Zipline.",
+  "fr": "Parcourez une distance totale de {1} mètres en utilisant la Tyrolienne."
+ },
+ {
+  "en": "Travel a total of {1} m by vehicle.",
+  "fr": "Parcourir {1} mètres avec un véhicule."
+ },
+ {
+  "en": "Travel a total of {1} m by vehicle.",
+  "fr": "Parcourir {1} mètres à bord d'un véhicule."
+ },
+ {
+  "en": "Kill a total of {2} enemies with melee attacks.",
+  "fr": "Éliminer {2} ennemis avec des attaques de mêlée au total."
+ },
+ {
+  "en": "Kill a total of {1}*{2}.",
+  "fr": "Éliminer {2} {1} au total."
+ },
+ {
+  "en": "Kill a total of {1}*{2}.",
+  "fr": "Effectuer {2} Éliminations de {1}."
+ },
+ {
+  "en": "Kill a total of {1}*{2}.",
+  "fr": "Obtenir {2} éliminations de {1} au total."
+ },
+ {
+  "en": "Kill a total of {1}*{2}.",
+  "fr": "Effectuer {2} Éliminations de {1} au total."
+ },
+ {
+  "en": "Kill a total of {1}*{2}.",
+  "fr": "Élimination cumulée de {2} {1}."
+ },
+ {
+  "en": "Kill a total of {1}*{2}.",
+  "fr": "Obtenir {2} {1} au total."
+ },
+ {
+  "en": "Kill a total of {2} enemies from the {1} faction.",
+  "fr": "Éliminer un total de {2} ennemis du camp {1}."
+ },
+ {
+  "en": "Kill {2} enemies from the {1} faction.",
+  "fr": "Éliminer un total de {2} ennemis du camp {1}."
+ },
+ {
+  "en": "Kill a total of any {2} enemies from the {1} faction.",
+  "fr": "Éliminer au total {2} ennemis du camp {1}."
+ },
+ {
+  "en": "Kill any {2} enemies from the {1} faction.",
+  "fr": "Éliminer au total {2} ennemis du camp {1}."
+ },
+ {
+  "en": "Kill a total of any {2} enemies from the {1} faction.",
+  "fr": "Éliminer un total de {2} ennemis du camp {1}."
+ },
+ {
+  "en": "Craft a total of any vehicle*{2}.",
+  "fr": "Accumuler la fabrication de {2} véhicules de n'importe quel type."
+ },
+ {
+  "en": "Restore a total of {1} HP.",
+  "fr": "Restaurez {1} PV au total."
+ },
+ {
+  "en": "Restore a total of {1} HP.",
+  "fr": "Restaurez un total de {1} PV."
+ },
+ {
+  "en": "Kill a total of {3} enemies from over {2} meters away.",
+  "fr": "Éliminer {3} ennemis à plus de {2} mètres."
+ },
+ {
+  "en": "Enter any Map empty-handed 1 time.",
+  "fr": ""
+ },
+ {
+  "en": "Climb a total of {1} m.",
+  "fr": "Distance de grimpe totale parcourue : {1} mètres."
+ },
+ {
+  "en": "Climb a total of {1} m.",
+  "fr": "Distance de grimpe cumulée : {1} mètres."
+ },
+ {
+  "en": "Slide a total of {1} m.",
+  "fr": "Atteindre une distance de glissement cumulée de {1} mètres."
+ },
+ {
+  "en": "Slide a total of {1} m.",
+  "fr": "La distance cumulée de glissement atteint {1} mètres."
+ },
+ {
+  "en": "Roll a total of {1} m.",
+  "fr": "Distance de roulade cumulée de {1} mètres."
+ },
+ {
+  "en": "Spend a total of {1} coins.",
+  "fr": "Dépenser un total de {1} pièces."
+ },
+ {
+  "en": "Kill 1 enemy using only melee attacks.",
+  "fr": ""
+ },
+ {
+  "en": "Spend 3000000HL Gold",
+  "fr": ""
+ },
+ {
+  "en": "Search 5 containers in Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "RECAPTURE Line 9",
+  "fr": ""
+ },
+ {
+  "en": "Enter the Scavenger Arena, Kill the Scavenger King, and extract from the Scavenger Arena.",
+  "fr": ""
+ },
+ {
+  "en": "Old Joe: The Orc Merchant",
+  "fr": "Le vieil orc marchand"
+ },
+ {
+  "en": "Old Joe: The Orc Merchant",
+  "fr": "Vieux orc marchand"
+ },
+ {
+  "en": "Refuel a vehicle {1} times.",
+  "fr": "Faire le plein de Pétrole du véhicule {1} FOIS DE PLUS."
+ },
+ {
+  "en": "No One Left Behind",
+  "fr": "Ne jamais abandonner"
+ },
+ {
+  "en": "Zipline Practice 1",
+  "fr": "CORDE Retest-1"
+ },
+ {
+  "en": "Zipline Practice 2",
+  "fr": "EXERCICE DE CORDE-2"
+ },
+ {
+  "en": "Zipline Practice 3",
+  "fr": "Exercice de CORDE-3"
+ },
+ {
+  "en": "Patch and Mend",
+  "fr": "Bricolage"
+ },
+ {
+  "en": "Patch and Mend",
+  "fr": "Rapiéçage"
+ },
+ {
+  "en": "A Winding Path",
+  "fr": "Sentier étroit"
+ },
+ {
+  "en": "Dodge Roll Practice 1",
+  "fr": "Entraînement aux roulades-1"
+ },
+ {
+  "en": "Dodge Roll Practice 2",
+  "fr": "Pratique de roulade-2"
+ },
+ {
+  "en": "Dodge Roll Practice 3",
+  "fr": "Pratique des roulades-3"
+ },
+ {
+  "en": "Extract from Golden Dunes 1 time",
+  "fr": ""
+ },
+ {
+  "en": "New Growth",
+  "fr": "Vieux arbre, nouveaux bourgeons"
+ },
+ {
+  "en": "New Growth",
+  "fr": "De nouvelles pousses sur un vieil arbre"
+ },
+ {
+  "en": "Settlement Supplies",
+  "fr": "Fourniture de colonie"
+ },
+ {
+  "en": "The Total Package",
+  "fr": "Autoproduction et autoconsommation"
+ },
+ {
+  "en": "The Total Package",
+  "fr": "Autosuffisant"
+ },
+ {
+  "en": "Self-Sufficient",
+  "fr": "Autosuffisance"
+ },
+ {
+  "en": "Self-Sufficient",
+  "fr": "Autosuffisant"
+ },
+ {
+  "en": "Pay to clear the way",
+  "fr": "Payer pour passer"
+ },
+ {
+  "en": "Pathojen: Purification Experiment",
+  "fr": "Pathojen - Expérience de purification"
+ },
+ {
+  "en": "Pathojen: Mutation Omen",
+  "fr": "Pathojen-Prémices de mutation"
+ },
+ {
+  "en": "Pathojen: Experimental Materials",
+  "fr": "Pathojen - Matériau d'expérimentation"
+ },
+ {
+  "en": "Pathojen: Experimental Materials",
+  "fr": "Pathojen-Matériau d'expérimentation"
+ },
+ {
+  "en": "Pathojen: Experimental Funding",
+  "fr": "Pathojen - Fonds d'expérimentation d'Or"
+ },
+ {
+  "en": "Pathojen: Experimental Funding",
+  "fr": "Pathojen-Fonds d'expérimentation"
+ },
+ {
+  "en": "Pathojen: Herbology",
+  "fr": "Pathojen-Herboristerie"
+ },
+ {
+  "en": "Man vs. Wild",
+  "fr": "Survivre dans la nature"
+ },
+ {
+  "en": "Following the Clues",
+  "fr": "Indices et traces"
+ },
+ {
+  "en": "Blood Feud",
+  "fr": "Vendetta"
+ },
+ {
+  "en": "Upgrade the Equipment Crafting Station to Lv. 10.",
+  "fr": "Faites monter l’Établi d’équipement au niveau 10."
+ },
+ {
+  "en": "Enter The Fringe Sector once unarmed.",
+  "fr": "Équipez l'ensemble de vêtements de prisonnier pour entrer dans le Secteur périphérique."
+ },
+ {
+  "en": "Corner Chronicles",
+  "fr": "Chroniques de l'Angle mort"
+ },
+ {
+  "en": "Corner Chronicles",
+  "fr": "Chroniques de Jiaodi"
+ },
+ {
+  "en": "CLOSE-QUARTER ESCORT",
+  "fr": "MAÎTRISE DU COMBAT ET ESCORTE"
+ },
+ {
+  "en": "Becoming a Leader",
+  "fr": "Entrée en fonction"
+ },
+ {
+  "en": "Starting Funds 1",
+  "fr": "Capital de départ-1"
+ },
+ {
+  "en": "Starting Funds 1",
+  "fr": "Or de départ-1"
+ },
+ {
+  "en": "Starting Funds 2",
+  "fr": "Capital de départ-2"
+ },
+ {
+  "en": "Starting Funds 2",
+  "fr": "Or de départ-2"
+ },
+ {
+  "en": "Starting Funds 3",
+  "fr": "Or de départ'-3"
+ },
+ {
+  "en": "First Cross-Map Voyage",
+  "fr": "Premier voyage trans-carte"
+ },
+ {
+  "en": "Cross-Map Maiden Voyage: Enter Seaside Port once.",
+  "fr": "Premier voyage trans-carte : Entrez une fois dans le Port côtier."
+ },
+ {
+  "en": "Vehicle Practice 1",
+  "fr": "Pratique du véhicule-1"
+ },
+ {
+  "en": "Vehicle Practice 2",
+  "fr": "Pratique des véhicules-2"
+ },
+ {
+  "en": "Vehicle Practice 3",
+  "fr": "Pratique des véhicules-3"
+ },
+ {
+  "en": "Vehicle Practice 4",
+  "fr": "Pratique des véhicules-4"
+ },
+ {
+  "en": "Close-Quarters Combat",
+  "fr": "Combat rapproché"
+ },
+ {
+  "en": "Enter {1} under {2} {3} time(s).",
+  "fr": "Entrez dans {1} sous {2} {3} fois."
+ },
+ {
+  "en": "Enter Seaside Port once.",
+  "fr": "Entrez une fois dans le Port côtier"
+ },
+ {
+  "en": "Enter The Fringe Sector once.",
+  "fr": "Entrez dans le Secteur périphérique une fois."
+ },
+ {
+  "en": "Bring back 5 items of Rare or higher rarity from Golden Dunes.",
+  "fr": ""
+ },
+ {
+  "en": "Complete 1 order in Golden Dunes with a weight of at least 150 kg.",
+  "fr": ""
+ },
+ {
+  "en": "Journey: Culinary Warrior",
+  "fr": "Tutu - Guerrier cuisinier"
+ },
+ {
+  "en": "Journey: Cowboy Maniac",
+  "fr": "Tutu - Cowboy fou"
+ },
+ {
+  "en": "Journey: Cowboy Maniac",
+  "fr": "TuTu - Sprite Cowboy fou"
+ },
+ {
+  "en": "Journey: Order Maniac",
+  "fr": "Tutu : Mad Rider"
+ },
+ {
+  "en": "Earn {1} coins by selling items.",
+  "fr": "Obtenez {1} pièces en vendant des objets."
+ },
+ {
+  "en": "The Relic",
+  "fr": "Relique"
+ },
+ {
+  "en": "Invite {1} friends to join the squad.",
+  "fr": "Invitez {1} amis dans votre club."
+ },
+ {
+  "en": "Collect {1}*{2}.",
+  "fr": "Récolter {1} {2} fois."
+ },
+ {
+  "en": "Mine any mineral*{2}.",
+  "fr": "Collectez {2} minerais sur n'importe quelle carte."
+ },
+ {
+  "en": "Restarting the Signal Tower",
+  "fr": "Redémarrer la Balise"
+ },
+ {
+  "en": "Heavy Order 1",
+  "fr": "Commande lourde-1"
+ },
+ {
+  "en": "Heavy Order 2",
+  "fr": "Commande lourde-2"
+ },
+ {
+  "en": "Heavy Order 3",
+  "fr": "Commande lourde-3"
+ },
+ {
+  "en": "Heavy Order 4",
+  "fr": "Commande lourde-4"
+ },
+ {
+  "en": "Steel Ruins",
+  "fr": "Ruines d'acier"
+ },
+ {
+  "en": "Ironman Triathlon",
+  "fr": "Triathlon de Fer"
+ },
+ {
+  "en": "Long-range Messenger",
+  "fr": "Messager à long terme"
+ },
+ {
+  "en": "Long-haul Messenger: Complete 5 orders in total at Seaside Port.",
+  "fr": "Messager à long terme : terminez 5 commandes au total au Port côtier."
+ },
+ {
+  "en": "Reserve Supply",
+  "fr": "Réserve de protection"
+ },
+ {
+  "en": "Fire Safety",
+  "fr": "Sensibilisation à la sécurité incendie"
+ },
+ {
+  "en": "Anti-Theft Measures",
+  "fr": "Mesures antivol"
+ },
+ {
+  "en": "Shopping Day",
+  "fr": "Achats au Marché"
+ },
+ {
+  "en": "Stocking the Warehouse",
+  "fr": "Stockage des pièces"
+ },
+ {
+  "en": "Advanced Order 1",
+  "fr": "Commande PREMIUM-1"
+ },
+ {
+  "en": "Advanced Order 2",
+  "fr": "Commande PREMIUM-2"
+ },
+ {
+  "en": "Cloudy Peak",
+  "fr": "Dominant les nuages"
+ },
+ {
+  "en": "Slay the Dragon",
+  "fr": "Arracher une dent à la gueule du dragon"
+ }
+]

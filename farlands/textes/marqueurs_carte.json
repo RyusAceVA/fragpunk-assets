@@ -1,0 +1,150 @@
+[
+ {
+  "en": "Death Marker",
+  "fr": "Dernier lieu de décès"
+ },
+ {
+  "en": "Medium Outpost",
+  "fr": "Point de contrôle moyen"
+ },
+ {
+  "en": "Medium Outpost: A moderate number of monsters and rewards.",
+  "fr": ""
+ },
+ {
+  "en": "A temporary energy bridge that spans terrain obstacles to let couriers cross safely.",
+  "fr": ""
+ },
+ {
+  "en": "Travel to other maps from here.",
+  "fr": ""
+ },
+ {
+  "en": "Start",
+  "fr": "Commencer"
+ },
+ {
+  "en": "Portable Heater",
+  "fr": "Chauffage"
+ },
+ {
+  "en": "Allows for vertical movement.",
+  "fr": ""
+ },
+ {
+  "en": "Can be used to refuel vehicles.",
+  "fr": ""
+ },
+ {
+  "en": "Can be used to recharge vehicles.",
+  "fr": ""
+ },
+ {
+  "en": "Recovery Post",
+  "fr": ""
+ },
+ {
+  "en": "Large Outpost",
+  "fr": ""
+ },
+ {
+  "en": "Large Outpost: Many monsters and generous rewards.",
+  "fr": ""
+ },
+ {
+  "en": "If you survive, return to the Hub from here.",
+  "fr": ""
+ },
+ {
+  "en": "Small Outpost",
+  "fr": "Petit point de contrôle"
+ },
+ {
+  "en": "Small Outpost: Fewer monsters and rewards.",
+  "fr": ""
+ },
+ {
+  "en": "Combat Enhancement Post",
+  "fr": "Poteau de combat amélioré"
+ },
+ {
+  "en": "Extraction Point",
+  "fr": "Point d'évacuation"
+ },
+ {
+  "en": "Horizontal Zipline Post",
+  "fr": "Poteau de CORDE latérale"
+ },
+ {
+  "en": "Used to secure one end of a horizontal zipline.",
+  "fr": "Utilisé pour FIXÉ une extrémité de la CORDE transversale."
+ },
+ {
+  "en": "Magnetic Recovery Post",
+  "fr": ""
+ },
+ {
+  "en": "Vertical Zipline",
+  "fr": "CORDE VERTICALE"
+ },
+ {
+  "en": "Energy Bridge",
+  "fr": "Pont énergétique"
+ },
+ {
+  "en": "Road Sign: Boss Ahead",
+  "fr": ""
+ },
+ {
+  "en": "Road Sign: Danger Ahead",
+  "fr": ""
+ },
+ {
+  "en": "Road Sign: Supplies Ahead",
+  "fr": ""
+ },
+ {
+  "en": "Road Sign: Trap Ahead",
+  "fr": ""
+ },
+ {
+  "en": "Road Sign: Rough Road",
+  "fr": ""
+ },
+ {
+  "en": "Vehicle Charging Station",
+  "fr": "Station de recharge de véhicule"
+ },
+ {
+  "en": "Vehicle Fueling Station",
+  "fr": "STATION DE CARBURANT POUR VÉHICULES"
+ },
+ {
+  "en": "You died here last time.",
+  "fr": ""
+ },
+ {
+  "en": "Portable Cooler",
+  "fr": "Refroidisseur"
+ },
+ {
+  "en": "Stay close for continuous Energy and HP restoration.",
+  "fr": "S'en approcher permet de Regain continuellement la santé et les PV."
+ },
+ {
+  "en": "Stay close to continuously restore Magnetism.",
+  "fr": "Regain de la force magnétique en continu à proximité."
+ },
+ {
+  "en": "Stay close to gain continuous combat enhancements.",
+  "fr": "S'approcher permet d'obtenir continuellement des améliorations de combat."
+ },
+ {
+  "en": "Get close to remove heat-related effects and temporarily boost cold-related attributes.",
+  "fr": "Approchez-vous pour éliminer les états liés à la température élevée et augmenter brièvement les attributs liés à la température basse."
+ },
+ {
+  "en": "Get close to remove cold-related effects and temporarily boost heat-related attributes.",
+  "fr": ""
+ }
+]

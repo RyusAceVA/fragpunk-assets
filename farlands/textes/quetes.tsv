@@ -1,0 +1,925 @@
+﻿anglais	francais
+Repair the Signal Tower	Réparer la Balise
+"Obtain ""Old Book"""	Obtenir « Livre papier »
+"Obtain ""Light Alloy"""	Obtenir « Alliage léger »
+"Obtain ""Basic Gear"""	Obtenir « Engrenage en fer »
+Perform a ritual offering	Faire une offrande
+Conduct an Investigation	Répondre à l'enquête
+Conduct an Investigation	Répondre au sondage
+Omni-Printer Upgrade To Level 20	Passer l'impression 3D universelle au niveau 20
+All-Purpose Supplies	Fournitures universelles
+Unstoppable	IMPARABLE
+Unstoppable	IMSTOPPABLE
+Subdue the enemy without fighting.	Vaincre sans combattre
+Enter the {1} Map {2} time(s) without carrying a backpack or weapons.	Entrez dans la {1}carte{2} fois sans porter de sac à dos ni d'armes.
+Enter the {1} Map {2} time(s) without equipping any armor.	Entrez {2} fois sur la Carte {1} sans équiper aucune armure.
+Talk to the Market liaison officer.	Interagissez avec 3 PNJ au Port côtier : 101810 101818 101816
+Extract from any map with teammates {1} time(s).	Évacuez {1} fois de n'importe quelle Carte avec des coéquipiers.
+Enter any map with teammates {1} time(s).	Entrez sur n'importe quelle Carte avec des coéquipiers {1} fois.
+Kill any {1} enemies together with teammates.	Vaincre {1} ennemis avec vos coéquipiers.
+Coastal Capital	Cité côtière principale
+The Final Push	Coup de grâce
+Present a gift to any NPC on the map.	Offrez {1} cadeau à n'importe quel personnage sur n'importe quelle carte.
+First Standing on Business Order	Quête principale 1-2
+First Delivery Order Standing on Business: Complete the order in The Fringe Sector.	Quête principale 1-2 : Complétez 3 commandes dans le Secteur périphérique.
+Take stock of your assets	Ligne principale 1-3 Entrée
+Take Stock: Search The Fringe Sector containers.	Quête principale 1-3 : Recherchez 5 conteneurs dans le Secteur périphérique.
+Heavy Load Lesson 1	Histoire principale 1-4 Rencontre Sinistre
+Heavy Load Lesson 1	Histoire principale 1-4
+Heavy Load Lesson 1: Complete a Heavy Load order in The Fringe Sector.	1-4 Rencontre Sinistre : Complétez 1 commande d'un poids ≥ 30 kg dans le Secteur périphérique.
+Clear obstacles.	Quête principale 1-5
+Clear the obstacles: Kill the Sentry in The Fringe Sector.	Quête principale 1-5 : Élimination de 3 Agents de sécurité Kepler dans le Secteur périphérique, à terminer en une seule partie.
+Build on capital	Histoire principale 1-6
+Build Capital: Extract from The Fringe Sector with supplies.	Quête principale 1-6 : Rapportez des fournitures d'une valeur ≥ 20 Dix mille depuis le Secteur périphérique et effectuez une Évacuation d'urgence.
+Market Bulk Order	Quête principale 2-2
+Market Bulk Order: Complete 3 orders in total at Seaside Port.	Quête principale 2-2 : Terminer 3 commandes au Port côtier.
+Market Contact	Quête principale 2-3
+Market Contact	Quête principale 2-3 Flamme
+Market Liaison: Talk to the Market liaison.	Quête principale 2-3 : Interagissez avec 3 PNJ au Port côtier : 101810 101818 101816.
+Chelae Suspicions	Quête principale 2-4
+Chelae Suspicions: Investigate 2 clues.	Quête principale 2-4 : Enquêter sur deux indices existants au Port côtier.
+Coastal Transport	Quête principale 2-5
+Coastal Transport: Complete 4 orders in total at Seaside Port.	Quête principale 2-5 : Complétez 4 commande(s) au Port côtier.
+Sea Area Clearance	Quête principale 2-6
+Sea Area Sweep: Kill 10 Common Murlocs.	Quête principale 2-6 : Effectuez 5 Éliminations de monstres au Port côtier.
+Heavy Load Journey	
+Complete 3 reload Orders in Golden Dunes (Order weight >= 50KG)	
+Direct Delivery for Bulk Orders	
+Complete 1 high-value order in Golden Dunes (Order Value >= 4,000,000)	
+Desert Trade Route	
+Enter Golden Dunes and complete 1 order.	
+Mid-match supply	
+Obtain 1 item of Epic rarity or higher and extract from Golden Dunes.	
+Return with a Full Load	
+Complete 1 reload order in Golden Dunes and extract from Golden Dunes.	
+Elite Hunt	
+Kill 3 Elite monsters	
+Dual Image FULL	
+Extract once each from Seaside Port and Golden Dunes.	
+Quenching	
+Complete 1 order weighing at least 50 kg in Golden Dunes, Kill 1 Elite monster, and extract 1 time.	
+Production Capacity Upgrade	Mise à niveau de la capacité de production
+Kill 2 enemies with Melee Weapons.	Éliminez 2 monstres en utilisant uniquement des armes de mêlée.
+The Source of Hatred	Source de la haine
+Obtain the quest item Data Drive from {1}.	Obtenez l'objet de quête auprès de {1} : Mémoire.
+Successfully extract from {1} {2} time(s).	Évacuation réussie de {1} à {2} reprises.
+Extract from {1} {2} time(s).	Évacuer {2} fois de {1}.
+Extract from {1} {3} time(s), with total value of items on you ≥ {2} at extraction.	Effectuer une Évacuation d'urgence de {1} à {3} reprises, avec une valeur totale des ressources transportées lors de l'évacuation ≥ {2}.
+Extract from {1} {3} time(s), with the total value of items on you ≥ {2} at extraction.	S'évacuer {3} fois de {1}, avec une valeur totale de l'équipement sur soi lors de l'évacuation ≥ {2}.
+Extract {3} time(s) from {1}, with total value of items on you at extraction ≥ {2}.	Effectuer une Évacuation d'urgence de {1} à {3} reprises, avec une valeur totale des ressources transportées lors de l'évacuation ≥ {2}.
+Extract from {1} {3} time(s), with total value of items on you at extraction ≥ {2}.	Effectuer {3} évacuations d'urgence depuis {1}, avec une valeur totale du matériel sur soi ≥ {2} lors de l'évacuation.
+Extract from {1} {3} time(s), with total value of items on you at extraction ≥ {2}.	Effectuer une évacuation d'urgence de {1} à {3} reprises, avec une valeur totale des ressources transportées lors de l'évacuation ≥ {2}.
+Extract from {1} {3} time(s), with the total value of supplies on you during extraction ≥ {2}.	Effectuer {3} évacuations d'urgence depuis {1}, avec une valeur totale du matériel sur soi ≥ {2} lors de l'évacuation.
+Extract from {1} {3} time(s), with total value of items carried at extraction ≥ {2}.	Effectuer {3} évacuations d'urgence depuis {1}, avec une valeur totale du matériel sur soi ≥ {2} lors de l'évacuation.
+Extract from {1} {3} time(s), with the total value of carried items ≥ {2} at extraction.	Effectuer {3} évacuations d'urgence depuis {1}, avec une valeur totale du matériel sur soi ≥ {2} lors de l'évacuation.
+Extract {3} time(s) from {1}, with total value of carried items ≥ {2} during extraction.	Effectuer une évacuation d'urgence de {1} à {3} reprises, avec une valeur totale des ressources transportées lors de l'évacuation ≥ {2}.
+Extract from {1} {3} time(s); the total value of carried items at extraction must be ≥ {2}.	Effectuer {3} évacuations d'urgence depuis {1}, avec une valeur totale du matériel sur soi ≥ {2} lors de l'évacuation.
+Extraction Successful from Golden Dunes	
+Extract from any map {3} time(s), with the total value of items on you ≥ {2} at extraction.	Évacuez {3} fois de n'importe quelle Carte, avec une valeur totale de fournitures sur vous ≥ {2} lors de l'évacuation.
+Kill the Scavenger King	
+Take away 1 item of Epic or higher rarity.	
+Extract from The Fringe Sector, and the supplies value is no less than 20,000.	Extraire des fournitures d'une valeur ≥ Deux mille mille du Secteur périphérique et effectuer une Évacuation d'urgence.
+Extraction Successful from Golden Dunes	Évacuation réussie de la Terre des sables
+Upgrade the Warehouse to Level 20.	Faire passer l'Entrepôt au niveau 20.
+Traditional Skills	Talent classique
+Traditional Skills	Savoir-faire traditionnel
+Party Up!	Accompagne-moi
+Party Up!	ACCOMPAGNE-MOI
+A Helping Hand	Tendre la main
+From the Embers	Braise sombre brûlante
+From the Embers	Braise couvant sous la cendre
+Kill 3 enemy players with Rusty Revolver.	Obtenez 1 kill en utilisant l'arme spécifiée (Discipline)
+Complete 2 orders in Golden Dunes.	
+In Good Health	Rester en bonne santé
+Messenger	Messager
+Repair the Signal Tower to regain communications with headquarters.	Réparez la Balise pour Regain la communication avec le quartier général.
+Better Together	S'unir pour la victoire ou la défaite
+Better Together	Avancer et reculer ensemble
+Arms Race	Course à l'armement
+Purifier	Purifier tout
+Kill 5 enemy players with melee attacks.	
+Kill 1 Scavenger King.	Tuer 1 Roi des charognards
+Deliver 100 Gold Material to Artisan Taka.	
+Kill 3 Orc Centurions	Tuez 3 Centurion orcs
+Kill 3 Kepler Security Captains	Tuez 3 Capitaine Kepler
+Kill 3 Kepler Researchers	Tuez 3 Chercheur Kepler
+Kill 3 Scavenger Marauders	Tuez 3 Charognard maraudeurs
+Kill 3 Thermal Leakers	Tuez 3 Fuiteurs thermiques
+Kill 3 Snowblind Stalkers	Tuez 3 Traqueur des neiges
+Kill 3 Zombie Bear Kings	Tuez 3 Rois ours zombies
+The total HL Gold has reached 400,000,000.	
+Deliver 1 Gold Material to the warrior Mohawk.	
+Deliver 1 Gold Material to Gunman Zelus	
+Deliver 10 Gold Material to the merchant collector.	
+Deliver 3 Gold Material to Farmer Ka	
+Deliver 1 Gold Material to Artisan Taka	
+Kill {1}*{2}.	Éliminez {2} {1}.
+Accumulate 1 Elite Kill with melee attacks.	Élimination d'un joueur
+Enter the Scavengers Arena	
+Upgrade the Deconstruction Station to Level 3	Améliorer l'établi de recyclage au Niveau 3
+Arriving in Akhet	Premiers pas à Akhet
+Arriving in Akhet	Entrée à Akhet
+Complete 1 order in Golden Dunes with a weight of at least 50 kg.	
+Craft any equipment*{3} with Rarity of {2} or above.	Fabriquez {3} pièces d'équipement de RARETÉ {2} ou supérieure.
+Craft any equipment*{3}, with Rarity of {2} or above.	Fabriquer {3} pièces d'équipement de RARETÉ {2} ou supérieure.
+Craft any equipment*{3}  with Rarity of {2} or above.	Fabriquez {3} pièces d'équipement de RARETÉ {2} ou supérieure.
+Craft any {3} pieces of equipment with Rarity of {2} or above.	Fabriquez {3} pièces d'équipement de RARETÉ {2} ou supérieure.
+Craft {1}*{2}.	Fabrique {2} {1}.
+Craft {1}*{2}.	Fabriquer {2} {1}.
+Craft vehicle*{2}.	Fabriquez {2} véhicules.
+Go to {1} and loot any {2} containers.	Allez à {1} et fouillez {2} conteneurs.
+Head to {2}, and pick up the Quest Item {1} at the designated location at the Gas Station	Allez à {2}, récupérez l'objet de Mission : {1} à l'endroit indiqué de la Station-service.
+Head to {2} and pick up the Quest Item at the designated location in the  Chelae Settlement: {1}.	Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué dans le Campement des Chelae.
+Head to {2} and pick up the Quest Item at the designated location in Main Outpost: {1}.	Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué au Camp principal Scavenger.
+Go to {2}, and pick up the Quest Item: {1} at the designated location in the Loading Yard.	Allez à {2}, récupérez l'objet de Mission : {1} à l'endroit indiqué dans la Zone de chargement.
+Go to {2}, pick up the Quest Item at the designated location in the Bar: {1}.	ALLER à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué dans le Bar.
+Go to {2}, pick up the Quest Item at the designated location in the Central District: {1}.	Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué dans la Ville principale.
+Head to {2}, and pick up the Quest Item at the designated location in the Central District: {1}.	Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué dans la Ville principale.
+Go to {2} and pick up the Quest Item: {1} at the designated location in the Central District.	Allez à {2} et ramassez l'objet de Mission : {1} à l'endroit indiqué dans la Ville principale.
+Head to {2} and pick up the Quest Item {1} at the designated location in the Central District.	Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué dans la Ville principale.
+Go to {2} and pick up the Quest Item at the designated location in the Factory Perimeter: {1}.	Allez à {2}, ramassez l'objet de Mission : {1} à l'endroit indiqué en Périphérie de l'usine.
+Go to {2} and pick up the Quest Item at the designated location in Chelae Settlement: {1}.	Allez à {2} et ramassez l'objet de Mission : {1} à l'endroit indiqué dans le Campement des Chelae.
+Head to {2}, and pick up the Quest Item {1} at the designated location in the Main Outpost.	Allez à {2} et ramassez l'objet de Mission : {1} à l'endroit indiqué au Camp principal Scavenger.
+Head to {2}, and pick up the Quest Item at the designated location in the Main Outpost: {1}.	Allez à {2} et ramassez l'objet de Mission : {1} à l'endroit indiqué du Camp principal Scavenger.
+Head to {2}, then at the designated location in Glory Cemetery, pick up the Quest Item: {1}.	Allez à {2} et ramassez l'objet de Mission : {1} à l'emplacement indiqué dans le Cimetière de la Gloire.
+Head to Seaside Port and investigate the designated location at Coastal Outpost.	Allez au Port côtier et menez l'enquête à l'endroit indiqué de l'Avant-poste côtier.
+Head to the Seaside Port and investigate at designated location 1 in the Chelae Settlement.	ALLER au Port côtier, effectuer une enquête à l'emplacement spécifié 1 du Campement des Chelae.
+Head to the Seaside Port and investigate at designated location 2 in the Chelae Settlement.	Allez au Port côtier et menez l'enquête à la position 2 spécifiée dans le Campement des Chelae.
+Go to Seaside Port, and place {1} at the designated location in Chelae Settlement. (You must prepare {1} yourself.)	Allez au Port côtier et placez {1} à l'endroit désigné dans le Campement des Chelae. (Vous devez préparer {1} vous-même.)
+Go to Seaside Port and conduct an investigation at the designated location in the Mariana Settlement.	ALLER au Port côtier et mener l'enquête à l'endroit désigné de la Colonie des Marianiens.
+Go to Seaside Port and place {1} at the designated location in the Mariana Settlement.	ALLER au Port côtier, placez {1} à l'endroit désigné de la colonie de Mariana.
+Head to the southern part of Seaside Port and submit {2}*{3} to {1}.	Allez au sud du Port côtier et remettez {3} {2} à {1}.
+Go to the Orc settlement west of Seaside Port and view the inventory.	Rendez-vous dans la zone de peuplement des orcs à l'ouest du Port côtier pour VOIR les stocks.
+Go to Seaside Port and submit {2}*{3} to {1}.	ALLER au Port côtier et donner {3} {2} à {1}.
+Go to Seaside Port and submit {2}*{3} to {1}.	ALLER au Port côtier et soumettre {3} {2} à {1}.
+Head to Seaside Port and talk to {1}.	ALLER au Port côtier et parler avec {1}.
+Go to Seaside Port and talk to {1}.	ALLER au Port côtier et parler avec {1}.
+Go to Seaside Port and investigate the designated location in the eastern Chelae Settlement.	ALLER au Port côtier et mener l'enquête à l'emplacement désigné dans la colonie des parias à l'est.
+Head to Seaside Port and collect business information at the designated location in the Central District.	ALLER au Port côtier, RASSEMBLEZ-VOUS ICI pour collecter des informations commerciales à l'endroit indiqué dans la Ville principale.
+Head to Seaside Port and investigate the designated location in Central District.	ALLER au Port côtier, effectuez une enquête à l'endroit indiqué de la Ville principale.
+Go to Seaside Port and investigate the designated location at Border Outpost.	Allez au Port côtier, effectuez l'enquête à l'endroit indiqué de l'Avant-poste frontalier.
+Go to Seaside Port and investigate the designated location on Umbrella Island.	Allez au Port côtier et menez l'enquête à l'endroit indiqué sur l'Île du Rocher-Parapluie.
+Go to Seaside Port and conduct an investigation at the designated location in the Solar Plant.	ALLER au Port côtier, effectuez une enquête à l'endroit indiqué de la Centrale photovoltaïque.
+Go to Seaside Port and investigate the designated location at Cloud-Reaching Peak.	ALLER au Port côtier, effectuez une enquête à l'endroit indiqué du Pic des Nuages.
+Go to Seaside Port and investigate the designated location at Orcish Outpost.	Allez au Port côtier et menez l'enquête à l'emplacement désigné de l'Avant-poste orque.
+Go to Seaside Port and obtain the quest item at the designated location in Orcish Core: {1}.	Allez au Port côtier et récupérez l'objet de Mission : {1} à l'emplacement spécifié dans l'Usine de base des Orcs.
+Go to Seaside Port and investigate at the designated location in Orcish Core.	Allez au Port côtier et menez l'enquête à l'emplacement désigné de l'Usine de base des Orcs.
+Go to Seaside Port and conduct an investigation at the designated location in the Ancient Ruins.	ALLER au Port côtier, menez l'enquête à l'endroit indiqué des Ruines.
+Head to Seaside Port and collect business information at the designated location in the Ring of Fate.	ALLER au Port côtier, RASSEMBLEZ des informations commerciales à l'emplacement spécifié de l'Anneau du destin.
+Go to Seaside Port and investigate at the designated location in Ring of Fate.	ALLER au Port côtier, effectuez l'enquête à l'endroit indiqué de l'Anneau du destin.
+Go to Seaside Port and investigate the designated location in Peril Canyon.	ALLER au Port côtier et mener l'enquête à l'endroit indiqué du Sentier périlleux du canyon.
+Go to Seaside Port and investigate the designated location in Factory Perimeter.	ALLER au Port côtier, effectuez une enquête à l'endroit indiqué en Périphérie de l'usine.
+Go to Seaside Port and investigate the designated location at the Colossal Beast Bones.	Allez au Port côtier et menez l'enquête à l'endroit indiqué sur l'Os de dragon géant.
+Head to Seaside Port and investigate the designated location in Stone Formation.	ALLER au Port côtier, effectuez une enquête à l'endroit indiqué de la Formation de pierres géantes.
+Go to Seaside Port and investigate the designated location in Chelae Settlement.	Allez au Port côtier et menez l'enquête à l'endroit indiqué dans le Campement des Chelae.
+Go to Seaside Port and investigate at designated location 1 in Dragon's Nest.	ALLER au Port côtier, effectuer une enquête à l'emplacement 1 spécifié du Repaire du dragon furieux.
+Go to Seaside Port and investigate at designated location 2 in Dragon's Nest.	ALLER au Port côtier et effectuer une enquête à la position de la caméra 2 dans le Repaire du dragon furieux.
+Go to Seaside Port and investigate at the designated location in Dragon's Nest.	ALLER au Port côtier, effectuez une enquête à l'endroit indiqué du Repaire du dragon furieux.
+Go to Seaside Port and investigate the designated location in Dragon's Nest.	Allez au Port côtier et menez l'enquête à l'endroit indiqué du Repaire du dragon furieux.
+Go to Seaside Port and investigate at the designated location in Celebration Corner.	Allez au Port côtier et menez l'enquête à l'endroit indiqué au Coin de célébration.
+Head to Seaside Port and investigate the designated location at Deadwood Outpost.	ALLER au Port côtier et mener l'enquête à l'emplacement désigné de l'Avant-poste de l'Arbre mort.
+Go to Seaside Port and investigate at the designated location in White Coast.	ALLER au Port côtier et mener l'enquête à l'endroit indiqué sur la Côte blanche.
+Head to Seaside Port and investigate the designated location in Shallow Shoals.	Allez au Port côtier et menez l'enquête à l'endroit indiqué sur la Plage d'herbe claire.
+Proceed to Seaside Port and investigate the designated location in Shallow Shoals.	Allez au Port côtier et menez l'enquête à l'endroit indiqué sur la Plage d'herbe claire.
+Go to Seaside Port and investigate the designated location on Sea Anemone Island.	ALLER au Port côtier et mener l'enquête à l'endroit indiqué sur l'Île des Anémones.
+Head to Seaside Port and investigate at the designated location at the Lighthouse.	Allez au Port côtier et menez l'enquête à l'endroit indiqué du Phare.
+Proceed to Seaside Port and investigate the designated location in Purple Coast.	ALLER au Port côtier et mener l'enquête à l'endroit indiqué sur la Côte violette.
+Head to Seaside Port and investigate the designated location in Purple Coast.	ALLER au Port côtier et mener l'enquête à l'emplacement désigné de la Côte violette.
+Proceed to Seaside Port and investigate the designated location in Mangrove Forest.	ALLER au Port côtier et mener l'enquête à l'endroit indiqué dans la Mangrove.
+Go to Seaside Port and investigate at the designated location in Crimson Mountains.	ALLER au Port côtier, effectuez une enquête à l'endroit indiqué dans les Montagnes écarlates.
+Go to Seaside Port and investigate at the designated location in Glory Cemetery.	Allez au Port côtier et menez l'enquête à l'endroit indiqué du Cimetière de la Gloire.
+Head to Seaside Port and investigate the designated location in Steel Ruins.	ALLER au Port côtier et mener l'enquête à l'emplacement indiqué dans les Ruines d'acier.
+Go to Seaside Port and investigate the designated location in Meteor Crater.	ALLER au Port côtier, effectuez l'enquête à l'endroit indiqué du Cratère.
+Go to Seaside Port and investigate the designated location at Secluded Retreat.	ALLER au Port côtier, effectuez l'enquête à l'endroit indiqué de l'Ermitage.
+Go to Seaside Port and investigate the designated location on Devil's Island.	ALLER au Port côtier, effectuez une enquête à l'endroit indiqué sur l'Île du diable.
+Head to Seaside Port and investigate at the designated location at Black Sand Beach.	ALLER au Port côtier et mener l'enquête à l'endroit indiqué sur la Plage de sable noir.
+Travel to Seaside Port and destroy the pollution generator in the Mariana Settlement.	ALLER au Port côtier pour détruire le générateur de pollution de la colonie de Mariana.
+Go to Seaside Port and investigate Trail Outpost.	ALLER au Port côtier, enquête à l'Avant-poste du chemin secondaire.
+Head to Orcish Core, and deploy {1} in the designated area.	Allez à l'Usine de base des Orcs et venez DÉPLOYER {1} dans la zone désignée.
+Go to the human settlement in the north and place the Quest Item: {1}.	ALLER à la colonie humaine du nord, DÉPLOYER l'objet de Mission : {1}.
+Go to the reefs on the southern coast and pay respects at the designated location in Glory Cemetery.	Rendez-vous aux récifs de la côte sud et effectuez le rituel au lieu indiqué dans le Cimetière de la Gloire.
+Head to the Extraction Point on the Map and extract from {1} {2} time(s).	Accéder au site d'évacuation sur la Carte, évacuer {2} fois depuis {1}.
+Go to the Training Room and complete {1} Backpack Training sessions.	Allez à la Salle tactique et terminez {1} entraînements de sac.
+Go to the Hub to use a Logistics Order.	ALLER à la station pivot pour UTILISER les commandes logistiques.
+Head to the teleport beam at the center, then depart for {1}.	Allez vers le pilier de lumière de téléportation au centre et partez pour {1}.
+Go to the designated location near Anemone Island and submit {1}*{2}.	Rendez-vous à l'endroit indiqué près de l'Île des Anémones pour soumettre {2} {1}.
+Go to the Target Site and pick up the Quest Item: {1}.	Accéder au site cible et ramasser l'objet de Mission : {1}.
+Head to the Honor Cemetery and give {2}*{3} to {1}.	ALLER au Cimetière de la Gloire, donnez {3} {2} à {1}.
+Head to The Fringe Sector and investigate the designated location in the Residential Area.	ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué dans la Zone résidentielle.
+Go to The Fringe Sector and investigate the designated location in the Residential Area.	ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué dans la Zone résidentielle.
+Go to The Fringe Sector and investigate the designated location in Secondary Outpost.	ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué du Camp secondaire.
+Go to The Fringe Sector and investigate the designated location in the Market.	ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué de la Boutique.
+Go to The Fringe Sector, and conduct a location investigation at the designated point on the town overpass.	ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué sur le viaduc de la ville.
+Go to The Fringe Sector and place {1} at the designated location. (You need to prepare {1} yourself.)	ALLER au Secteur périphérique, placez {1} à l'endroit indiqué. ({1} doit être préparé par vos soins.)
+Go to The Fringe Sector and investigate the designated location in the Old Town Hall.	ALLER au Secteur périphérique et mener l'enquête à l'emplacement désigné du Vieil hôtel de ville.
+Go to The Fringe Sector and investigate the designated location next to the abandoned building at Old Lighthouse.	ALLER au Secteur périphérique, effectuer une enquête à l'emplacement désigné à côté du bâtiment abandonné du Vieux phare.
+Go to The Fringe Sector and investigate the designated location at Old Lighthouse.	ALLER au Secteur périphérique, mener l'enquête à l'emplacement désigné du Vieux phare.
+Go to The Fringe Sector and investigate the designated location in the Loading Yard.	ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué de la Zone de chargement.
+Go to The Fringe Sector, and investigate at the designated location in Loading Yard.	ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué dans la Zone de chargement.
+Go to The Fringe Sector and place {1} at the designated location at Crossroads Tower. ({1} must be prepared on your own.)	ALLER au Secteur périphérique, placez {1} à l'emplacement spécifié de la Balise d'intersection. ({1} doit être préparé par vos soins.)
+Go to The Fringe Sector and investigate the designated location at Crossroads Tower.	ALLER au Secteur périphérique, effectuer une enquête à l'emplacement spécifié de la Balise d'intersection.
+Go to The Fringe Sector and investigate the designated location at the Bar.	ALLER au Secteur périphérique, menez l'enquête à l'endroit indiqué dans le Bar.
+Go to The Fringe Sector and investigate the designated location in the Bar.	ALLER au Secteur périphérique, menez l'enquête à l'endroit indiqué dans le Bar.
+Go to The Fringe Sector and investigate the designated location in the Secondary Outpost.	Allez au Secteur périphérique et menez l'enquête à l'endroit indiqué du Camp secondaire.
+Go to The Fringe Sector and investigate the designated location in the Main Outpost.	ALLER au Secteur périphérique, effectuez une enquête à l'endroit indiqué du Camp principal Scavenger.
+Go to The Fringe Sector and view the abandoned storage inventory.	Aller au Secteur périphérique pour vérifier l'inventaire de l'Entrepôt abandonné.
+Artisan Crafting	Fait main par un artisan
+Medical Merchant reaches Lv. 10.	Marchand médical atteint le niveau 10.
+Star Upgrade CHALLENGE 1	MISSION D'ÉTOILE 1
+Star Upgrade Challenge 1/1	Mission d'ascension 1-1
+Star Upgrade Challenges 1-2	Défi de promotion 1-2
+Star Upgrade Challenge(s) 1-3	Mission d'ascension 1-3
+Star Upgrade Challenge 1-4	Mission d'éveil 1-4
+Star Upgrade Challenges 1-5	Missions de montée en étoile 1-5
+Star Upgrade Challenge 1-6	Mission de promotion d'étoile 1-6 Assaut
+Star Upgrade Challenge 1-7	Missions de montée en étoile 1-7
+Star Upgrade Challenge 2	MISSION D'ÉTOILE 2
+Star Upgrade Challenge 2-1	Missions de promotion 2-1
+Star Upgrade Challenge 2-2	Mission de promotion 2-2
+Star Upgrade Challenge 2-3	Mission de promotion 2-3
+Star Upgrade Challenge 2-4	Mission(s) de montée en étoile 2-4
+Star Upgrade Challenge(s) 2-5	Mission(s) de promotion 2-5
+Star Upgrade Challenge 2-6	Mission d'ascension 2-6
+Star Upgrade Challenge 2-7	Mission de montée en étoile 2-7
+Star Upgrade Challenge 3	Défi 3
+Star Upgrade Challenge 3-1	Mission d'Étoile 3-1
+Star Upgrade Challenge 3-2	Mission d'ascension 3-2 Forge
+Star Upgrade Challenge 3-3	Mission d'ascension d'étoile 3-3
+Star Upgrade Challenge 3-4	Missions de promotion 3-4
+Star Upgrade Challenge 3-5	Missions d'éveil 3-5
+Star Upgrade Challenge 3-6	Mission d'ascension 3-6
+Star Upgrade Challenge 3-7	Mission d'ascension 3-7
+Star Upgrade Challenge 4	Mission d'ascension 4
+Star Upgrade Challenge 4-1	Mission d'éveil 4-1 Hall
+Star Upgrade Challenge 4-2	Mission(s) de Promotion 4-2
+Star Upgrade Challenge 4-3	Mission d'ascension 4-3
+Star Upgrade Challenge 4-4	Mission d'ascension 4-4
+Star Upgrade Challenge 4-5	Mission d'ascension 4-5
+Star Upgrade Challenge 4-6	Missions de promotion 4-6
+Star Upgrade Challenge 4-7	Missions de promotion 4-7
+Sell any goods to obtain {1} coins.	Vendez n'importe quelle marchandise pour obtenir {1} pièces.
+Sell any goods to earn {1} coins.	Vendez n'importe quelle marchandise pour obtenir {1} pièces.
+Unload and leave immediately.	Déchargez et partez
+A Friendship Forged	Charme de l'amitié
+Legacy	Témoignage à travers les âges
+Submit {2}*{3} to {1}.	Soumettez {3} {2} à {1}.
+Deliver 1 Gold Material to the Merchant Scavenger	Remettez 1 Pièce dorée au marchand Le Glaneur.
+Deliver 1 Gold Material to Scholar Tiye	Remettez 1 Pièce dorée à l'Érudit Tiye
+Deliver 1 Gold Material to Devout Iside.	Livrer 1 Pièce dorée à Dévote Iside
+Deliver 1 Gold Material to Serket, Master of Deserts	Livrez 1 Pièce dorée à Serket, maître des sables
+Talk to Medical Merchant: Pathojen.	Parlez avec le Marchand médical : Pathojen.
+Talk to General Goods Merchant: Old Joe.	Parlez à l'Épicier : Vieux Joe.
+Talk to Weapon Merchant: Hollowpoint.	Parlez au Marchand d’armes : Hollowpoint.
+Talk to Equipment Merchant: Broker.	Parler à Marchand d’équipement : Broker.
+The Disaster of Harmony Town	La catastrophe de Ville fantôme
+The Disaster of Harmony Town	La catastrophe de la Ville fantôme
+Talk to Vehicle Merchant: Nitro.	Parler au Marchand de véhicules : NITRO.
+Old Joe: Chamber of Commerce Invitation	Invitation de la chambre de commerce
+Loot any {2} containers at {1}.	Fouillez {2} conteneurs dans {1}.
+Loot any {2} containers on {1}.	Fouillez {2} conteneurs à {1}.
+Loot any {2} containers at {1}.	Fouillez {2} conteneurs à {1}.
+Kill 1 Elite enemy with melee attacks.	ÉLIMINEZ 2 monstres Élite au corps à corps uniquement au Port côtier
+Complete 3 orders in Golden Dunes cumulatively.	Complétez 2 commande(s) avec un véhicule au Port côtier.
+Complete 4 orders in total in Golden Dunes.	Effectuer 3 livraisons en utilisant un véhicule au Port côtier
+Kill 10 Common Murlocs	Éliminez 5 monstres à Port côtier.
+Complete 1 order in Seaside Port cumulatively.	Compléter 1 commande d'une valeur > 4 millions au Port côtier
+Kill 1 enemy player with each of three different weapon types.	Effectuer 1 commande d'un poids ≥ 30 kg au Port côtier
+Complete 3 orders in total at Seaside Port.	Compléter 3 commandes au Port côtier
+Complete 4 orders in total at Seaside Port.	Complétez 4 commande(s) sur la carte Port côtier
+Extraction Successful 1 time	Effectuer une commande d'un poids ≥ 100 kg au Port côtier
+Complete 1 order weighing no less than 100 kg in Golden Dunes.	
+Complete 1 order with a weight of no less than 50 KG in Seaside Port cumulatively.	Terminer des commandes de poids ≥ 50 kg au Port côtier
+Complete 3 orders in Golden Dunes with a weight of at least 50 kg.	
+Complete 1 order worth no less than 4,000,000 in Golden Dunes.	
+Complete 5 orders in total at Seaside Port.	Terminez 5 commandes au total au Port côtier.
+Investigate the Outcast Mystery Clue 01	Enquêter sur deux indices existants au Port côtier
+Investigate the Outcast Mystery Clue 02	Enquêter sur deux indices au Port côtier
+Craft {1}*{2} at the Medkit Station.	Fabriquer {2} {1} au poste de secours.
+Search any {2} containers on the Map.	Cherchez {2} conteneurs sur n'importe quelle Carte.
+Pick up the Quest Item at the Loading Yard: {1}.	Ramasser l'objet de Mission dans la Zone de chargement : {1}.
+Kill 8 Sentries in The Fringe Sector	Élimination de 3 Agents de sécurité Kepler dans le Secteur périphérique, à terminer en une seule partie.
+Complete 1 order in The Fringe Sector.	Complétez 1 commande dans le Secteur périphérique.
+Complete 1 order weighing no less than 30 kg in The Fringe Sector.	Complétez 1 commande d'un poids ≥ 30 kg dans le Secteur périphérique.
+Complete 2 orders in The Fringe Sector.	Terminez 2 commande(s) sur la carte Secteur périphérique.
+Complete 3 orders in The Fringe Sector.	Complétez 3 commandes dans le Secteur périphérique.
+Kill 3 enemy players with Rusty Revolver.	Effectuer une commande d'un poids ≥ 100 kg dans le Secteur périphérique
+Complete 1 order in The Fringe Sector with an order value of no less than 2,000,000.	Complétez des commandes d'une valeur ≥ 100 dix mille dans le Secteur périphérique
+Search 8 containers in The Fringe Sector.	Rechercher 5 conteneurs dans le Secteur périphérique
+Search 5 containers in The Fringe Sector.	recherche : 5 conteneurs dans le Secteur périphérique
+Complete 1 order worth no less than 4,000,000 in Golden Dunes.	Compléter 1 commande d'une valeur non inférieure à 4 000 000 dans la Terre des sables.
+Complete 1 order in Golden Dunes.	Complétez 1 commande sur Terre des sables.
+Complete 3 orders in Golden Dunes.	Effectuer 3 commandes dans la Terre des sables
+Complete 3 orders in Golden Dunes, including 1 high-value order.	Complétez 3 commandes dans la Terre des sables, dont 1 commande de haute valeur.
+Hold the Line	Défense de la ligne de front
+Cemetery Chronicles	Chroniques du cimetière
+Combat Supplies	Fournitures de préparation
+Perimeter Exploration	Exploration périphérique
+Night Delivery	Livraison de navigation de nuit
+Broker: Major Investor	Investisseur majeur
+Encounters of a Third Kind	Visiteur d'ailleurs
+Viral!	Extrêmement positif
+Viral!	Plébiscité par la critique
+Enchanting Anemone	Anémone séduisante
+Island Survey	Cartographie de l'île isolée
+Watchtower Lighthouse	Phare de la Sentinelle
+Safety First	La sécurité avant tout
+Facility Upgrades	Améliorer la couverture
+Kill 2 enemy players	Terminez 1 commande d'un poids ≥ 50 kg
+Complete 20 orders	Complétez 20 commandes.
+Complete 3 orders	Complétez 3 commandes
+Complete 40 orders	À obtenir après avoir terminé 40 commandes
+Complete 80 orders	Terminer 80 commandes
+Complete {1} orders	Complétez {1} commande(s)
+Complete {2} orders with package value > {1}.	Complétez {2} commandes d'une valeur de colis >{1}.
+Complete orders with {2} packages whose package weight > {1}kg.	Terminez {2} commandes avec un poids de colis > {1} kg.
+Complete {2} orders with package weight > {1}kg.	Terminez {2} commandes avec un poids de colis > {1} kg.
+Complete any {1} orders.	Complétez {1} commandes au choix.
+Complete any {1} orders.	Complétez n'importe quels {1} commandes.
+Broker: All That Glitters	Demande de saphirs
+Broker: All That Glitters	Besoin en saphirs
+Submit 5 Stellar Carbon to Serket	
+Repair any {2} items that are not at full perfection to {1}% perfection.	Répare {2} articles dont la PRÉFECTION n'est pas au maximum à {1}% de PRÉFECTION.
+Repair any {2} items that are not at full perfection to {1}% perfection.	Réparez {2} articles dont la PRÉFECTION n'est pas au maximum jusqu'à {1} % de PRÉFECTION.
+Submit {2}*{3} to {1}.	Donnez {3} {2} à {1}.
+Submit {2}*{3} to {1}.	Confiez {3} {2} à la garde de {1}.
+Modest Savings 1	Petites économies-1
+Modest Savings 2	Petites économies-2
+Modest Savings 3	Petites économies-3
+Modest Savings 4	Petites économies-4
+Modest Savings 4	Quelques économies-4
+Modest Savings 5	Petites économies-5
+Local Materials	Utiliser les ressources locales
+Locally Sourced	Utiliser les ressources locales
+Factory Supplies	Fournitures d'usine
+Colossal Beast Bones	Les ossements de la grande bête
+Colossal Beast Bones	Ossements des grandes bêtes
+Mysterious Boulder	Mème de monolithe
+Mysterious Boulder	Mème de mégalithe
+Extract 1 Rare or higher item	Ramenez 3 objets de qualité épique B ou supérieure
+Fighting Side-by-Side	Combattre côte à côte
+The Surviving Miner	Mineur survécu
+Old Joe: Inventory Check	Inventaire des stocks EN VENTE
+Old Joe: Inventory Check	Inventaire de stock
+Kepler's Cleanup	Nettoyage de Kepler
+Enemy of the Chelae	Ennemi des Parias
+Chelae Settlement	Refuge des Parias
+Evidence of the Chelae	Preuve des Chelae
+Evidence of the Chelae	Preuves des Chelae
+Chelae Relic	Relique des Chelae
+Days Gone	Days Gone
+Days Gone	Jours passés
+Echoes of the Past	Échos du passé
+The Past	Autrefois
+Dragon's Nest	Repaire du dragon furieux
+Mad Dragon Mystery	Mystère du Dragon Furieux
+Reach {1} total coins.	Le total des pièces atteint {1}.
+Reach {1} total coins.	Pièces totales atteintes : {1}.
+Reach {1} total coins.	Total des pièces atteint {1}.
+Kill 3 Elite enemies with melee attacks.	
+Recovery Training 1	Regain la formation-1
+Recovery Training 2	REPRENDRE L'ENTRAÎNEMENT-2
+Recovery Training 2	ENTRAÎNEMENT Regain-2
+Recovery Training 3	REGAIN L'ENTRAÎNEMENT-3
+Recovery Training 3	REGAIN D'ENTRAÎNEMENT-3
+Recovery Training 4	Entraînement Regain -4
+Recovery Training 4	Regain d'entraînement -4
+Recovery Training 4	Entraînement de Regain -4
+Seaside Port: Harsh Conditions	Environnement hostile - Port côtier
+Bounty: Orc Grunt 1	Prime : Grognard orc-1
+Bounty: Orc Grunt 2	Prime : Grognard orc-2
+Bounty: Orc Grunt 3	Prime : Grognard orc-3
+Bounty: Orc Grunt 4	Prime : Grognard orc-4
+Bounty: Orc Grunt 5	Prime : Grognard orc-5
+Bounty: Orc Grunt 6	Prime : Grognard orc-6
+Bounty: Orc Cannoneer 1	Prime : Canonnier orc-1
+Bounty: Orc Cannoneer 2	Prime : Canonnier orc-2
+Bounty: Orc Cannoneer 3	Prime : Canonnier orc-3
+Bounty: Orc Cannoneer 4	Prime : Canonnier orc-4
+Bounty: Orc Cannoneer 5	Prime : Canonnier orc-5
+Bounty: Orc Cannoneer 6	Prime : Canonnier orc-6
+Bounty: Orc Centurion 1	Prime : Centurion orc-1
+Bounty: Orc Centurion 2	Prime: Centurion orc-2
+Bounty: Orc Centurion 3	Prime : Centurion orc-3
+Bounty: Orc Centurion 4	Prime : Centurion orc-4
+Bounty: Orc Centurion 5	Prime : Centurion orc-5
+Bounty: Orc Centurion 6	Prime : Centurion orc-6
+Bounty: Orc Shieldbearer 1	Prime : Porteur de bouclier orc-1
+Bounty: Orc Shieldbearer 2	Prime : Porteur de bouclier orc-2
+Bounty: Orc Shieldbearer 3	Prime : Porteur de bouclier orc-3
+Bounty: Orc Shieldbearer 4	Prime : Porteur de bouclier orc-4
+Bounty: Orc Shieldbearer 5	Prime : Porteur de bouclier orc-5
+Bounty: Orc Shieldbearer 6	Prime : Porteur de bouclier orc-6
+Bounty: Mutated Kepler Researcher 1	Prime : Chercheur Kepler muté-1
+Bounty: Mutated Kepler Researcher 2	Prime : Chercheur Kepler muté-2
+Bounty: Mutated Kepler Researcher 3	Prime : Chercheur Kepler muté-3
+Bounty: Mutated Kepler Researcher 4	Prime : Chercheur Kepler muté-4
+Bounty: Mutated Kepler Researcher 5	Prime : Chercheur Kepler muté-5
+Bounty: Mutated Kepler Researcher 6	Prime : Chercheur Kepler muté-6
+Bounty: Mutant Wolf 1	Prime : Loup mutant-1
+Bounty: Mutant Wolf 2	Prime : Loup mutant-2
+Bounty: Mutant Wolf 3	Prime : Loup mutant-3
+Bounty: Mutant Wolf 4	Prime : Loup mutant-4
+Bounty: Mutant Wolf 5	Prime : Loup mutant-5
+Bounty: Mutant Wolf 6	Prime : Loup mutant-6
+Bounty: Sentry 1	Prime : Sentinelle-1
+Bounty: Sentry 2	Prime : Sentinelle-2
+Bounty: Sentry 3	Prime : Sentinelle-3
+Bounty: Sentry 4	Prime : Sentinelle-4
+Bounty: Sentry 5	Prime : Sentinelle-5
+Bounty: Sentry 6	Prime : Sentinelle-6
+Bounty: Night Market Chef 1	Prime : Chef du marché nocturne-1
+Bounty: Night Market Chef 2	Prime : Chef du marché nocturne-2
+Bounty: Night Market Chef 3	Prime : Chef du marché nocturne-3
+Bounty: Night Market Chef 4	Prime : Chef du marché nocturne-4
+Bounty: Night Market Chef 5	Prime : Chef du marché nocturne-5
+Bounty: Night Market Chef 6	Prime : Chef du marché nocturne-6
+Bounty: Skyhook 1	Prime : Croche-ciel-1
+Bounty: Skyhook 2	Prime : Skyhook-2
+Bounty: Skyhook 3	Prime : Skyhook-3
+Bounty: Skyhook 4	Prime : Skyhook'-4
+Bounty: Skyhook 5	Prime : Skyhook-5
+Bounty: Skyhook 6	Prime : Skyhook-6
+Bounty: Guardian 1	Prime : Gardien-1
+Bounty: Guardian 2	Prime : Gardien-2
+Bounty: Guardian 3	Prime : Gardien-3
+Bounty: Guardian 4	Prime : Gardien-4
+Bounty: Guardian 5	Prime : Gardien-5
+Bounty: Guardian 6	Prime: Gardien-6
+Bounty: Wasteland Pup 1	Prime : Chiot des Terres Désolées-1
+Bounty: Wasteland Pup 2	Prime : Chiot des Terres Désolées-2
+Bounty: Wasteland Pup 3	Prime : Chiot des Terres Désolées-3
+Bounty: Wasteland Pup 4	Prime : Chiot des Terres Désolées-4
+Bounty: Wasteland Pup 5	Prime : Chiot des Terres Désolées-5
+Bounty: Wasteland Dog King 1	Prime : Roi des chiens errants-1
+Bounty: Wasteland Dog King 2	Prime : Roi des chiens errants-2
+Bounty: Wasteland Dog King 3	Prime : Roi des chiens errants-3
+Bounty: Wasteland Dog King 4	Prime : Roi des chiens errants-4
+Bounty: Wasteland Dog King 5	Prime : Roi des chiens errants-5
+Bounty: Wasteland Dog 1	Prime : Chien des Terres Désolées-1
+Bounty: Wasteland Dog 2	Prime : Chien des Terres Désolées-2
+Bounty: Wasteland Dog 3	Prime : Chien des Terres Désolées-3
+Bounty: Wasteland Dog 4	Prime : Chien des Terres Désolées-4
+Bounty: Wasteland Dog 5	Prime : Chien des Terres Désolées-5
+Bounty: Wasteland Dog 6	Prime : Chien des Terres Désolées-6
+Bounty: Kepler Security Officer 1	Prime : Agent de sécurité Kepler-1
+Bounty: Kepler Security Officer 2	Prime : Agent de sécurité Kepler-2
+Bounty: Kepler Security Officer 3	Prime : Agent de sécurité Kepler-3
+Bounty: Kepler Security Officer 4	Prime : Agent de sécurité Kepler-4
+Bounty: Kepler Security Officer 5	Prime : Agent de sécurité Kepler-5
+Bounty: Kepler Security Officer 6	Prime : Agent de sécurité Kepler-6
+Bounty: Kepler Security Captain 1	Prime : Capitaine Kepler-1
+Bounty: Kepler Security Captain 2	Prime : Capitaine Kepler-2
+Bounty: Kepler Security Captain 3	Prime : Capitaine Kepler-3
+Bounty: Kepler Security Captain 4	Prime : Capitaine Kepler-4
+Bounty: Kepler Security Captain 5	Prime : Capitaine Kepler-5
+Bounty: Kepler Security Captain 6	Prime : Capitaine Kepler-6
+Bounty: Kepler Researcher 1	Prime : Chercheur Kepler-1
+Bounty: Kepler Researcher 2	Prime : Chercheur Kepler-2
+Bounty: Kepler Researcher 3	Prime : Chercheur Kepler-3
+Bounty: Kepler Researcher 4	Prime : Chercheur Kepler-4
+Bounty: Kepler Researcher 5	Prime : Chercheur Kepler-5
+Bounty: Chelae Infantry 1	Prime : Fantassin Chelae-1
+Bounty: Chelae Infantry 2	Prime : Fantassin Chelae-2
+Bounty: Chelae Infantry 3	Prime : Fantassin Chelae-3
+Bounty: Chelae Infantry 4	Prime : Fantassin Chelae-4
+Bounty: Chelae Infantry 5	Prime : Fantassin Chelae-5
+Bounty: Chelae Infantry 6	Prime : Fantassin Chelae-6
+Bounty: Chelae Marksman 1	Prime : Tireur d’élite Chelae-1
+Bounty: Chelae Marksman 2	Prime : Tireur d’élite Chelae-2
+Bounty: Chelae Marksman 3	Prime : Tireur d’élite Chelae-3
+Bounty: Chelae Marksman 4	Prime : Tireur d’élite Chelae-4
+Bounty: Chelae Marksman 5	Prime : Tireur d’élite Chelae-5
+Bounty: Chelae Marksman 6	Prime : Tireur d’élite Chelae-6
+Bounty: Chelae Tank 1	Prime : Bouclier Chelae-1
+Bounty: Chelae Tank 2	Prime : Bouclier Chelae-2
+Bounty: Chelae Tank 3	Prime : Bouclier Chelae-3
+Bounty: Chelae Tank 4	Prime : Bouclier Chelae-4
+Bounty: Chelae Tank 5	Prime : Bouclier Chelae-5
+Bounty: Chelae Tank 6	Prime : Bouclier Chelae-6
+Bounty: Chelae Broodmother 1	Prime : Mère couvée Chelae-1
+Bounty: Chelae Broodmother 2	Prime : Mère couvée Chelae-2
+Bounty: Chelae Broodmother 3	Prime : Mère couvée Chelae-3
+Bounty: Chelae Broodmother 4	Prime : Mère couvée Chelae-4
+Bounty: Chelae Broodmother 5	Prime : Mère couvée Chelae-5
+Bounty: Chelae Broodmother 6	Prime : Mère couvée Chelae-6
+Bounty: Mad Dragon Captain 1	Prime : Capitaine du Dragon Fou-1
+Bounty: Mad Dragon Captain 2	Prime : Capitaine du Dragon Fou-2
+Bounty: Mad Dragon Captain 3	Prime : Capitaine du Dragon Fou-3
+Bounty: Mad Dragon Captain 4	Prime : Capitaine du Dragon Fou-4
+Bounty: Mad Dragon Captain 5	Prime : Capitaine du Dragon Fou-5
+Bounty: Mad Dragon Captain 6	Prime : Capitaine du Dragon Fou-6
+Bounty: Mad Dragon Training Dummy 1	Prime : Mannequin du Dragon Fou-1
+Bounty: Mad Dragon Training Dummy 2	Prime : Mannequin du Dragon Fou-2
+Bounty: Mad Dragon Training Dummy 3	Prime : Mannequin du Dragon Fou-3
+Bounty: Mad Dragon Training Dummy 4	Prime : Mannequin du Dragon Fou-4
+Bounty: Mad Dragon Training Dummy 5	Prime : Mannequin du Dragon Fou-5
+Bounty: Mad Dragon Martial Artist 1	Prime : Guerrier du Dragon Fou-1
+Bounty: Mad Dragon Martial Artist 2	Prime : Guerrier du Dragon Fou-2
+Bounty: Mad Dragon Martial Artist 3	Prime : Guerrier du Dragon Fou-3
+Bounty: Mad Dragon Martial Artist 4	Prime : Guerrier du Dragon Fou-4
+Bounty: Mad Dragon Martial Artist 5	Prime : Guerrier du Dragon Fou-5
+Bounty: Mad Dragon Martial Artist 6	Prime : Guerrier du Dragon Fou-6
+Bounty: Mad Dragon Knife Thrower 1	Prime : Lanceur de couteaux-1
+Bounty: Mad Dragon Knife Thrower 2	Prime : Lanceur de couteaux-2
+Bounty: Mad Dragon Knife Thrower 3	Prime : Lanceur de couteaux-3
+Bounty: Mad Dragon Knife Thrower 4	Prime : Lanceur de couteaux-4
+Bounty: Mad Dragon Knife Thrower 5	Prime : Lanceur de couteaux-5
+Bounty: Mad Dragon Knife Thrower 6	Prime : Lanceur de couteaux-6
+Bounty: Scavenger Marauder 1	Prime : Charognard maraudeur-1
+Bounty: Scavenger Marauder 2	Prime : Charognard maraudeur-2
+Bounty: Scavenger Marauder 3	Prime : Charognard maraudeur-3
+Bounty: Scavenger Marauder 4	Prime : Charognard maraudeur-4
+Bounty: Scavenger Marauder 5	Prime : Charognard maraudeur-5
+Bounty: Scavenger Marauder 6	Prime : Charognard maraudeur-6
+Bounty: Scavenger Butcher 1	Prime : Charognard cogneur-1
+Bounty: Scavenger Butcher 2	Prime : Charognard cogneur-2
+Bounty: Scavenger Butcher 3	Prime : Charognard cogneur-3
+Bounty: Scavenger Butcher 4	Prime : Charognard cogneur-4
+Bounty: Scavenger Butcher 5	Prime : Charognard cogneur - 5
+Bounty: Scavenger Butcher 5	Prime : Charognard cogneur-5
+Bounty: Scavenger Butcher 6	Prime : Charognard cogneur-6
+Bounty: Scavenger Brawler 1	Prime : Charognard à bouclier-1
+Bounty: Scavenger Brawler 2	Prime : Charognard à bouclier-2
+Bounty: Scavenger Brawler 3	Prime : Charognard à bouclier-3
+Bounty: Scavenger Brawler 4	Prime : Charognard à bouclier-4
+Bounty: Scavenger Brawler 5	Prime : Charognard à bouclier-5
+Bounty: Killer Crab 1	Prime : Crabe féroce-1
+Bounty: Killer Crab 2	Prime : Crabe féroce-2
+Bounty: Killer Crab 3	Prime : Crabe féroce-3
+Bounty: Killer Crab 4	Prime : Crabe féroce-4
+Bounty: Killer Crab 5	Prime : Crabe féroce-5
+Bounty: Sweeper 1	Prime : Nettoyeur-1
+Bounty: Sweeper 2	Prime : Nettoyeur-2
+Bounty: Sweeper 3	Prime : Nettoyeur-3
+Bounty: Sweeper 4	Prime : Nettoyeur-4
+Bounty: Sweeper 5	Prime : Nettoyeur-5
+Bounty: Sweeper 6	Prime : Nettoyeur-6
+Bounty: Scavenger Blaster 1	Prime : Charognard artilleur-1
+Bounty: Scavenger Blaster 2	Prime : Charognard artilleur-2
+Bounty: Scavenger Blaster 3	Prime : Charognard artilleur-3
+Bounty: Scavenger Blaster 4	Prime : Charognard artilleur-4
+Bounty: Scavenger Blaster 5	Prime : Charognard artilleur-5
+Bounty: Scavenger Blaster 6	Prime : Charognard artilleur-6
+Bounty: Thermal Leaker 1	Prime : Fuiteur thermique-1
+Bounty: Thermal Leaker 2	Prime : Fuiteur thermique-2
+Bounty: Thermal Leaker 3	Prime : Fuiteur thermique-3
+Bounty: Thermal Leaker 4	Prime : Fuiteur thermique-4
+Bounty: Thermal Leaker 5	Prime : Fuiteur thermique-5
+Bounty: Thermal Leaker 6	Prime : Fuiteur thermique-6
+Bounty: Cacharo Enforcer 1	Prime : Exécuteur requin blanc-1
+Bounty: Cacharo Enforcer 2	Prime : Exécuteur requin blanc-2
+Bounty: Cacharo Enforcer 3	Prime : Exécuteur requin blanc-3
+Bounty: Cacharo Enforcer 4	Prime : Exécuteur requin blanc-4
+Bounty: Cacharo Enforcer 5	Prime : Exécuteur requin blanc-5
+Bounty: Cacharo Enforcer 6	Prime : Exécuteur requin blanc-6
+Bounty: Bomber 1	Prime : Bombardier-1
+Bounty: Bomber 2	Prime : Bombardier-2
+Bounty: Bomber 3	Prime : Bombardier-3
+Bounty: Bomber 4	Prime : Bombardier-4
+Bounty: Bomber 5	Prime : Bombardier-5
+Bounty: Bomber 6	Prime : Bombardier-6
+Bounty: Siren 1	Prime : Sirène-1
+Bounty: Siren 2	Prime: Sirène-2
+Bounty: Siren 3	Prime : Sirène-3
+Bounty: Siren 4	Prime : Sirène-4
+Bounty: Siren 5	Prime : Sirène-5
+Bounty: Siren 6	Prime : Sirène-6
+Bounty: Swift Leopard King 1	Prime : Roi Léopard rapide-1
+Bounty: Swift Leopard King 2	Prime : Roi Léopard rapide-2
+Bounty: Swift Leopard King 2	Prime : Roi des Léopard rapides-2
+Bounty: Swift Leopard King 3	Prime : Roi Léopard rapide-3
+Bounty: Swift Leopard King 4	Prime : Roi Léopard rapide-4
+Bounty: Swift Leopard King 5	Prime : Roi Léopard rapide-5
+Bounty: Anvil 1	Prime : Enclume-1
+Bounty: Anvil 2	Prime : Enclume-2
+Bounty: Anvil 3	Prime : Enclume-3
+Bounty: Anvil 4	Prime : Enclume-4
+Bounty: Anvil 5	Prime : Enclume-5
+Bounty: Anvil 6	Prime : Enclume-6
+Bounty: Rusted Rat 1	Prime : Rat rouillé-1
+Bounty: Rusted Rat 2	Prime : Rat rouillé-2
+Bounty: Rusted Rat 3	Prime : Rat rouillé-3
+Bounty: Rusted Rat 4	Prime : Rat rouillé-4
+Bounty: Rusted Rat 5	Prime : Rat rouillé-5
+Bounty: Rusted Rat 6	Prime : Rat rouillé-6
+Bounty: Snowblind Stalker 1	Prime : Traqueur des neiges-1
+Bounty: Snowblind Stalker 2	Prime : Traqueur des neiges-2
+Bounty: Snowblind Stalker 3	Prime : Traqueur des neiges-3
+Bounty: Snowblind Stalker 4	Prime : Traqueur des neiges-4
+Bounty: Snowblind Stalker 5	Prime : Traqueur des neiges-5
+Bounty: Snowblind Stalker 6	Prime : Traqueur des neiges-6
+Bounty: Skeletal Bear King 1	Prime : Roi ours zombie-1
+Bounty: Skeletal Bear King 2	Prime : Roi ours zombie-2
+Bounty: Skeletal Bear King 3	Prime : Roi ours zombie-3
+Bounty: Skeletal Bear King 4	Prime : Roi ours zombie-4
+Bounty: Skeletal Bear King 5	Prime : Roi ours zombie-5
+Bounty: Skeletal Bear King 6	Prime : Roi ours zombie-6
+Bounty: Mariana Scout 1	Prime : Éclaireur de Mariana-1
+Bounty: Mariana Scout 2	Prime : Éclaireur de Mariana-2
+Bounty: Mariana Scout 3	Prime : Éclaireur de Mariana-3
+Bounty: Mariana Scout 4	Prime : Éclaireur de Mariana-4
+Bounty: Mariana Scout 5	Prime : Éclaireur de Mariana-5
+Bounty: Mariana Scout 6	Prime : Éclaireur de Mariana-6
+Bounty: Mariana Gunslinger 1	Prime : Tireur de Mariana-1
+Bounty: Mariana Gunslinger 2	Prime : Tireur de Mariana-2
+Bounty: Mariana Gunslinger 3	Prime : Tireur de Mariana-3
+Bounty: Mariana Gunslinger 4	Prime : Tireur de Mariana-4
+Bounty: Mariana Gunslinger 5	Prime : Tireur de Mariana-5
+Bounty: Mariana Gunslinger 6	Prime : Tireur de Mariana-6
+Bounty: Mariana Guard 1	Prime : Garde de Mariana-1
+Bounty: Mariana Guard 2	Prime : Garde de Mariana-2
+Bounty: Mariana Guard 3	Prime : Garde de Mariana-3
+Bounty: Mariana Guard 4	Prime : Garde de Mariana-4
+Bounty: Mariana Guard 5	Prime : Garde de Mariana-5
+Bounty: Mariana Guard 6	Prime : Garde de Mariana-6
+Intelligence Relay	Relais d'informations
+Successfully extract from {1} Map {2} time(s).	Évacuez avec succès {2} fois de la carte {1}.
+Extraction from {1} successful.	Évacuation réussie de {1}.
+Extraction Successful from The Fringe Sector	Évacuation réussie du Secteur périphérique
+Search 3 containers in The Fringe Sector.	Évacuation réussie du Secteur périphérique
+Deliver 1 Gold Material to Harvester Mogrim	
+Extract 1 time	
+Extraction Successful 3 times	3 évacuations réussies
+War Drums	Rythme de guerre
+Seaside Port: Special Combat Training	Entraînement spécial de combat - Port côtier
+Training Room reaches Lv.5	Salle tactique atteint le Niveau 5
+Survivalist	Triompher de la Verdure
+Pizza Ingredients	Ingrédients de la pizza
+Please, Nitro!	S'il te plaît, NITRO !
+Finding Clues	Rassembler les indices
+Pick up Quest Item: {1}.	Ramassez l'objet de Mission : {1}.
+Pick up the Quest Item: {1}.	Ramassez l'objet de Mission : {1}.
+Scavenger Scourge	Ennemi de Scavenger Imp
+Scavenger Scourge	Ennemi du Scavenger
+Hidden Clue	Ligne de contact furtive
+Hidden Clue	Contact d'infiltration
+Submit {1}*{2}.	Soumettre {2} {1}.
+Submit {1}*{2}.	Soumettez {2} {1}.
+Loot containers 30 times	Fouiller des conteneurs 30 fois
+Seaside Port Search	Piller Akhet
+Carry {2}*{3} into {1}.	Entrez dans {1} avec {3} {2}.
+Carry the Quest Item: {1}, and safely extract from the Map.	Portez l'objet de Mission : {1}, évacuez la Carte en toute sécurité.
+Carry the Quest Item: {1}, and safely extract from the Map.	Porter l'objet de Mission : {1}, évacuer la Carte en toute sécurité.
+Carry Quest Item: {1}, and safely extract from the Map.	Porter l'objet de Mission : {1}, évacuer la Carte en toute sécurité.
+Carry the Quest Item: {1} and safely extract from the Map.	Évacuer la Carte en toute sécurité avec l'objet de Mission : {1}.
+Carry the Quest Item: {1}, and safely extract from the Map.	Évacuer la Carte en toute sécurité avec l'objet de Mission : {1}.
+Carry the Quest Item: {1} and safely extract from the Map.	Portez l'objet de Mission : {1}, et évacuez la Carte en toute sécurité.
+Enter {1} with a vehicle {2} time(s).	Entrez dans {1} avec un véhicule {2} fois.
+Carry any {2} items with Rarity of {1} or above when extracting.	Extraire avec n'importe quels {2} objets de RARETÉ {1} ou plus.
+Enter Golden Dunes once.	
+Climbing Practice 1	Grimper Retest-1
+Climbing Practice 2	Pratique du grimper-2
+Climbing Practice 2	Pratique de grimpe-2
+Climbing Practice 3	Pratique des compétences de grimpe-3
+Climbing Practice 3	Pratique des compétences de grimper-3
+A big order delivered to your door	Quête secondaire 1-1-1
+Big Order Delivery: Complete high-value orders in The Fringe Sector.	Quête secondaire 1-1-1 : Terminez des commandes d'une valeur ≥ 100 dix mille dans le Secteur périphérique et évacuez avec succès.
+Double Pair Single Card	Quête secondaire 1-1-2
+Double-Link Single: Complete orders cumulatively in The Fringe Sector.	Quête secondaire 1-1-2 : Terminez 2 commandes dans le Secteur périphérique et évacuez avec succès.
+Loot and go.	Quête secondaire 1-1-3
+Loot and leave: Evacuate after searching the container.	Quête secondaire 1-1-3 : Fouillez 5 conteneurs dans le Secteur périphérique et évacuez avec succès.
+Ironman Triathlon	Quête secondaire 1-2-1
+Iron Triathlon: Complete Combat and Search, and finish the Order Challenge in The Fringe Sector.	Quête secondaire 1-2-1 : Terminez 1 commande d'un poids ≥ 50 kg et évacuez avec succès.
+Unpackaged Delivery	Quête secondaire 1-3-1
+Unarmed Delivery: Enter The Fringe Sector empty-handed and then extract.	Quête secondaire 1-3-1 : Équipez l'ensemble de prisonnier (plastron, pantalon, chaussures), entrez dans le Secteur périphérique et évacuez avec succès.
+Unarmed Melee Kill	Quête secondaire 1-4-1
+Unarmed Melee: Use Melee Weapons to Kill monsters.	Quête secondaire 1-4-1 : Éliminez 2 monstres en utilisant uniquement des armes de mêlée et évacuez avec succès.
+One shot to the end	Quête secondaire 1-5-1
+One Shot to the End: Kill an enemy player using the Rusty Revolver and extract.	Quête secondaire 1-5-1 : Vaincre 1 joueur avec l'arme spécifiée (Discipline) et s'extraire avec succès.
+Desert Relic Triple kill	Quête secondaire 2-1-1
+Desert Triple Kill: Complete 3 orders in total in Golden Dunes.	Quête secondaire 2-1-1 : Effectuez 2 commandes en une seule fois avec un véhicule à Port côtier et évacuez avec succès.
+Crossing the No-Man's Land	Quête secondaire 2-1-2
+Wasteland Crossing: Complete 4 orders in total in Golden Dunes.	Quête secondaire 2-1-2 : Effectuez 3 livraisons en une seule fois avec un véhicule à Port côtier et évacuez avec succès.
+Heavy Load Duel	Quête secondaire 2-2-1
+Overloaded Duel: In Seaside Port, cumulatively complete 1 order with a weight of no less than 50 KG, and cumulatively get 1 Melee Kills on an Elite monster; the two conditions can be completed separately.	Quête secondaire 2-2-1 : Terminez une commande de poids ≥ 50 kg à Port côtier et effectuez une Élimination sur un joueur.
+Earn and get bonuses	Quête secondaire 2-3-1
+Profit and Bonus: In Seaside Port, complete 1 order in total, obtain 1 Rare or higher item, and achieve Extraction Successful 1 time; the conditions can be completed separately, not necessarily in the same match, and you are not required to be carrying a Rare item when extracting.	Quête secondaire 2-3-1 : Terminez 1 commande d'une valeur > 400w au Port côtier et rapportez 3 objets de qualité epicB ou supérieure.
+One slash, one kill	Quête secondaire 2-4-1
+One Slash, One Kill: Get 1 Elite kill with melee attacks.	Quête secondaire 2-4-1 : Au Port côtier, effectuez 2 ÉLIMINATIONS au corps à corps sur des monstres d'Élite uniquement, et terminez une commande d'un poids > 50 kg.
+Weapon-Switching Build	Quête secondaire 2-5-1
+Weapon Swap Build: Use three different weapon types to Kill 1 enemy player with each.	Quête secondaire 2-5-1 : À Port côtier, terminez au cours d'une même partie 1 commande d'un poids ≥ 30 kg et 1 commande d'un poids ≥ 50 kg.
+The Dignity of the Pistol	Quête secondaire 2-5-2
+Pistol Dignity: Kill 3 enemy players using the Rusty Revolver and achieve Extraction Successful once each; the two conditions are not guaranteed to be completed in the same match.	Quête secondaire 2-5-2 : Terminez une commande d'un poids ≥ 100 kg respectivement dans le Port côtier et le Secteur périphérique, et réussissez l'évacuation en cours de route.
+What is it with this order?	
+Complete 1 overweight Order in Golden Dunes (Order weight >= 150 KG).	
+Unload and leave immediately.	
+HARVEST List	
+Extract 5 Rare or higher-quality items from Golden Dunes and achieve Extraction Successful.	
+CLOSE-QUARTER ESCORT	
+Kill monsters in melee and complete 1 order in Golden Dunes.	
+Point-Blank Shotgun	
+Kill 3 enemy players with Meat Maker within 10 meters.	
+Subdue the enemy without fighting.	
+Complete 2 orders in Golden Dunes and extract from Golden Dunes.	
+Pay to clear the way	
+Spend 3000000HL Gold and evacuate from Golden Dunes.	
+Eco Gathering	
+Search 5 containers in Golden Dunes, and complete 1 order in Golden Dunes.	
+Collector - Reserves	
+Deliver 10 Gold Material to the designated NPC.	
+Collector: Fortune	
+Collector: Parts	
+Deliver 1 Gold Material to each of the 8 designated NPCs.	
+Collector's Edition	
+Deliver 3 Gold Material to the designated NPC.	
+Collector - Storage	
+Deliver 100 Gold Material to the designated NPC.	
+Final Relay Race	
+Complete 2 orders in Golden Dunes, Kill 1 Elite monster, and extract once.	
+Empty-Handed Delivery	
+Enter any Map empty-handed, and complete 1 order in Golden Dunes.	
+Clearance Deliver	
+After submitting 5 items from each of the 5 categories to Serket, extract.	
+Strong enemy under the blade	
+Boxing Ring	
+Kill 5 enemy players with melee attacks and extract once.	
+Finish the Job	Refermer le filet
+Harvest thanks from {2} players.	Obtenez le Merci de {2} joueurs.
+Collector: Parts	Le Collectionneur · Pièces
+Revive teammates {1} times.	REVIVRE {1} COÉQUIPIERS.
+Heal the Wounded	Secourisme
+Raring to Go	PRÊT À COMMENCER
+Back in Action	RETOUR AU MATCH
+Silent Accusations	Accusation silencieuse
+Old Traces	Suivi de l'ancienne station
+Upgrade the Fabrication Station to Lv.3	Améliorer l'établi de fabrication au Niveau 3
+Grocery Store level reached level 5	Élevez l'Épicerie au niveau 5.
+Order from {1}	Provenant de la commande {1}
+From {1} order description	Description de la commande de {1}
+Hub Level reached Lv. 10.	Atteignez le niveau 10 du Hub.
+Hub Level reached level 20.	Atteignez le niveau 20 du Hub.
+Hub Level reached Lv. 30.	Atteignez le niveau 30 du Hub.
+Hub Level reached level 40.	Atteignez le niveau 40 du Hub.
+The Core	ZONE DU CENTRE
+The Core	ZONE CENTRALE
+Upgrade the Weapon Crafting Station to Lv.5	Établi d’armes au Niveau 5
+Arm Yourself	Armez-vous !
+Cradle of Destruction	Berceau de la destruction
+Daily Rewards	Récompenses quotidiennes
+The Truth Comes to Light	La vérité éclate au grand jour comme l'Eau qui se retire pour laisser apparaître les rochers.
+Fill the Tank	Le réservoir de Pétrole est plein
+Coastal Survey	Exploration côtière
+Seaside Port Supplies	Fournitures d'Akhet
+Seaside Port Samples	Échantillonnage Akhet
+Seaside Port Samples	Échantillonnage d'Akhet
+The Two Seaside Factions	Duo de la Mer
+The Two Seaside Factions	Duo de la Plage
+Best in Business	Consumérisme
+Local Express Delivery 2	Difficile de satisfaire tous les goûts.
+Clearance Sale	Vente de liquidation
+Clearance Sale	Super promo
+Cleaning Up	Éliminer les rescapés
+Inventory Check	Inventaire de l'Arsenal
+Slide Practice 1	Entraînement au glissement-1
+Slide Practice 2	Entraînement au glissement-2
+Slide Practice 3	Entraînement au glissement-3
+Extract from Seaside Port once	
+Fully Loaded 1	Retour chargé-1
+Fully Loaded 1	Revenir les mains pleines-1
+Fully Loaded 2	Revenir les mains pleines-2
+Fully Loaded 2	Retour chargé-2
+Fully Loaded 3	Revenir les mains pleines-3
+Fully Loaded 3	Retour chargé-3
+Fully Loaded 4	Revenir les mains pleines-4
+Fully Loaded 5	Retour chargé-5
+Fully Loaded 5	Revenir les mains pleines-5
+The Source of the Disaster	Source de la catastrophe
+The Source of the Disaster	Source de catastrophe
+Familiar Faces	Visage familier
+Upgrade the Logistics Order to Level 20.	Les commandes logistiques atteignent le niveau 20.
+Seaside Port: Supply Collection	Collecte de fournitures - Port côtier
+Seaside Port: Supply Collection 2	Collecte de ressources 2 - Port côtier
+Seaside Port: Supply Collection 3	Collecte de fournitures 3 - Port côtier
+Enemies of Mariana	L'Ennemi de Mariana
+Eco-Champion 1	Expert en environnement-1
+Eco-Champion 2	Expert en écologie-2
+Glassware	Produits en Verre
+Production	Fabrication et production
+Production	Fabrication
+Relay of Life	Relais de vie
+Seaside Port: Ecological Survey	Enquête écologique - Port côtier
+Eco Gathering	Collecte écologique
+Inside Out	De l'intérieur vers l'extérieur
+Machine Spark	Électricité et machines
+Shardverse Friends	Bon coéquipier d'éclatsverse
+Crack Shot	Maître tireur
+Mineral Materials	Matières premières minérales
+Boss in position.	Chef de station en position
+Boss in position: Enter The Fringe Sector.	Chef de station en position : Entrer dans le Secteur périphérique.
+First Delivery	Première livraison
+An Urgent Request	Commande urgente
+An Urgent Request	Commande d'urgence
+Use a total of {1}*{2}.	Utilisation cumulée de {2} {1}.
+Travel a total of {1} m by Zipline.	Parcourez une distance totale de {1} mètres en utilisant la Tyrolienne.
+Travel a total of {1} m by vehicle.	Parcourir {1} mètres avec un véhicule.
+Travel a total of {1} m by vehicle.	Parcourir {1} mètres à bord d'un véhicule.
+Kill a total of {2} enemies with melee attacks.	Éliminer {2} ennemis avec des attaques de mêlée au total.
+Kill a total of {1}*{2}.	Éliminer {2} {1} au total.
+Kill a total of {1}*{2}.	Effectuer {2} Éliminations de {1}.
+Kill a total of {1}*{2}.	Obtenir {2} éliminations de {1} au total.
+Kill a total of {1}*{2}.	Effectuer {2} Éliminations de {1} au total.
+Kill a total of {1}*{2}.	Élimination cumulée de {2} {1}.
+Kill a total of {1}*{2}.	Obtenir {2} {1} au total.
+Kill a total of {2} enemies from the {1} faction.	Éliminer un total de {2} ennemis du camp {1}.
+Kill {2} enemies from the {1} faction.	Éliminer un total de {2} ennemis du camp {1}.
+Kill a total of any {2} enemies from the {1} faction.	Éliminer au total {2} ennemis du camp {1}.
+Kill any {2} enemies from the {1} faction.	Éliminer au total {2} ennemis du camp {1}.
+Kill a total of any {2} enemies from the {1} faction.	Éliminer un total de {2} ennemis du camp {1}.
+Craft a total of any vehicle*{2}.	Accumuler la fabrication de {2} véhicules de n'importe quel type.
+Restore a total of {1} HP.	Restaurez {1} PV au total.
+Restore a total of {1} HP.	Restaurez un total de {1} PV.
+Kill a total of {3} enemies from over {2} meters away.	Éliminer {3} ennemis à plus de {2} mètres.
+Enter any Map empty-handed 1 time.	
+Climb a total of {1} m.	Distance de grimpe totale parcourue : {1} mètres.
+Climb a total of {1} m.	Distance de grimpe cumulée : {1} mètres.
+Slide a total of {1} m.	Atteindre une distance de glissement cumulée de {1} mètres.
+Slide a total of {1} m.	La distance cumulée de glissement atteint {1} mètres.
+Roll a total of {1} m.	Distance de roulade cumulée de {1} mètres.
+Spend a total of {1} coins.	Dépenser un total de {1} pièces.
+Kill 1 enemy using only melee attacks.	
+Spend 3000000HL Gold	
+Search 5 containers in Golden Dunes.	
+RECAPTURE Line 9	
+Enter the Scavenger Arena, Kill the Scavenger King, and extract from the Scavenger Arena.	
+Old Joe: The Orc Merchant	Le vieil orc marchand
+Old Joe: The Orc Merchant	Vieux orc marchand
+Refuel a vehicle {1} times.	Faire le plein de Pétrole du véhicule {1} FOIS DE PLUS.
+No One Left Behind	Ne jamais abandonner
+Zipline Practice 1	CORDE Retest-1
+Zipline Practice 2	EXERCICE DE CORDE-2
+Zipline Practice 3	Exercice de CORDE-3
+Patch and Mend	Bricolage
+Patch and Mend	Rapiéçage
+A Winding Path	Sentier étroit
+Dodge Roll Practice 1	Entraînement aux roulades-1
+Dodge Roll Practice 2	Pratique de roulade-2
+Dodge Roll Practice 3	Pratique des roulades-3
+Extract from Golden Dunes 1 time	
+New Growth	Vieux arbre, nouveaux bourgeons
+New Growth	De nouvelles pousses sur un vieil arbre
+Settlement Supplies	Fourniture de colonie
+The Total Package	Autoproduction et autoconsommation
+The Total Package	Autosuffisant
+Self-Sufficient	Autosuffisance
+Self-Sufficient	Autosuffisant
+Pay to clear the way	Payer pour passer
+Pathojen: Purification Experiment	Pathojen - Expérience de purification
+Pathojen: Mutation Omen	Pathojen-Prémices de mutation
+Pathojen: Experimental Materials	Pathojen - Matériau d'expérimentation
+Pathojen: Experimental Materials	Pathojen-Matériau d'expérimentation
+Pathojen: Experimental Funding	Pathojen - Fonds d'expérimentation d'Or
+Pathojen: Experimental Funding	Pathojen-Fonds d'expérimentation
+Pathojen: Herbology	Pathojen-Herboristerie
+Man vs. Wild	Survivre dans la nature
+Following the Clues	Indices et traces
+Blood Feud	Vendetta
+Upgrade the Equipment Crafting Station to Lv. 10.	Faites monter l’Établi d’équipement au niveau 10.
+Enter The Fringe Sector once unarmed.	Équipez l'ensemble de vêtements de prisonnier pour entrer dans le Secteur périphérique.
+Corner Chronicles	Chroniques de l'Angle mort
+Corner Chronicles	Chroniques de Jiaodi
+CLOSE-QUARTER ESCORT	MAÎTRISE DU COMBAT ET ESCORTE
+Becoming a Leader	Entrée en fonction
+Starting Funds 1	Capital de départ-1
+Starting Funds 1	Or de départ-1
+Starting Funds 2	Capital de départ-2
+Starting Funds 2	Or de départ-2
+Starting Funds 3	Or de départ'-3
+First Cross-Map Voyage	Premier voyage trans-carte
+Cross-Map Maiden Voyage: Enter Seaside Port once.	Premier voyage trans-carte : Entrez une fois dans le Port côtier.
+Vehicle Practice 1	Pratique du véhicule-1
+Vehicle Practice 2	Pratique des véhicules-2
+Vehicle Practice 3	Pratique des véhicules-3
+Vehicle Practice 4	Pratique des véhicules-4
+Close-Quarters Combat	Combat rapproché
+Enter {1} under {2} {3} time(s).	Entrez dans {1} sous {2} {3} fois.
+Enter Seaside Port once.	Entrez une fois dans le Port côtier
+Enter The Fringe Sector once.	Entrez dans le Secteur périphérique une fois.
+Bring back 5 items of Rare or higher rarity from Golden Dunes.	
+Complete 1 order in Golden Dunes with a weight of at least 150 kg.	
+Journey: Culinary Warrior	Tutu - Guerrier cuisinier
+Journey: Cowboy Maniac	Tutu - Cowboy fou
+Journey: Cowboy Maniac	TuTu - Sprite Cowboy fou
+Journey: Order Maniac	Tutu : Mad Rider
+Earn {1} coins by selling items.	Obtenez {1} pièces en vendant des objets.
+The Relic	Relique
+Invite {1} friends to join the squad.	Invitez {1} amis dans votre club.
+Collect {1}*{2}.	Récolter {1} {2} fois.
+Mine any mineral*{2}.	Collectez {2} minerais sur n'importe quelle carte.
+Restarting the Signal Tower	Redémarrer la Balise
+Heavy Order 1	Commande lourde-1
+Heavy Order 2	Commande lourde-2
+Heavy Order 3	Commande lourde-3
+Heavy Order 4	Commande lourde-4
+Steel Ruins	Ruines d'acier
+Ironman Triathlon	Triathlon de Fer
+Long-range Messenger	Messager à long terme
+Long-haul Messenger: Complete 5 orders in total at Seaside Port.	Messager à long terme : terminez 5 commandes au total au Port côtier.
+Reserve Supply	Réserve de protection
+Fire Safety	Sensibilisation à la sécurité incendie
+Anti-Theft Measures	Mesures antivol
+Shopping Day	Achats au Marché
+Stocking the Warehouse	Stockage des pièces
+Advanced Order 1	Commande PREMIUM-1
+Advanced Order 2	Commande PREMIUM-2
+Cloudy Peak	Dominant les nuages
+Slay the Dragon	Arracher une dent à la gueule du dragon

@@ -1,0 +1,194 @@
+﻿anglais	francais
+NPC is in combat. Please try again later.	Le PNJ est en combat, veuillez patienter.
+Prompt when the master-side player object does not exist.	Message d'erreur lorsque l'objet joueur du côté master n'existe pas
+Timeout prompt during master verification RPC	Message d'erreur lors de l'expiration du délai RPC de vérification du master
+Prompt when master validation fails (no specific reason)	Message d'erreur lorsque la vérification du master échoue (sans raison spécifique)
+xxxx	Veuillez fournir le texte source « xxxx » pour que je puisse effectuer la traduction en français conformément à vos instructions.
+{1}	{1}
+{1}Faction{2}LV.{3}	{1} Force {2} NIV.{3}
+{1} extraction point is open.	{1}Le point d'évacuation est ouvert
+{1} extraction point closes in {2} seconds.	Le point d'extraction sera {1}FERMÉ dans {2}s
+{1}: No items available for merging.	Aucun objet fabricable pour le moment.
+{1} Level Up to {2}	{1} LEVEL + {2}
+No items to submit.	Liste remise vide.
+Show a tip when the submitted LIST is empty.	CONSEILS lorsque la LISTE soumise est vide
+Submission count exceeds the mission requirement.	La quantité soumise dépasse l'EXIGENCE de la Mission.
+Prompt when the submitted quantity exceeds the Challenge requirement.	Notification lorsque la quantité soumise dépasse l'EXIGENCE de la Mission.
+Listing Limit Reached	Le nombre d'articles mis en vente a atteint la limite supérieure.
+Not a delivery box, cannot be listed.	Ce n'est pas une boîte de livraison, impossible à mettre en vente.
+You cannot list your own items.	Vous ne pouvez pas mettre vos propres articles en vente.
+You cannot purchase your own items.	Vous ne pouvez pas acheter vos propres articles.
+The Warehouse is full. Please Organize it before claiming the upgrade rewards.	L'Entrepôt est plein, veuillez le trier avant de récupérer la récompense de mise à niveau.
+Not Enough Warehouse Space	PAS ASSEZ D'ESPACE DANS L'ENTREPÔT
+Prompt when the delivery box quantity in the proxy payment order Challenge is invalid.	Nombre de boîtes de livraison non valide pour les Missions de paiement de commande.
+Invalid express box count for the commission order.	Nombre de cartons de commande payée pour autrui invalide
+Mission submission event is not configured.	L'événement de remise de Mission n'est pas configuré.
+Mission does not exist or has been completed.	La Mission n'existe pas ou est déjà terminée.
+Prompt when the Challenge does not exist or has been completed	Message d'erreur lorsque la Mission n'existe pas ou est déjà terminée.
+Prompt shown only when the Challenge accepts delivery boxes only.	Message d'avertissement lorsque la Mission n'accepte que les boîtes de livraison
+Challenge Completed	Mission accomplie
+Mission data error.	Anomalies de DONNÉES de Mission
+Prompt when a Challenge lacks the corresponding submission event configuration.	Message d'avertissement lorsque la Mission manque de configuration d'événement de soumission correspondante
+Prompt when Challenge design table data does not exist	Message d'erreur lorsque les données de la table de conception des Missions n'existent pas.
+Quest item missing; pick up or reclaim.	L'objet de Mission est manquant, veuillez le ramasser ou le récupérer à nouveau.
+Sprint	Sprint
+Sprint allows you to quickly transfer your position, but it consumes stamina and has a significant impact.	Sprint permet une téléportation rapide, mais consomme de l'endurance et produit un impact important.
+Bid too low	Offre trop basse
+Switch Magnetic Pull Mode	PASSER AU MODE D'ATTRACTION MAGNÉTIQUE
+Switch to Magnetic Propulsion Mode	PASSER À LA PROPULSION MAGNÉTIQUE
+Insufficient Armament Vouchers. Unable to equip.	PAS ASSEZ de Ticket pour usage d'armes, impossible d'Équiper
+The Armament Voucher has been consumed. Please re-equip it or remove it.	Les tickets de dotation ont été épuisés, veuillez rééquiper ou supprimer.
+This slot is unavailable when equipping a standard set.	Cet emplacement n'est pas disponible dans l'équipement de Vêtements de ville.
+Manufacturing {1} requires {2} to reach Lv. {3}.	La fabrication de {1} nécessite que {2} atteigne le niveau {3}
+Merge successful	FABRIQUÉ AVEC SUCCÈS
+Prerequisite clues not unlocked.	Les indices pré-requis ne sont pas déverrouillés.
+Instance: {1}	Donjon : {1}
+Join the party	Rejoindre le groupe
+Upgrade prerequisites not met.	Les conditions préalables à l'amélioration ne sont pas remplies.
+Placeholder text, mainly used to provide a detailed description of how long until the combat server shuts down.	Texte de remplacement, principalement utilisé pour décrire en détail le temps restant avant la fermeture de la tenue de combat.
+Placeholder text, mainly used to provide a detailed description of the Extraction Point location and related information.	Texte de remplacement, principalement utilisé pour décrire en détail l'emplacement du point d'évacuation et ses informations, etc.
+Parameter error	ERREUR de paramètre
+"You cannot go it alone in Shardverse! Open the MENU now and head to the ""FRIENDS"" screen to add friends!"	Impossible de se battre seul dans l'éclatsverse ! Ouvrez le MENU maintenant et allez dans l'interface « Amis » pour AJOUTER des amis !
+The Map is home to diverse ethnic groups, each with its own sphere of influence.	Différents groupes sont répartis sur la Carte, et chaque groupe possède sa propre sphère d'influence.
+Insufficient Infrastructure Level	Niveau d'infrastructure insuffisant
+Reputation Upgrade	Réputation +
+Reputation decreased.	La réputation diminue
+Cannot be used in the lobby.	Indisponible dans le hall
+Reward claimed successfully	Récompense réclamée avec succès
+Complete Challenges to unlock more brand-new gameplay and earn generous rewards. The Surprise is not to be missed, Boss!	Complétez des défis pour débloquer de nouveaux modes de jeu et obtenir de généreuses récompenses. Ne manquez pas ces Sorbets d'Été, Chef de station !
+Prompt when there are insufficient props in the container	Notification lorsque les articles dans le conteneur sont insuffisants
+Upgrade {1} Reputation to Friendly	Réputation auprès de {1} augmentée à Amical
+Reputation with {1} decreased to Hostile.	La réputation envers {1} a baissé jusqu'à Hostile
+The challenge will start in {1} seconds.	Le défi commencera dans {1} secondes.
+Attributes are full. Cannot use.	Attributs au maximum, impossible à utiliser.
+(长按)冲刺	MAJ gauche
+An Armament Voucher has been used. Unable to change equipment.	Ticket pour usage d'armes utilisé, impossible de changer d'équipement
+Preparation status has been canceled.	L'état Prêt a été annulé
+This order has been abandoned.	Commande abandonnée
+Unsold	Invendu
+The challenge has started.	Le défi a commencé
+Has been defeated.	A/M
+Currently at {1}'s Hub	Station de transfert actuelle à {1}
+Prompt when the current server level is below the Challenge requirement.	Notification lorsque le niveau actuel du serveur est inférieur au niveau requis pour la Mission.
+The current equipment has no Item Attributes and cannot be cleared.	L'équipement actuel n'a pas d'attributs, impossible de RÉINITIALISER.
+No affixes available on this gear to recast.	L'équipement actuel n'a pas d'affixe, impossible de procéder au Coup puissant.
+Not enough Coins. Unable to complete packing.	Pièces insuffisantes pour payer le coût de réparation
+Quick action failed. Please check if there is available capacity.	L'opération MESSAGE a échoué. Veuillez vérifier s'il y a de la capacité disponible.
+This express box is not yours and cannot be submitted.	Ce colis ne vous appartient pas et ne peut pas être remis.
+The delivery box can only be placed in the backpack section of Standard Sets.	La boîte de livraison ne peut être placée que dans la zone du sac à dos des Vêtements de ville.
+Prompt when delivery box ownership verification fails	CONSEILS en cas d'échec de la vérification de l'appartenance du colis express
+Failed to Regain items in the delivery box.	Échec du Regain des objets dans le colis de livraison
+Failed to Regain item information.	Échec du Regain des informations de l'objet.
+Congratulations on completing the Challenge! Now open the Challenge panel to claim your rewards!	Félicitations, vous avez terminé le Chargement… ! Ouvrez maintenant le panneau des Mission(s) pour récupérer vos récompenses !
+The value of items in your inventory does not meet the entry requirements. You cannot enter!	La valeur des objets que vous transportez ne répond pas aux conditions d'accès. Entrée impossible !
+The rarity of the equipment you are carrying and your backpack does not meet the entry requirements. You cannot enter!	La RARETÉ de votre équipement et de votre sac à dos ne répond pas aux conditions d'accès. Impossible d'entrer !
+The amount of equipment you are carrying does not meet the entry requirements. You cannot enter!	Le nombre d'équipements que vous portez ne répond pas aux restrictions d'accès. Entrée impossible !
+Your level does not not meet the entry requirements. You cannot enter!	Votre niveau ne répond pas aux conditions d'accès. Impossible d'entrer !
+Your teammate does not meet the shard's entry requirements and cannot enter!	Votre coéquipier ne répond pas aux restrictions d'accès du fragment actuel. Impossible d'entrer !
+Stop listening to music during the fight.	Arrête d'écouter de la musique pendant le combat !
+Packaging information is abnormal. Please RETRY later.	Anomalies d'informations de paquet, veuillez RÉESSAYER plus tard.
+The packaged data has expired. Please re-enter.	Les données du package ont expiré. Veuillez rentrer à nouveau.
+Failed to deduct item(s).	Échec de la déduction de l'objet
+Prompt when the player's master cannot be found.	Impossible de trouver le serveur maître où se trouve le joueur.
+The auction no longer exists.	La vente aux enchères n'existe pas.
+The auction has ended.	Enchère terminée
+The challenge will end in {1} seconds.	Le défi prendra fin dans {1} secondes.
+Accept Challenge	Accepter la Mission
+Submitted items do not match the order requirements.	Les objets soumis ne correspondent pas aux exigences de la commande.
+View after level up	À consulter après le passage au LEVEL +
+Another player is interacting with this item.	L'opération a échoué car un autre joueur est en train de manipuler cet objet.
+The operation failed. Please try again.	L'opération a échoué, veuillez RÉESSAYER
+Favorites Limit Reached	Le nombre de collections a atteint la limite supérieure.
+Failed to abandon order	Échec de l'abandon de la commande
+Cannot equip duplicate Shard Cards	Impossible d'équiper une Carte d'Éclat dupliquée.
+Unlimited.	Illimité
+Show Faction Territories	Afficher la zone d'influence
+Cannot submit normal items and express boxes together.	Les objets ORDINAIRES et les boîtes de livraison ne peuvent pas être soumis ensemble.
+Prompt when submitting Common items together with the delivery box in a mixed hand-in.	Notification lors de la remise de Commun objets et de boîtes de livraison mélangés
+Server verification timed out, please try again later.	Le délai de vérification du serveur a expiré, veuillez réessayer plus tard.
+Server level is too low to complete this mission.	Niveau de serveur insuffisant, impossible de terminer cette Mission.
+Server is busy, please try again later.	Le serveur est occupé. Veuillez réessayer plus tard.
+Unclaimed won items have reached the limit.	Limite d'objets remportés non récupérés atteinte
+Insufficient materials	Matériaux insuffisants
+Not enough materials	Matériaux insuffisants
+Materials locked. Infrastructure level does not meet the requirement.	Matériau BLOQUÉ, Niv. d'infrastructure insuffisant
+Verification failed, please try again later.	Échec de la vérification. Veuillez réessayer plus tard.
+Refueling vehicle...	Ravitaillement du véhicule en CARBURANT en cours
+Entering the Black Market. Please do not attack others.	Entrée dans le Marché noir, ne pas attaquer les autres.
+This Map's trackable Challenges have reached the cap.	Le nombre maximum de défis pouvant être suivis sur cette Carte a été atteint.
+This item cannot be broken down.	Impossible de décomposer cet objet
+No vehicle found.	Aucun véhicule trouvé
+No items available to submit.	AUCUN OBJET À REMETTRE
+Prompt displayed when there are no items to submit.	Message d'alerte lorsqu'il n'y a aucun objet à remettre
+No packing crates available.	Aucune caisse d'emballage disponible
+No backpack available. Please obtain an empty backpack before entering packing.	Aucun SAC disponible, veuillez d'abord obtenir un SAC vide avant de commencer l'emballage.
+Not enough refinement materials	Quantité de matériel de raffinage insuffisante
+ADD AS FRIEND	AJOUTER
+Failed to add item.	L'ajout d'objet a échoué
+Click {1} to open the Challenges panel.	Cliquez sur {1} pour ouvrir le panneau des Missions
+Click {1} to open the Challenges panel and claim rewards.	Cliquez sur {1} pour ouvrir le panneau des Missions et récupérer les récompenses
+Click {1} to open the MENU.	Cliquez sur {1} pour ouvrir le MENU
+Click {1} to Show Faction Territories	Cliquez sur {1}Afficher la zone d'influence
+Fuel is full.	PLEIN DE CARBURANT
+The item does not exist.	L'objet n'existe pas.
+Item submission successful	Soumission de l'article réussie
+Player data is loading, please try again later.	Chargement des données du joueur, veuillez réessayer plus tard.
+HP is full.	La santé est pleine
+Cross-Shard passage closes in {1} minute(s). Please extract immediately.	Le passage de fragments expirera dans {1} minutes, veuillez évacuer à temps.
+Cross-Shard passage closes in {1}. Please extract immediately.	Le passage de fragments expirera dans {1}, veuillez évacuer immédiatement.
+Insufficient Magnetism	La force magnétique n'est PAS ASSEZ.
+Insufficient magnetism, unable to Sprint.	Magnétisme insuffisant, impossible de faire un Sprint.
+Insufficient magnetism, unable to block.	Magnétisme insuffisant, impossible de bloquer.
+Insufficient magnetism, unable to roll.	Magnétisme insuffisant, impossible de rouler.
+Insufficient magnetism, exiting climb.	Magnétisme PAS ASSEZ, QUITTER Grimper !
+Prosperity Increase	Augmentation de la prospérité
+Clue Unlocked	Indice DÉBLOQUÉ
+Backpacks cannot be placed into standard set.	Impossible de placer des ensembles réglementaires dans le sac à dos.
+Items in backpack, Sale Failed	Il y a des objets dans le SAC, échec de la vente.
+Not enough space in backpack	ESPACE D'INVENTAIRE INSUFFISANT
+Getting Unstuck, {1} seconds remaining.	Dégagement en cours, il reste {1} secondes.
+Order mission requires exactly one express box.	Vous ne devez et ne pouvez soumettre qu'un seul carton d'expédition pour la Mission de commande.
+Prompt when the number of delivery boxes in an (Order) Challenge is invalid (must be exactly one).	Message d'erreur lorsque le nombre de cartons de livraison pour la Mission de commande est invalide (un seul est requis et autorisé)
+Prompt when the Order Quest item does not match the requirements	Notification lorsque les objets de la Mission de commande ne correspondent pas aux exigences
+Insufficient items required for the order.	Articles insuffisants pour la commande
+The items required for the order have not been fully placed yet.	Les objets requis pour la commande ne sont pas encore tous réunis.
+The comment does not exist.	Le commentaire n'existe pas.
+The comment feature is CLOSED	La fonction de commentaire est désactivée
+Comment Limit Reached	Limite de commentaires atteinte
+Comment is too long	Le commentaire est trop long.
+Modifier slots are full.	Emplacements d'attributs complets
+Affix slots are full. Cannot add more affixes.	Emplacements d'attributs complets. Impossible d'ajouter l'attribut.
+This mission can only be submitted on the client.	Cette Mission ne peut être soumise que via le client.
+This Challenge only shows a prompt when submitting on the client.	Cette Mission ne peut être soumise que via le client.
+This mission only accepts express boxes.	Cette Mission n'accepte que les boîtes de livraison.
+This auction does not support Buy It Now.	Cette enchère ne prend pas en charge l'achat immédiat.
+This item is not required by the mission.	Cet article n'est pas requis pour les Mission(s).
+Please put it in the backpack first.	Veuillez d'abord le placer dans votre inventaire.
+Click or drag to select items to sell	Veuillez cliquer ou faire glisser pour sélectionner l'article.
+Please add at least one packaged target item.	Veuillez ajouter au moins un objet cible à emballer.
+Please add at least one item.	Veuillez placer au moins un objet
+Load is too high to Sprint.	Charge trop élevée, impossible de faire un Sprint
+Insufficient currency.	Les pièces ne suffisent pas.
+Cargo transport START	Le transport de marchandises va COMMENCER
+Purchasing {1} requires {2} to reach Lv. {3}.	L'achat de {1} nécessite que le niveau {2} atteigne le niveau {3}
+Too far away.	La distance est trop grande
+Too far away. Please move closer to interact.	La distance est trop grande, veuillez vous rapprocher pour interagir.
+Immune to fall damage and stagger within the springboard area, briefly persisting after jumping.	Immunité aux dégâts de chute et au déséquilibre dans la zone du tremplin, avec un bref prolongement après la propulsion.
+Transfer successful	Téléportation réussie
+The vehicle has been submerged.	Véhicule submergé
+Vehicle not stopped.	Le véhicule n'est pas STATIQUE
+Vehicle fuel has been depleted.	LE CARBURANT DU VÉHICULE EST ÉPUISÉ
+Failed to add vehicle fuel.	Échec de l'ajout de CARBURANT au véhicule
+Vehicle fuel added successfully.	Ajout de CARBURANT du véhicule réussi
+Vehicle durability restoration failed.	Échec du Regain de durabilité du véhicule
+Restored vehicle durability.	Durabilité du véhicule restaurée avec succès
+Tips when the item is not required for the Challenge.	CONSEILS lorsque l'objet n'est pas requis pour les Mission(s)
+Not enough items.	Articles insuffisants
+Orders in Transit has reached the maximum limit and cannot be accepted.	Limite de commandes en cours de livraison atteinte, impossible d'accepter.
+Not enough Coins.	Les pièces ne suffisent pas.
+Not enough Coins. Unable to start packing.	Les pièces ne suffisent pas pour commencer l'emballage.
+{1} must reach Lv. {2}	Nécessite que {1} atteigne le niveau {2}
+Move closer. Too far away.	Approchez-vous, c'est trop loin.
+Claim Challenge Rewards	RÉCOMPENSE DE MISSION
+Boss {1) appears!	BOSS {1} est apparu
+Boss {1} is defeated!	BOSS {1} a été A/M
