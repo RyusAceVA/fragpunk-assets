@@ -1,0 +1,496 @@
+<!doctype html>
+<html lang="fr" data-lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FarLands Leaks · Le nouveau mode de FragPunk décortiqué</title>
+  <meta name="description" content="Tout ce que les fichiers de FragPunk révèlent sur FarLands, le mode d'extraction et de livraison en accès anticipé le 5 novembre 2026 : histoire, Hub 9, mécaniques, factions, bestiaire, cinématiques, modèles 3D et textes du jeu.">
+  <meta name="theme-color" content="#000000">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="FarLands Leaks · FragPunk">
+  <meta property="og:description" content="Le mode FarLands de FragPunk, décortiqué depuis les fichiers du jeu : histoire, mécaniques, factions, bestiaire, cinématiques et modèles 3D.">
+  <meta property="og:image" content="img/og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="assets/logo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  <link rel="preload" as="image" href="img/hero.webp" imagesrcset="img/hero-sm.webp 1100w, img/hero.webp 2400w" imagesizes="100vw">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<nav class="nav" aria-label="Navigation principale">
+  <div class="wrap">
+    <a class="logo" href="index.html"><img src="assets/logo.png" alt=""><span><span class="a">FARLANDS</span><span class="b">LEAKS</span></span></a>
+    <div class="nav-links" id="nav-links">
+      <a href="#mode">Le mode</a>
+      <a href="#histoire">Histoire</a>
+      <a href="#hub">Hub 9</a>
+      <a href="#gameplay">Gameplay</a>
+      <a href="#monde">Monde</a>
+      <a href="#factions">Factions</a>
+      <a href="#bestiaire">Bestiaire</a>
+      <a href="#lore">Lore</a>
+      <a href="galerie.html">Galerie</a>
+      <a href="modeles.html">3D</a>
+      <a href="textes.html">Textes</a>
+    </div>
+    <div class="nav-tools">
+      <div class="lang-toggle" role="group" aria-label="Langue des textes du jeu">
+        <button type="button" data-lang="fr" title="Traduction française du jeu">FR</button>
+        <button type="button" data-lang="en" title="Version originale anglaise">EN</button>
+      </div>
+      <button class="burger" type="button" aria-label="Menu" aria-controls="nav-links" aria-expanded="false"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</nav>
+
+<!-- ============ HERO ============ -->
+<header class="hero" id="top">
+  <div class="hero-bg">
+    <img src="img/hero.webp" srcset="img/hero-sm.webp 1100w, img/hero.webp 2400w" sizes="100vw" alt="Artwork officiel de FarLands : un coursier en combinaison jaune court au milieu de colis volants, au-dessus d'une planète rose et bleue." fetchpriority="high">
+  </div>
+  <div class="wrap">
+    <div class="hero-kicker">
+      <span class="skew solid"><span>Leak</span></span>
+      <span class="skew"><span>Nouveau mode FragPunk</span></span>
+      <span class="skew cyan"><span>Patch du 22/10/2026</span></span>
+    </div>
+    <h1><span data-glitch>FarLands</span></h1>
+    <p class="hero-sub">Le mode <strong>extraction et livraison</strong> de FragPunk, décortiqué à partir des fichiers du jeu : histoire, Hub 9, mécaniques, factions, monstres, cinématiques et modèles 3D.</p>
+    <div class="hero-cta">
+      <a class="btn" href="#mode">Découvrir le mode</a>
+      <a class="btn ghost" href="#cinematiques">Voir les cinématiques</a>
+    </div>
+    <div class="countdown" id="countdown" aria-live="polite">
+      <div class="cd-label">Accès anticipé<b>5 novembre 2026</b></div>
+      <div class="cd-box"><b data-cd="d">--</b><span>jours</span></div>
+      <div class="cd-box"><b data-cd="h">--</b><span>heures</span></div>
+      <div class="cd-box"><b data-cd="m">--</b><span>min</span></div>
+      <div class="cd-box"><b data-cd="s">--</b><span>sec</span></div>
+    </div>
+  </div>
+  <div class="scroll-hint" aria-hidden="true">Défiler</div>
+</header>
+
+<main>
+
+<!-- ============ LE MODE ============ -->
+<section class="section grid-bg" id="mode">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Le mode en bref</span></span><h2 data-glitch>Livrer. Survivre. Évacuer.</h2></div>
+      <p>Ce qu'on sait officiellement, et tout ce que les fichiers du patch ajoutent.</p>
+    </div>
+    <div class="split top">
+      <div class="prose reveal">
+        <p><strong>FarLands</strong> est le prochain mode de FragPunk, attendu en <strong>accès anticipé le 5 novembre 2026</strong>. Bad Guitar le présente comme une <em>expérience multijoueur à haut risque centrée sur la livraison</em> <span class="rel off">Officiel</span></p>
+        <p>Les fichiers du patch du 22 octobre en montrent beaucoup plus. On y incarne un <strong>coursier d'Eastvale Logistics</strong>, nouveau chef du <strong>Hub 9</strong>. On accepte des commandes, on part dans des éclats hostiles avec la cargaison sur le dos, on fouille, on se bat contre des monstres et d'autres joueurs, puis on rejoint un <strong>point d'évacuation</strong> pour rentrer au hub avec son butin. Bref, un mode d'<strong>extraction PvPvE</strong> avec une couche de gestion <span class="rel txt">Textes du jeu</span></p>
+        <p>En interne, le mode s'appelle <strong>HappyLand</strong> (préfixe <code>HL</code>). Le patch a ajouté <strong>76 823 fichiers</strong>, presque tous pour FarLands <span class="rel fil">Fichiers</span></p>
+        <p class="dim" style="font-size:17px">Rien de tout cela n'est sorti : le contenu peut encore changer avant le lancement.</p>
+      </div>
+      <div class="quotes-stack reveal">
+        <blockquote class="quote"><span data-q="pitch"></span><cite>Description du mode dans le jeu</cite></blockquote>
+        <blockquote class="quote cyan"><span data-q="free"></span><cite>Accroche du mode</cite></blockquote>
+        <blockquote class="quote magenta"><span data-q="patch"></span><cite>Accroche du mode</cite></blockquote>
+        <blockquote class="quote"><span data-q="nolancers"></span><cite>Message d'interface</cite></blockquote>
+      </div>
+    </div>
+
+    <div class="stats reveal" style="margin-top:56px" id="stats"></div>
+
+    <h3 class="sub-title reveal">Comment lire ce site</h3>
+    <div class="split top reveal">
+      <div class="prose" style="font-size:18px">
+        <p>Chaque citation du jeu affiche sa <strong>clé source</strong> (le petit badge gris) : un clic ouvre la ligne correspondante dans l'<a class="neon" href="textes.html">explorateur de textes</a>, qui lit le fichier <code>_tous_les_textes_du_jeu.tsv</code>.</p>
+        <p>Le bouton <strong>FR / EN</strong> en haut à droite bascule entre la traduction française du jeu et la version originale anglaise. La VF des fichiers est encore brute : noms qui changent d'une ligne à l'autre (« Marcheur de frontière », « Boundary Walker »…), quelques contresens. En cas de doute, l'anglais fait foi.</p>
+      </div>
+      <div>
+        <div class="legend">
+          <span><span class="rel off">Officiel</span> annoncé sur fragpunk.com</span>
+          <span><span class="rel txt">Textes du jeu</span> lu tel quel dans les fichiers</span>
+          <span><span class="rel fil">Fichiers</span> déduit des images, modèles, noms de fichiers</span>
+          <span><span class="rel unv">Non vérifié</span> hypothèse de notre part</span>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="sub-title reveal">Le lancement prévu dans les fichiers</h3>
+    <div class="grid g3 reveal" id="events"></div>
+  </div>
+</section>
+
+<!-- ============ HISTOIRE ============ -->
+<section class="section" id="histoire">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Chapitre 0 · First Delivery</span></span><h2 data-glitch>Un premier jour raté</h2></div>
+      <p>Le tutoriel du mode, reconstitué avec ses textes et ses cinématiques.</p>
+    </div>
+    <div class="split reveal" style="margin-bottom:56px">
+      <div class="prose">
+        <p>Depuis le <strong>second Smash-Up</strong>, le Shardverse est en miettes. <strong>Eastvale Logistics</strong>, l'autre méga-groupe d'Acme face à <strong>Kepler</strong>, veut relier les éclats entre eux et recrute à tour de bras.</p>
+        <p>Vous êtes la recrue envoyée par le siège pour diriger le <strong>Hub 9</strong>, un dépôt en ruine dans le <strong>Secteur périphérique</strong>, loin d'Acme. Le premier jour, votre appareil s'écrase dans les montagnes enneigées. Il reste à livrer la toute première commande, seul, avec un colis sur le dos <span class="rel txt">Textes du jeu</span></p>
+        <div class="quotes-stack" style="margin-top:22px">
+          <blockquote class="quote"><span data-q="lore_eastvale"></span></blockquote>
+          <blockquote class="quote cyan"><span data-q="lore_kepler"></span></blockquote>
+        </div>
+      </div>
+      <figure class="banner-img clip-slanted zoomable" style="aspect-ratio:16/10;margin:0" data-zoom="load/HL_Toturial_Loading" data-file="farlands/images/LargeTexture/HappyLand/HL_Toturial_Loading.png" data-caption="Écran de chargement du tutoriel">
+        <img src="img/load/HL_Toturial_Loading.webp" alt="Écran de chargement du tutoriel : le coursier dans les herbes rouges, une arche de montagne au loin." loading="lazy">
+        <figcaption>Écran de chargement du tutoriel</figcaption>
+      </figure>
+    </div>
+
+    <div class="timeline" id="timeline"></div>
+
+    <h3 class="sub-title reveal">Et ensuite : deux chapitres en vue</h3>
+    <div class="grid g2" id="chapters"></div>
+  </div>
+</section>
+
+<!-- ============ CINÉMATIQUES ============ -->
+<section class="section alt" id="cinematiques">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>9 vidéos · 720p</span></span><h2 data-glitch>Cinématiques</h2></div>
+      <p>Les vidéos du mode présentes dans le patch : l'intro du chapitre 0, le niveau de boss, l'emballage des colis et l'effet d'évacuation.</p>
+    </div>
+    <div class="grid g3" id="videos"></div>
+  </div>
+</section>
+
+<!-- ============ HUB 9 ============ -->
+<section class="section grid-bg" id="hub">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Votre base</span></span><h2 data-glitch>Le Hub 9</h2></div>
+      <p>Entre deux expéditions, tout se passe ici : commandes, stockage, fabrication, entraînement.</p>
+    </div>
+    <div class="split reveal">
+      <div class="prose">
+        <p>Le Hub 9 est le point de départ de toutes vos opérations. On y prend les commandes au terminal, on range son butin dans l'entrepôt, on fabrique armes, équipement et véhicules, on démonte ce qui ne sert plus et on s'entraîne en salle tactique <span class="rel txt">Textes du jeu</span></p>
+        <p>À votre arrivée, vous scannez votre visage et enregistrez votre nom dans le système pour prendre officiellement la tête de la station. Ensuite, le hub monte <strong>d'une à cinq étoiles</strong>, et chaque palier débloque de nouveaux types de commandes, de la place, des véhicules et des plafonds de rareté.</p>
+        <p class="dim" style="font-size:17px">Les textes parlent tantôt d'<strong>Eastvale Logistics</strong> (logo ESV), tantôt de <strong>FarDash Logistics</strong> (logo FDH sur les caisses). Probablement un nom qui a changé en cours de route <span class="rel unv">Non vérifié</span></p>
+        <div class="quotes-stack" style="margin-top:20px">
+          <blockquote class="quote"><span data-q="hub9"></span></blockquote>
+          <blockquote class="quote cyan"><span data-q="register"></span><cite>Journey</cite></blockquote>
+        </div>
+      </div>
+      <figure class="banner-img zoomable" style="aspect-ratio:16/9;margin:0" data-zoom="hub-interior" data-file="farlands/images/AtlasTexture/HappyLand/HL_Station/HL_Task_Season_Sub_Bg2.png" data-caption="Intérieur du hub (fond d'interface)">
+        <img src="img/hub-interior.webp" alt="Intérieur du hub : entrepôt sombre éclairé au néon vert, caisses et plantes." loading="lazy">
+        <figcaption>Intérieur du hub (fond d'interface)</figcaption>
+      </figure>
+    </div>
+
+    <h3 class="sub-title reveal">Les habitants du hub</h3>
+    <div class="grid g3" id="merchants"></div>
+
+    <h3 class="sub-title reveal">Installations</h3>
+    <div class="grid g5" id="facilities"></div>
+    <p class="dim reveal" style="margin:22px 0 12px">Les écrans de montée en niveau du hub montrent ses boutiques et ateliers (cliquer pour agrandir) :</p>
+    <div class="npc-banners reveal" id="hub-screens" style="grid-template-columns:repeat(auto-fill,minmax(min(200px,100%),1fr))"></div>
+
+    <h3 class="sub-title reveal">D'une à cinq étoiles</h3>
+    <div class="split top reveal">
+      <div>
+        <div class="stars" id="stars"></div>
+        <div class="quotes-stack" style="margin-top:18px">
+          <blockquote class="quote"><span data-q="stars_intro"></span></blockquote>
+          <blockquote class="quote cyan"><span data-q="journey_reports"></span></blockquote>
+        </div>
+      </div>
+      <div>
+        <p class="muted" style="margin-top:0">Ce que débloque la montée en niveau :</p>
+        <div class="grid g2" id="perks" style="gap:10px"></div>
+        <p class="muted" style="margin:18px 0 8px">Les cinq raretés du mode :</p>
+        <div class="rarities" id="rarities"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ GAMEPLAY ============ -->
+<section class="section" id="gameplay">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Mécaniques</span></span><h2 data-glitch>Les règles du terrain</h2></div>
+      <p>Ce que le tutoriel et les astuces du jeu expliquent, système par système.</p>
+    </div>
+    <div class="grid g3" id="mechanics"></div>
+
+    <h3 class="sub-title reveal">Le tutoriel en images</h3>
+    <div class="grid g3 reveal" id="tuto-imgs"></div>
+  </div>
+</section>
+
+<!-- ============ COMMANDES ============ -->
+<section class="section alt grid-bg" id="commandes">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Économie</span></span><h2 data-glitch>Commandes et marché</h2></div>
+      <p>Six types de commandes, des clients plus ou moins pénibles, et des prix qui bougent selon les événements.</p>
+    </div>
+    <div class="prose reveal" style="margin-bottom:28px">
+      <p>Chaque commande fixe une <strong>exigence de Perfection</strong>, des <strong>frais de port</strong> et un <strong>délai</strong>. Les descriptions ci-dessous viennent d'une table dont la VO n'existe qu'en chinois : on affiche la traduction française du jeu, avec le chinois en dessous <span class="rel txt">Textes du jeu</span></p>
+    </div>
+    <div class="grid g3" id="orders"></div>
+    <div class="chips reveal" id="extra-orders" style="margin-top:16px"></div>
+
+    <div class="split top" style="margin-top:56px">
+      <div class="reveal">
+        <h3 class="sub-title">Les clients</h3>
+        <table class="table" id="customers"><thead><tr><th>Personnalité</th><th>Comportement</th></tr></thead><tbody></tbody></table>
+      </div>
+      <div class="reveal">
+        <h3 class="sub-title">Événements du marché</h3>
+        <p class="muted" style="margin-top:0">Ils s'affichent sur la carte et font varier l'offre et les prix des marchandises :</p>
+        <div class="grid g2" id="market" style="gap:10px"></div>
+      </div>
+    </div>
+
+    <h3 class="sub-title reveal">L'emballage des colis</h3>
+    <div class="split reveal">
+      <div class="prose">
+        <p>Avant de partir, il faut <strong>emballer</strong> : un mini-jeu de grille où l'on range les objets dans la boîte de livraison. Une chaîne automatisée d'emballage existe aussi, avec sa propre vidéo et un type de commande « Automatic packing orders! » <span class="rel fil">Fichiers</span></p>
+        <blockquote class="quote" style="margin-top:16px"><span data-q="drone"></span><cite>Description d'objet : le drone de transport</cite></blockquote>
+      </div>
+      <div class="grid g2" id="packup"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ SURVIE ============ -->
+<section class="section" id="survie">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Météo · Entraînement</span></span><h2 data-glitch>Survivre dehors</h2></div>
+      <p>Le temps change en cours de partie, et la salle tactique du hub fait progresser votre coursier.</p>
+    </div>
+    <div class="split top reveal" style="margin-bottom:28px">
+      <div class="prose">
+        <p>La météo évolue au fil de la partie. Les tempêtes accumulent des <strong>cumuls</strong> : une fois la jauge pleine, vous perdez de la vie en continu. Se mettre à l'abri ralentit l'accumulation. Certaines météos s'en prennent aussi au magnétisme ou à vos objets <span class="rel txt">Textes du jeu</span></p>
+        <p class="dim" style="font-size:16px">Les noms et les descriptions de météo sont dans des lignes séparées : nous les avons associés d'après leur contenu <span class="rel unv">Association</span></p>
+      </div>
+      <div class="quotes-stack">
+        <blockquote class="quote cyan"><span data-q="tuto_weather"></span></blockquote>
+        <blockquote class="quote"><span data-q="weather_hurt"></span><cite>Journey</cite></blockquote>
+      </div>
+    </div>
+    <div class="weather" id="weather"></div>
+
+    <h3 class="sub-title reveal">Salle d'entraînement tactique</h3>
+    <p class="muted reveal" style="margin-top:-8px">Quatre catégories : <span id="train-cats"></span>. Chaque entraînement améliore une statistique du coursier.</p>
+    <div class="grid g3" id="training"></div>
+  </div>
+</section>
+
+<!-- ============ VÉHICULES ============ -->
+<section class="section alt" id="vehicules">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Garage</span></span><h2 data-glitch>Véhicules</h2></div>
+      <p>Fabriqués au hub, modifiables, avec carburant, coffre et passagers.</p>
+    </div>
+    <div class="grid g3" id="vehicles"></div>
+    <p class="dim reveal" style="font-size:16px;margin-top:14px">Noms tirés des textes du jeu. L'image de chaque véhicule est associée d'après son apparence : sûre pour la trottinette, l'autruche, le quad et le camion, probable pour les deux tout-terrain.</p>
+    <div class="split top" style="margin-top:44px">
+      <div class="reveal">
+        <h3 class="sub-title">Statistiques</h3>
+        <div class="chips" id="veh-stats"></div>
+        <h3 class="sub-title">Pièces et modifications</h3>
+        <div class="parts" id="veh-parts"></div>
+      </div>
+      <div class="grid reveal" id="garage"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MONDE ============ -->
+<section class="section grid-bg" id="monde">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Shardverse</span></span><h2 data-glitch>Le monde</h2></div>
+      <p>Les zones jouables, leurs lieux et les cartes reconstruites depuis les fichiers.</p>
+    </div>
+    <div class="zones-grid" id="zones"></div>
+
+    <h3 class="sub-title reveal">Lieux</h3>
+    <div class="split top reveal" style="margin-bottom:18px">
+      <p class="muted" style="margin:0">Plus de 50 lieux décrits dans les textes, entre la ville d'Harmony Town (Secteur périphérique) et Akhet, l'éclat de Kemet où se trouve le Port côtier.</p>
+      <p class="dim" style="margin:0;font-size:16px">Le jeu range les noms et les descriptions dans des lignes séparées : nous les avons associés d'après leur contenu <span class="rel unv">Association</span></p>
+    </div>
+    <div class="filters reveal" id="loc-filters"></div>
+    <div class="locs" id="locations"></div>
+    <div class="more-row"><button class="btn ghost" id="loc-more" type="button" hidden></button></div>
+
+    <h3 class="sub-title reveal">Cartes reconstruites</h3>
+    <p class="muted reveal" style="margin-top:-8px">Aperçus en 3D des cartes du lobby (le hub suspendu au-dessus des nuages) et du chapitre 0 (la ville du canyon), reconstruites à partir des fichiers <span class="rel fil">Fichiers</span></p>
+    <div class="npc-banners reveal" id="maps" style="grid-template-columns:repeat(auto-fill,minmax(min(240px,100%),1fr))"></div>
+  </div>
+</section>
+
+<!-- ============ FACTIONS ============ -->
+<section class="section alt" id="factions">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Amis ou ennemis</span></span><h2 data-glitch>Factions</h2></div>
+      <p><span data-q="factions_choice"></span></p>
+    </div>
+    <div class="grid g3" id="faction-list"></div>
+  </div>
+</section>
+
+<!-- ============ BESTIAIRE ============ -->
+<section class="section" id="bestiaire">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Plus de 80 monstres</span></span><h2 data-glitch>Bestiaire</h2></div>
+      <p>Bêtes mutées, robots de Kepler, gangs et envahisseurs.</p>
+    </div>
+    <div class="card boss reveal" id="boss"></div>
+    <div class="chips reveal" id="monster-types" style="margin:24px 0"></div>
+    <div class="grid g3" id="monsters"></div>
+    <p class="dim reveal" style="font-size:16px;margin-top:14px">Regroupement par faction fait par nous d'après les noms <span class="rel unv">Non vérifié</span></p>
+
+    <h3 class="sub-title reveal">81 monstres en 3D</h3>
+    <p class="muted reveal" style="margin-top:-8px">Les modèles des monstres sont codés (<code>N1xxxxx</code>, <code>N2xxxxx</code>…) : leur correspondance avec les noms n'est pas établie. Cliquer pour les manipuler en 3D.</p>
+    <div class="model-strip reveal" id="monster-models"></div>
+  </div>
+</section>
+
+<!-- ============ PNJ ============ -->
+<section class="section alt grid-bg" id="pnj">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Clients et habitants</span></span><h2 data-glitch>PNJ</h2></div>
+      <p>Commanditaires, marchands et personnages croisés en mission.</p>
+    </div>
+    <div class="chips reveal" id="npc-names" style="margin-bottom:28px"></div>
+    <h3 class="sub-title reveal">Portraits des commanditaires</h3>
+    <p class="muted reveal" style="margin-top:-8px">51 bannières de commandes, numérotées comme les PNJ des quêtes (orques, hommes-poissons, crabes, requins, charognards, gens de Kemet…).</p>
+    <div class="npc-banners reveal" id="npc-banners"></div>
+    <h3 class="sub-title reveal">Ils ont dit</h3>
+    <div class="lines-wall" id="npc-lines"></div>
+  </div>
+</section>
+
+<!-- ============ ÉQUIPEMENT ============ -->
+<section class="section" id="equipement">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Arsenal</span></span><h2 data-glitch>Équipement</h2></div>
+      <p>Le kit du coursier, les tenues, 71 ensembles d'équipement, les plans de fabrication et les armes.</p>
+    </div>
+    <div class="split reveal" style="margin-bottom:44px">
+      <div>
+        <h3 class="sub-title">Le kit du coursier</h3>
+        <div class="kit" id="kit"></div>
+      </div>
+      <figure class="banner-img zoomable" style="margin:0;aspect-ratio:4/5" data-zoom="courier-art" data-file="farlands/images/LargeTexture/Agent/Draw_208002010.png" data-caption="Artwork du coursier (Lancer C002)">
+        <img src="img/courier-art.webp" alt="Artwork du coursier en combinaison jaune, logo ESV, sur fond rose." loading="lazy" style="object-position:50% 20%">
+        <figcaption>Artwork du coursier (Lancer C002)</figcaption>
+      </figure>
+    </div>
+
+    <h3 class="sub-title reveal">Création du coursier et tenues complètes</h3>
+    <div class="thumbs tall reveal" id="suits"></div>
+
+    <h3 class="sub-title reveal">Ensembles d'équipement</h3>
+    <div class="split top reveal">
+      <div>
+        <p class="muted" style="margin-top:0">71 ensembles, avec des bonus à 2 et 4 pièces. En voici une sélection :</p>
+        <div class="chips" id="sets"></div>
+      </div>
+      <div>
+        <p class="muted" style="margin-top:0">Les bonus révèlent un vrai système de combat élémentaire (feu, glace, électricité, acide, radiation, explosion), avec réactions, Bris, saignement et parade parfaite :</p>
+        <div class="quotes-stack" id="set-bonus" style="gap:8px"></div>
+      </div>
+    </div>
+
+    <h3 class="sub-title reveal">Plans de fabrication</h3>
+    <div class="thumbs reveal" id="blueprints"></div>
+
+    <h3 class="sub-title reveal">Armes</h3>
+    <p class="muted reveal" style="margin-top:-8px">74 rendus d'armes propres au mode : pistolets et fusils (base BW001 à BW016), haches, lances, arcs, arbalètes, couperets, et leurs skins WS5xxx.</p>
+    <div class="thumbs reveal" id="weapons"></div>
+  </div>
+</section>
+
+<!-- ============ LORE ============ -->
+<section class="section alt" id="lore">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Archives</span></span><h2 data-glitch>Lore</h2></div>
+      <p>Documents du jeu sur Eastvale, Kepler, Mariana, les Chelae et Aesir. Cliquer pour lire le texte intégral.</p>
+    </div>
+    <div class="quotes-stack reveal" style="grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr));margin-bottom:28px">
+      <blockquote class="quote"><span data-q="lore_lancers"></span></blockquote>
+      <blockquote class="quote cyan"><span data-q="lore_5years"></span></blockquote>
+      <blockquote class="quote magenta"><span data-q="lore_sharks"></span></blockquote>
+    </div>
+    <div class="grid g3" id="docs"></div>
+  </div>
+</section>
+
+<!-- ============ EXPLORER ============ -->
+<section class="section grid-bg" id="explorer">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><span class="eyebrow skew"><span>Aller plus loin</span></span><h2 data-glitch>Tout explorer</h2></div>
+      <p>Les sources brutes, consultables directement.</p>
+    </div>
+    <div class="grid g3">
+      <a class="card teaser reveal" href="textes.html">
+        <div class="media"><img src="img/tex-delivery.webp" alt="" loading="lazy"></div>
+        <div class="card-pad"><span class="skew"><span>Source principale</span></span><h3 style="margin-top:10px">Textes du jeu</h3><p>Recherche dans les textes FarLands (FR et EN), ou dans les 67 714 lignes du fichier complet.</p><div class="go">Ouvrir l'explorateur →</div></div>
+        <div class="bar"></div>
+      </a>
+      <a class="card teaser reveal" href="galerie.html">
+        <div class="media"><img src="img/load/HL_Loading_5230301.webp" alt="" loading="lazy"></div>
+        <div class="card-pad"><span class="skew"><span>Images</span></span><h3 style="margin-top:10px">Galerie</h3><p>Écrans de chargement, décors, interface, armes, véhicules, plans, portraits.</p><div class="go">Voir la galerie →</div></div>
+        <div class="bar"></div>
+      </a>
+      <a class="card teaser reveal" href="modeles.html">
+        <div class="media"><img src="img/world-islands.webp" alt="" loading="lazy"></div>
+        <div class="card-pad"><span class="skew"><span>160 modèles</span></span><h3 style="margin-top:10px">Modèles 3D</h3><p>Monstres, PNJ, armes, véhicules et tenues, à faire tourner dans le navigateur.</p><div class="go">Ouvrir la visionneuse →</div></div>
+        <div class="bar"></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <a class="logo" href="index.html" style="font-size:26px"><img src="assets/logo.png" alt=""><span><span class="a">FARLANDS</span><span class="b">LEAKS</span></span></a>
+        <p>Projet fan non officiel, compagnon de <a class="neon" href="https://github.com/RyusAceVA/studio">FragTracker</a>. Tout vient des fichiers du patch FragPunk du 22/10/2026 : le contenu n'est pas sorti et peut encore changer.</p>
+      </div>
+      <div>
+        <h4>Sources</h4>
+        <ul>
+          <li><a href="https://www.fragpunk.com/news/update/20261013/40588_1316523.html" target="_blank" rel="noopener">Annonce officielle (fragpunk.com)</a></li>
+          <li><a href="https://github.com/RyusAceVA/fragpunk-assets/blob/main/FARLANDS.md" target="_blank" rel="noopener">Base de connaissances FARLANDS.md</a></li>
+          <li><a href="https://github.com/RyusAceVA/fragpunk-assets/tree/main/farlands" target="_blank" rel="noopener">Fichiers extraits (dépôt)</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Pages</h4>
+        <ul>
+          <li><a href="textes.html">Explorateur de textes</a></li>
+          <li><a href="galerie.html">Galerie</a></li>
+          <li><a href="modeles.html">Modèles 3D</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="legal">Assets et textes © Bad Guitar Studio / NetEase. Site sans lien avec les éditeurs, aucune utilisation commerciale. <span id="year"></span></p>
+  </div>
+</footer>
+
+<script type="module" src="assets/js/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+# Publie le site FarLands (dossier site/) sur GitHub Pages.
+# Seul site/ est récupéré (checkout partiel) : le dépôt complet pèse plusieurs Go.
+# Les vidéos, modèles 3D et PNG d'origine restent dans le dépôt et sont servis par jsDelivr.
+name: Site FarLands
+
+on:
+  push:
+    branches: [main]
+    paths: ['site/**', '.github/workflows/pages.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: site
+          filter: blob:none
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
